@@ -34,7 +34,7 @@ Van de 374 zijn er 224 met een Wikipedia pagina. Daar zou je vanaf de beeldbank 
 
 ## Voorbeeldquery
 
-Wikidata is, net zoals ECHOES, met SPARQL te bevragen. Hieronder als voorbeeld de query die van de 374 personen alle personen ophaalt waarvan geboortedatum, geboorteplaats, overlijdensdatum en overlijdensplaats bekend zijn. Je kan de query kopiëren en draaien in [https://query.wikidata.org/](https://query.wikidata.org/)
+Wikidata is, net zoals ECHOES, met SPARQL te bevragen. Hieronder als voorbeeld de query die van de 374 personen alle personen ophaalt waarvan geboortedatum, geboorteplaats, overlijdensdatum en overlijdensplaats bekend zijn. Je kan de query kopiëren en draaien op de Wikidata SPARQLendpoint: [https://query.wikidata.org/](https://query.wikidata.org/)
 
 ```
 SELECT ?person ?personLabel ?geb ?gebplaatsLabel ?sterf ?sterfplaatsLabel WHERE {
