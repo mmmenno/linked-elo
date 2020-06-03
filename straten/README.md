@@ -22,5 +22,38 @@ Het is netjes om bij zo'n 'datum-van-oprichting-bewering' een bron te geven. Dat
 
 - [Database Geschiedenis Leidse Straatnamen](https://www.wikidata.org/wiki/Q95992074), die te raadplegen is op [online.leiden.nl/straatnaam/](https://online.leiden.nl/straatnaam/)
 - Het boekje [Gedemptegrachtenwandeling](https://www.wikidata.org/wiki/Q54925463)
-- Het [Leids Jaarboekje](https://www.wikidata.org/wiki/Q2486316), waarbij je met een aparte qualifier ook aan kunt geven om welk deel het gaat
-- 
+- Het [Leids Jaarboekje](https://www.wikidata.org/wiki/Q2486316), waarbij je met een aparte qualifier ook aan kunt geven om welk deel het gaat (zoals je ook kunt aangeven om welke pagina het gaat)
+- Het onlangs verschenen [Straatnamen in Leiden](https://www.wikidata.org/wiki/Q96031403)
+
+Verdwenen straten hebben niet alleen een 'datum van oprichting of creatie', maar ook een `P576` (datum van opheffing), zoals het geval is bij de [Zijdgracht](https://www.wikidata.org/wiki/Q32853176).
+
+## Alternatieve namen
+
+Een Wikidata item kan in verschillende talen een label, een beschrijving en alternatieve labels ('ook bekend als') hebben. De Oosterkerkstraat heeft als alternatieve labels Kerksteeg en Waardkerksteeg.
+
+Het is niet de bedoeling om allerlei spellingsvarianten als alternatief label aan Wikidata toe te voegen. Dat kan [verschrikkelijk uit de hand lopen](https://adamlink.nl/geo/street/sint-antoniesbreestraat/4096). Een variant als 'Kercsteech' zullen we dus in een eigen databestand op moeten slaan (waarbij we natuurlijk wel naar het Wikidata item kunnen verwijzen).
+
+Bij hernoemingen bij raadsbesluit kunnen we de property `P1448` (officiële naam) gebruiken. Het [Van der Sterrepad](https://www.wikidata.org/wiki/Q54935213) heette tot 1980 Burchtheuvelpad en daarvoor, tot 1917, Burchtgracht. Bij een officiële naam kan je ook begin- en of einddatum opgeven.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
