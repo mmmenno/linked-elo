@@ -50,7 +50,9 @@ Dat laatste is bijvoorbeeld het geval bij de [Paardensteeg](https://www.wikidata
 In zo'n geval kunnen we de property `P1366` (vervangen door) en het tegenovergestelde `P1365` (vervangt) gebruiken. Als een straat gesplitst wordt in meerdere straten geef je bij 'vervangen door' meerdere waardes.
 
 
+![kaart](imgs/stratenleiden-juno.jpg)
 
+De kaart met dateringen zoals die er begin juni 2020 uitzag.
 
 
 
