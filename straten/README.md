@@ -16,7 +16,7 @@ Met de property `P138` (vernoemd naar) geef je aan waar een straat naar vernoemd
 
 ## Periode van bestaan
 
-De datum waarop de fysieke straat is aangelegd geef je aan met de property `P571` (datum van oprichting of creatie). Mocht je een slag om de arm willen houden, dan kan je zo'n datum een precisie van een jaar, decennium, eeuw of desnoods een millenium meegeven. En vervolgens kan je met een 'qualifier' ook nog aangeven wat bijvoorbeeld binnen die eeuw de laatsmogelijke datum is. Handig als je niet precies weet wanneer een straat is aangelegd, maar wel een eerste vermelding hebt - zoals we bijvoorbeeld bij de [Oosterkerkstraat](https://www.wikidata.org/wiki/Q19395577) weten dat die in 1659 in een bron vermeld wordt als 'Kercsteech'.
+De datum waarop de fysieke straat is aangelegd geef je aan met de property `P571` (datum van oprichting of creatie). Mocht je een slag om de arm willen houden, dan kan je zo'n datum een precisie van een jaar, decennium, eeuw of desnoods een millenium meegeven. En vervolgens kan je met een 'qualifier' ook nog aangeven wat bijvoorbeeld binnen die eeuw de laatstmogelijke datum is. Handig als je niet precies weet wanneer een straat is aangelegd, maar wel een eerste vermelding hebt - zoals we bijvoorbeeld bij de [Oosterkerkstraat](https://www.wikidata.org/wiki/Q19395577) weten dat die in 1659 in een bron vermeld wordt als 'Kercsteech'.
 
 Het is netjes om bij zo'n 'datum-van-oprichting-bewering' een bron te geven. Dat kan met `P248` ('vermeld in'). Het helpt als de bron al over een eigen Wikidata item beschikt - kandidaten zijn bijvoorbeeld:
 
@@ -25,7 +25,7 @@ Het is netjes om bij zo'n 'datum-van-oprichting-bewering' een bron te geven. Dat
 - Het [Leids Jaarboekje](https://www.wikidata.org/wiki/Q2486316), waarbij je met een aparte qualifier ook aan kunt geven om welk deel het gaat (zoals je ook kunt aangeven om welke pagina het gaat)
 - Het onlangs verschenen [Straatnamen in Leiden](https://www.wikidata.org/wiki/Q96031403)
 
-Verdwenen straten hebben niet alleen een 'datum van oprichting of creatie', maar ook een `P576` (datum van opheffing), zoals het geval is bij de [Zijdgracht](https://www.wikidata.org/wiki/Q32853176).
+[Verdwenen straten](https://w.wiki/Soq) hebben niet alleen een 'datum van oprichting of creatie', maar ook een `P576` (datum van opheffing), zoals het geval is bij de [Zijdgracht](https://www.wikidata.org/wiki/Q32853176).
 
 ## Alternatieve namen
 
@@ -35,6 +35,19 @@ Het is niet de bedoeling om allerlei spellingsvarianten als alternatief label aa
 
 Bij hernoemingen bij raadsbesluit kunnen we de property `P1448` (officiële naam) gebruiken. Het [Van der Sterrepad](https://www.wikidata.org/wiki/Q54935213) heette tot 1980 Burchtheuvelpad en daarvoor, tot 1917, Burchtgracht. Bij een officiële naam kan je ook begin- en of einddatum opgeven.
 
+## Geometrie
+
+Wikidata items kunnen een 'geografische locatie' (property `P625`) hebben. Op het moment van schrijven zijn er nog [286 straten zonder geometrie](https://w.wiki/Sos). Dit zijn vooral in het kader van dit project toegevoegde recent aangelegde straten en 'paden' die tot dusver buiten de boot waren gevallen omdat er bij de landelijke import alleen straten met adressen zijn meegenomen.
+
+Om handmatig een geometrie te achterhalen kan je gebruik maken van een tooltje als [latlong.net](https://www.latlong.net/), waar je eenvoudig een punt kunt prikken en de coördinaten kopiëren.
+
+## Relaties tussen straten
+
+Bij een hernoeming is er geen reden om een nieuwe straat aan te maken. Aan de fysieke straat zelf verandert dan immers niets. Soms ligt dat anders, bijvoorbeeld als verschillende straten worden samengevoegd tot een nieuwe straat of een straat in meerdere nieuwe straten wordt gesplitst. Of als er een nieuwe straat wordt aangelegd die min of meer het traject van een oude straat volgt, maar daar toch op de één of andere manier van afwijkt.
+
+Dat laatste is bijvoorbeeld het geval bij de [Paardensteeg](https://www.wikidata.org/wiki/Q96050029), waarvan de bebouwing aan één zijde werd gesloopt om de tram doorgang te geven. De 'nieuwe' straat over hetzelfde traject is de huidige [Prinsessekade](https://www.wikidata.org/wiki/Q19435027).
+
+In zo'n geval kunnen we de property `P1366` (vervangen door) en het tegenovergestelde `P1365` (vervangt) gebruiken. Als een straat gesplitst wordt in meerdere straten geef je bij 'vervangen door' meerdere waardes.
 
 
 
