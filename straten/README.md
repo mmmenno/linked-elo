@@ -4,7 +4,7 @@ Op Wikidata zijn zo goed als alle straten binnen de gemeente Leiden te vinden. Z
 
 Als collectie-items (via de interne locatiethesaurus bijvoorbeeld) met die Wikidata straten verbonden zijn, hebben we onder andere toegang tot vernoemingen, periode van bestaan en alternatieve straatnamen.
 
-Vernoemingen en dateringen kunnen in Wikidata ook ingegeven worden. Op de kaart hieronder zie je dat er op moment van schrijven (mei 2020) nog geen enkele datering bekend is. Wel zijn er 163 vernoemingen bekend.
+Op de kaart hieronder zie je dat er op moment van schrijven (mei 2020) nog geen enkele datering bekend is. Wel zijn er 163 vernoemingen bekend. Onder de kaart volgt uitleg hoe je op Wikidata gegevens in kunt voeren en aan kunt passen.
 
 ![kaart](imgs/stratenleiden.png)
 
