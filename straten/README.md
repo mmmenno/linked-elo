@@ -33,7 +33,7 @@ Een Wikidata item kan in verschillende talen een label, een beschrijving en alte
 
 In het bestand [straatnaamvarianten.csv](straatnaamvarianten.csv) zijn naam- en spellingsvarianten met Wikidata items verbonden. In dit bestand kunnen we wel elke naam- en spellingsvariant kwijt. De variant 'Kercsteech' is hier prima op z'n plek. Sterker nog, hoe meer varianten we hier in opslaan, hoe makkelijker we straks namen in bronnen thuis kunnen brengen.
 
-Bij hernoemingen bij raadsbesluit kunnen we de property `P1448` (officiële naam) gebruiken. Het [Van der Sterrepad](https://www.wikidata.org/wiki/Q54935213) heette tot 1980 Burchtheuvelpad en daarvoor, tot 1917, Burchtgracht. Bij een officiële naam kan je ook begin- en of einddatum opgeven.
+Bij hernoemingen bij raadsbesluit kunnen we de property `P1448` (officiële naam) gebruiken. Het [Van der Sterrepad](https://www.wikidata.org/wiki/Q54935213) heette tot 1980 Burchtheuvelpad en daarvoor, tot 1917, Burchtgracht. Bij een officiële naam kan je ook begin- en of einddatum opgeven. Een lijstje met alle straten waarbij een officiële naam is opgegeven vind je [hier](https://w.wiki/TUb).
 
 ## Geometrie
 
