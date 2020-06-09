@@ -25,13 +25,13 @@ Het is netjes om bij zo'n 'datum-van-oprichting-bewering' een bron te geven. Dat
 - Het [Leids Jaarboekje](https://www.wikidata.org/wiki/Q2486316), waarbij je met een aparte qualifier ook aan kunt geven om welk deel het gaat (zoals je ook kunt aangeven om welke pagina het gaat)
 - Het onlangs verschenen [Straatnamen in Leiden](https://www.wikidata.org/wiki/Q96031403)
 
-[Verdwenen straten](https://w.wiki/Soq) hebben niet alleen een 'datum van oprichting of creatie', maar ook een `P576` (datum van opheffing), zoals het geval is bij de [Zijdgracht](https://www.wikidata.org/wiki/Q32853176).
+[Verdwenen straten](https://w.wiki/Soq) - ook [op de kaart](https://w.wiki/TUS) te bekijken - hebben niet alleen een 'datum van oprichting of creatie', maar ook een `P576` (datum van opheffing), zoals het geval is bij de [Zijdgracht](https://www.wikidata.org/wiki/Q32853176). 
 
 ## Alternatieve namen
 
-Een Wikidata item kan in verschillende talen een label, een beschrijving en alternatieve labels ('ook bekend als') hebben. De Oosterkerkstraat heeft als alternatieve labels 'Kerksteeg' en 'Waardkerksteeg'.
+Een Wikidata item kan in verschillende talen een label, een beschrijving en alternatieve labels ('ook bekend als') hebben. De [Oosterkerkstraat](https://www.wikidata.org/wiki/Q19395577) heeft als alternatieve labels 'Kerksteeg' en 'Waardkerksteeg'. Het is echter niet de bedoeling om elke spellingsvariant als alternatief label aan Wikidata toe te voegen. Dat kan [verschrikkelijk uit de hand lopen](https://adamlink.nl/geo/street/sint-antoniesbreestraat/4096).
 
-Het is niet de bedoeling om allerlei spellingsvarianten als alternatief label aan Wikidata toe te voegen. Dat kan [verschrikkelijk uit de hand lopen](https://adamlink.nl/geo/street/sint-antoniesbreestraat/4096). Een variant als 'Kercsteech' zullen we dus in een eigen databestand op moeten slaan (waarbij we natuurlijk wel naar het Wikidata item verwijzen).
+In het bestand [straatnaamvarianten.csv](straatnaamvarianten.csv) zijn naam- en spellingsvarianten met Wikidata items verbonden. In dit bestand kunnen we wel elke naam- en spellingsvariant kwijt. De variant 'Kercsteech' is hier prima op z'n plek. Sterker nog, hoe meer varianten we hier in opslaan, hoe makkelijker we straks namen in bronnen thuis kunnen brengen.
 
 Bij hernoemingen bij raadsbesluit kunnen we de property `P1448` (officiële naam) gebruiken. Het [Van der Sterrepad](https://www.wikidata.org/wiki/Q54935213) heette tot 1980 Burchtheuvelpad en daarvoor, tot 1917, Burchtgracht. Bij een officiële naam kan je ook begin- en of einddatum opgeven.
 
@@ -48,6 +48,8 @@ Bij een hernoeming is er geen reden om een nieuwe straat aan te maken. Aan de fy
 Dat laatste is bijvoorbeeld het geval bij de [Paardensteeg](https://www.wikidata.org/wiki/Q96050029), waarvan de bebouwing aan één zijde werd gesloopt om de tram doorgang te geven. De 'nieuwe' straat over hetzelfde traject is de huidige [Prinsessekade](https://www.wikidata.org/wiki/Q19435027).
 
 In zo'n geval kunnen we de property `P1366` (vervangen door) en het tegenovergestelde `P1365` (vervangt) gebruiken. Als een straat gesplitst wordt in meerdere straten geef je bij 'vervangen door' meerdere waardes.
+
+Een andere relatie is `P361` (onderdeel van). Zo was de [Aardappelmarkt](https://www.wikidata.org/wiki/Q96141664) onderdeel van de Oude Singel.
 
 
 ![kaart](imgs/stratenleiden-juno.jpg)
