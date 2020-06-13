@@ -49,7 +49,7 @@ Dat laatste is bijvoorbeeld het geval bij de [Paardensteeg](https://www.wikidata
 
 In zo'n geval kunnen we de property `P1366` (vervangen door) en het tegenovergestelde `P1365` (vervangt) gebruiken. Als een straat gesplitst wordt in meerdere straten geef je bij 'vervangen door' meerdere waardes. Als een nieuwe straat een samenvoeging is van meerdere straten geef je bij 'vervangt' meerdere waardes.
 
-Ergens in de eerste decennia van de 20ste eeuw ging de (Dwarsherensteeg)[https://www.wikidata.org/wiki/Q96249394] op in de al bestaande Scheepmakerssteeg. In zo'n geval kan je de property `P7888` (opgegaan in) gebruiken.
+Ergens in de eerste decennia van de 20ste eeuw ging de [Dwarsherensteeg](https://www.wikidata.org/wiki/Q96249394) op in de al bestaande Scheepmakerssteeg. In zo'n geval kan je de property `P7888` (opgegaan in) gebruiken.
 
 Een andere relatie is `P361` (onderdeel van). Zo was de [Aardappelmarkt](https://www.wikidata.org/wiki/Q96141664) onderdeel van de Oude Singel.
 
