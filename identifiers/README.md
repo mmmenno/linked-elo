@@ -1,0 +1,5 @@
+# Identifiers
+
+Om data goed met elkaar te kunnen verbinden hebben we goede identifiers nodig - om bruikbaar te zijn in zowel linked data als browsers in de vorm van een URI (Uniform Resource Identifier - niets meer dan een url die je gebruikt om iets mee te identificeren).
+
+Veel externe terminologiebronnen beschikken al over URIs. De URI van het Wikidata-item over Janus Doesa is [http://www.wikidata.org/entity/Q1229819](http://www.wikidata.org/entity/Q1229819), de URI van molen De Valk in de BAG (Basisadministratie Adressen en Gebouwen) is [http://bag.basisregistraties.overheid.nl/bag/id/pand/0546100000044130](http://bag.basisregistraties.overheid.nl/bag/id/pand/0546100000044130), de URI van het concept houtskooltekeningen in de AAT (Artist & Architecture Thesaurus) is [http://vocab.getty.edu/aat/300390908](http://vocab.getty.edu/aat/300390908).
