@@ -18,4 +18,4 @@ Deze repository bevat referentiedata waarmee de collecties van Erfgoed Leiden be
 ## Identifiers en datamodel in RDF
 
 - [Identifiers](identifiers)
-- [Datamodel](datamodel)
+- [RDF sDatamodel](rdfmodel)

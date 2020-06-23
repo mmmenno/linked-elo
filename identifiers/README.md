@@ -38,10 +38,9 @@ Met de term 'referentiedata' wordt hier gedoeld op interne thesauri of lijsten w
 
 Alleen voor personen en organisaties worden nu al minstens drie lijsten gebruikt: vervaardigers, rechthebbenden en personen (als onderwerp). In het ideale geval worden die lijsten samengevoegd tot één lijst. Al die lijsten gebruiken uuids, wat integratie eenvoudiger maakt. Wel zullen er personen zijn die op meerdere lijsten voorkomen en samengevoegd moeten worden.
 
-Behalve personen zouden ook organisaties opgenomen kunnen worden, denk bijvoorbeeld aan archiefvormers. Een mooi tussenvoegsel om zowel persoon als organisatie mee aan te duiden is lastig te vinden. Misschien kunnen we er gewoon twee maken, dan zie je ook meteen waar het over gaat.
+Behalve personen zouden ook organisaties opgenomen kunnen worden, denk bijvoorbeeld aan archiefvormers. Een mooi tussenvoegsel om zowel persoon als organisatie mee aan te duiden is lastig te vinden. Misschien moeten we, net als in zoveel andere systemen, gewoon doen alsof onze neus bloedt en het tussenvoegsel `person` gebruiken.
 
 `https://id.erfgoedleiden.nl/person/b287c33c-2746-11e3-9d80-3cd92befe4f8`
-`https://id.erfgoedleiden.nl/organisation/266b386e-e9dd-11e0-9060-e7b9c1343538`
 
 Locaties zouden zoveel mogelijk rechtstreeks kunnen verwijzen naar Wikidata, GeoNames en BAG. Wellicht dat een eigen lijst met eigen identifiers helemaal niet nodig is.
 
