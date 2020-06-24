@@ -12,10 +12,11 @@ Deze repository bevat referentiedata waarmee de collecties van Erfgoed Leiden be
 ## Locaties
 
 - [Straten](straten) - dateringen, vernoemingen en koppelingen met de BAG
+- [Gebouwen](gebouwen) - rijksmonumenten, BAG en verdwenen gebouwen
 
 ## Gebeurtenissen
 
 ## Identifiers en datamodel in RDF
 
 - [Identifiers](identifiers)
-- [RDF sDatamodel](rdfmodel)
+- [RDF Datamodel](rdfmodel)
