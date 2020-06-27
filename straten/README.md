@@ -4,7 +4,7 @@ Op Wikidata zijn zo goed als alle straten binnen de gemeente Leiden te vinden. Z
 
 Als collectie-items (via de interne locatiethesaurus bijvoorbeeld) met die Wikidata straten verbonden zijn, hebben we onder andere toegang tot vernoemingen, periode van bestaan en alternatieve straatnamen.
 
-Op de kaart hieronder zie je dat er op moment van schrijven (mei 2020) nog geen enkele datering bekend is. Wel zijn er 163 vernoemingen bekend. Onder de kaart volgt uitleg hoe je op Wikidata gegevens in kunt voeren en aan kunt passen.
+Die gegevens zijn nog lang niet voor elke straat ingevoerd. Onder de kaart volgt uitleg hoe je op Wikidata gegevens in kunt voeren en aan kunt passen.
 
 ![kaart](imgs/stratenleiden.png)
 
@@ -58,11 +58,15 @@ Een andere relatie is `P361` (onderdeel van). Zo was de [Aardappelmarkt](https:/
 
 De kaart met dateringen zoals die er begin juni 2020 uitzag.
 
+## Relaties met collectiedata
 
+Als we collectie-items verbinden met Wikidata straten kunnen we de collectie - de coördinaten zijn zo immers bekend - op de kaart tonen.
 
+![kaart](imgs/afbeeldingen.jpg)
 
+[Deze kaart](https://hicsuntleones.nl/elo/stratenkaart/) geeft een beeld van de aantallen afbeeldingen uit de beeldbank per straat. En dus ook van de witte (of zwarte, in dit geval) vlekken in de collectie.
 
-
+En ook met andere gegevens kan je zo iets doen. Het wordt bijvoorbeeld makkelijker afbeeldingen van verdwenen straten op te vragen, of van straten die in een bepaalde periode zijn aangelegd. In Amsterdam maakte ik ooit [Pionieren in Amsterdam](http://lab.adamlink.nl/pionieren/), waarin foto's getoond worden die gemaakt zijn binnen twee jaar na aanleg van een straat.
 
 
 

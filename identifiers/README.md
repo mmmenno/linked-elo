@@ -44,6 +44,7 @@ Alleen voor personen en organisaties worden nu al minstens drie lijsten gebruikt
 Totdat het systeem om kan gaan met zo'n samengevoegde lijst gebruiken we identifiers in twee vormen, één voor vervaardigers en één voor personen (als onderwerp).
 
 `https://id.erfgoedleiden.nl/creator/7184a0aa-2744-11e3-abe3-3cd92befe4f8`
+
 `https://id.erfgoedleiden.nl/person/b287c33c-2746-11e3-9d80-3cd92befe4f8`
 
 Locaties zouden zoveel mogelijk rechtstreeks kunnen verwijzen naar Wikidata, GeoNames en BAG. Wellicht dat een eigen lijst met eigen identifiers helemaal niet nodig is.
@@ -65,6 +66,7 @@ Als entiteiten komen die persoonsobservaties nu eigenlijk, net als persoonsrecon
 Je zou identifiers kunnen samenstellen met de id's zoals ze in de HLIK database voorkomen - let er wel op dat dit geen uuids zijn.
 
 `https://id.erfgoedleiden.nl/personobservation/2446`
+
 `https://id.erfgoedleiden.nl/personreconstruction/2580`
 
 
