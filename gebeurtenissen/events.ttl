@@ -1,0 +1,1727 @@
+
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> . 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
+@prefix wd: <http://www.wikidata.org/entity/> . 
+@prefix dc: <http://purl.org/dc/elements/1.1/> . 
+@prefix elobb: <https://id.erfgoedleiden.nl/> . 
+@prefix eloevent: <https://id.erfgoedleiden.nl/event/> . 
+@prefix schema: <http://schema.org/> . 
+
+eloevent:e5d7037b-7101-4d46-b4cb-45190ca0d596
+	sem:eventType wd:Q3769366 ; 
+	rdfs:label "Van der Werff biedt zijn degen aan het muitend volk" ; 
+	sem:hasEarliestBeginTimeStamp "1574-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1574-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1574-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1574-12-31"^^xsd:date ;
+	sem:hasActor wd:Q2242334 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q3769366 a sem:EventType . 
+wd:Q2242334 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:151a9f1e-9fc9-64d4-4750-9236714cc81e dc:subject eloevent:e5d7037b-7101-4d46-b4cb-45190ca0d596 .
+
+eloevent:90fce2fc-b2a1-4517-93a2-0c6184b3acb1
+	sem:eventType wd:Q2001676 ; 
+	rdfs:label "De Vrijheid leidt de geuzen in de aanval" ; 
+	sem:hasEarliestBeginTimeStamp "1574-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1574-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1574-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1574-12-31"^^xsd:date ;
+	sem:hasActor wd:Q699636 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q2001676 a sem:EventType . 
+wd:Q699636 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:2b15086c-ead1-0680-a6e6-4a6e525d009c dc:subject eloevent:90fce2fc-b2a1-4517-93a2-0c6184b3acb1 .
+
+eloevent:722bd0d6-776e-4819-aafe-82aca889662b
+	sem:eventType wd:Q188055 ; 
+	rdfs:label "De Spanjaarden naderen Leiden" ; 
+	sem:hasEarliestBeginTimeStamp "1574-05-26"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1574-05-26"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1574-05-26"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1574-05-26"^^xsd:date ;
+	sem:hasActor wd:Q5296947 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q188055 a sem:EventType . 
+wd:Q5296947 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:6270f3d6-8bd1-b089-3676-1c1937781173 dc:subject eloevent:722bd0d6-776e-4819-aafe-82aca889662b .
+
+eloevent:2127a53f-cabe-4e39-8989-7188869d6592
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Willem van Oranje bezoekt Leiden na het ontzet" ; 
+	sem:hasEarliestBeginTimeStamp "1574-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1574-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1574-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1574-12-31"^^xsd:date ;
+	sem:hasActor wd:Q78454 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q78454 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:061f4dde-d370-4cbb-9e7d-10704b6657d9 dc:subject eloevent:2127a53f-cabe-4e39-8989-7188869d6592 .
+
+eloevent:5cf21473-9a3a-457c-a096-7c6f35f9efaa
+	sem:eventType wd:Q1345265 ; 
+	rdfs:label "Ontzet van Leiden" ; 
+	sem:hasEarliestBeginTimeStamp "1574-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1574-10-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1574-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1574-10-03"^^xsd:date ;
+	sem:hasActor wd:Q2029987 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q1345265 a sem:EventType . 
+wd:Q2029987 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:07a73dc5-9b54-4eff-bd41-e21f6ef7c4b2 dc:subject eloevent:5cf21473-9a3a-457c-a096-7c6f35f9efaa .
+elobb:1a2d0216-26bd-11e3-ab5d-3cd92befe4f8 dc:subject eloevent:5cf21473-9a3a-457c-a096-7c6f35f9efaa .
+
+eloevent:1fa9269a-b85b-4576-b0ec-673ff0e527c5
+	sem:eventType wd:Q188055 ; 
+	rdfs:label "Beleg van Leiden" ; 
+	sem:hasEarliestBeginTimeStamp "1573-10-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1573-10-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1574-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1574-10-03"^^xsd:date ;
+	sem:hasActor wd:Q80847 ;
+	sem:hasActor wd:Q5296947 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q188055 a sem:EventType . 
+wd:Q80847 a sem:Actor .
+wd:Q5296947 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:7eb9efef-f5fa-d525-0274-f0b35bcbe25a dc:subject eloevent:1fa9269a-b85b-4576-b0ec-673ff0e527c5 .
+elobb:3514d6fa-158e-0c77-73e7-6c3c5024e649 dc:subject eloevent:1fa9269a-b85b-4576-b0ec-673ff0e527c5 .
+elobb:7bf05b5d-6798-5ecc-845c-23f862c64ab0 dc:subject eloevent:1fa9269a-b85b-4576-b0ec-673ff0e527c5 .
+elobb:ff740b5e-0a63-f529-1aea-93546ae3b001 dc:subject eloevent:1fa9269a-b85b-4576-b0ec-673ff0e527c5 .
+
+eloevent:253baaf3-61b6-42c6-9903-906c830aa7b4
+	sem:eventType wd:Q180684 ; 
+	rdfs:label "Verdediging van de Remonstrantsgezinde vroedschap" ; 
+	sem:hasEarliestBeginTimeStamp "1617-10-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1617-10-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1618-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1618-12-31"^^xsd:date ;
+	sem:hasActor wd:Q95606833 ;
+	sem:hasActor wd:Q1129103 ;
+	sem:hasPlace wd:Q2946957 ;
+	a sem:Event . 
+
+wd:Q180684 a sem:EventType . 
+wd:Q95606833 a sem:Actor .
+wd:Q1129103 a sem:Actor .
+wd:Q2946957 a sem:Place .
+
+elobb:a6f92180-26bc-11e3-8f95-3cd92befe4f8 dc:subject eloevent:253baaf3-61b6-42c6-9903-906c830aa7b4 .
+elobb:a6f9ce3c-26bc-11e3-928c-3cd92befe4f8 dc:subject eloevent:253baaf3-61b6-42c6-9903-906c830aa7b4 .
+
+eloevent:c4c94a60-1527-45dc-9a54-aae4dc0efc82
+	sem:eventType wd:Q180684 ; 
+	rdfs:label "Bestandstwisten tussen remonstranten en contraremonstranten" ; 
+	sem:hasEarliestBeginTimeStamp "1618-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1618-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1618-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1618-12-31"^^xsd:date ;
+	sem:hasActor wd:Q284561 ;
+	sem:hasActor wd:Q1129103 ;
+	a sem:Event . 
+
+wd:Q180684 a sem:EventType . 
+wd:Q284561 a sem:Actor .
+wd:Q1129103 a sem:Actor .
+
+elobb:a6fad764-26bc-11e3-9e35-3cd92befe4f8 dc:subject eloevent:c4c94a60-1527-45dc-9a54-aae4dc0efc82 .
+elobb:a6fb3a2e-26bc-11e3-8eaf-3cd92befe4f8 dc:subject eloevent:c4c94a60-1527-45dc-9a54-aae4dc0efc82 .
+elobb:a6fcdcbc-26bc-11e3-8d8a-3cd92befe4f8 dc:subject eloevent:c4c94a60-1527-45dc-9a54-aae4dc0efc82 .
+
+eloevent:18941703-a1f0-4576-b335-1f83268c7244
+	sem:eventType wd:Q61509 ; 
+	rdfs:label "De reis van de Mayflower" ; 
+	sem:hasEarliestBeginTimeStamp "1620-09-06"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1620-09-06"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1620-11-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1620-11-30"^^xsd:date ;
+	sem:hasActor wd:Q187093 ;
+	sem:hasPlace wd:Q97 ;
+	a sem:Event . 
+
+wd:Q61509 a sem:EventType . 
+wd:Q187093 a sem:Actor .
+wd:Q97 a sem:Place .
+
+elobb:c6936e56-26bc-11e3-8e1c-3cd92befe4f8 dc:subject eloevent:18941703-a1f0-4576-b335-1f83268c7244 .
+
+eloevent:ae6848f9-8f4a-48ae-89a6-1b708291f2d4
+	sem:eventType wd:Q8454 ; 
+	rdfs:label "Onthoofding van Arminiaanse samenzweerders" ; 
+	sem:hasEarliestBeginTimeStamp "1623-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1623-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1623-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1623-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q2125359 ;
+	a sem:Event . 
+
+wd:Q8454 a sem:EventType . 
+wd:Q2125359 a sem:Place .
+
+elobb:db815fb2-26bc-11e3-bc34-3cd92befe4f8 dc:subject eloevent:ae6848f9-8f4a-48ae-89a6-1b708291f2d4 .
+elobb:a6fc35c8-26bc-11e3-a140-3cd92befe4f8 dc:subject eloevent:ae6848f9-8f4a-48ae-89a6-1b708291f2d4 .
+
+eloevent:3f0f0c57-f8c0-4ed9-b21c-20e398331960
+	sem:eventType wd:Q1322005 ; 
+	rdfs:label "Ongewone Waterbeweging in het Haarlemmer-Meer" ; 
+	sem:hasEarliestBeginTimeStamp "1755-11-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1755-11-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1755-11-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1755-11-01"^^xsd:date ;
+	sem:hasPlace wd:Q53477141 ;
+	a sem:Event . 
+
+wd:Q1322005 a sem:EventType . 
+wd:Q53477141 a sem:Place .
+
+elobb:613579ad-5662-18e5-4a1c-beadce01a32f dc:subject eloevent:3f0f0c57-f8c0-4ed9-b21c-20e398331960 .
+
+eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942
+	sem:eventType wd:Q168983 ; 
+	rdfs:label "Brand aan de Hoogstraat" ; 
+	sem:hasEarliestBeginTimeStamp "1766-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1766-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1766-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1766-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q2101046 ;
+	a sem:Event . 
+
+wd:Q168983 a sem:EventType . 
+wd:Q2101046 a sem:Place .
+
+elobb:edac0c49-028b-f01b-c321-92b79ebe803e dc:subject eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942 .
+elobb:0db056c9-f18b-f404-e657-b6d445459080 dc:subject eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942 .
+elobb:33fed689-c81b-6c56-ac76-d591e3ffb057 dc:subject eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942 .
+elobb:42e86ac5-d299-b736-6e0e-37a5dd705dbf dc:subject eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942 .
+elobb:6da9d12d-8442-6595-9420-43365afa7ab0 dc:subject eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942 .
+elobb:71d633e7-7132-9e82-b232-222edfd06a09 dc:subject eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942 .
+elobb:a3471040-43a7-f81e-ec7a-9832f89bac09 dc:subject eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942 .
+elobb:adbb09dd-a321-d7de-4270-6a6d44d9420f dc:subject eloevent:25cd2fda-3b72-418f-b9a6-ba90b606c942 .
+
+eloevent:e1e9f764-f10d-48df-bcfc-f07f49e32896
+	sem:eventType wd:Q15955568 ; 
+	rdfs:label "Tweede eeuwfeest van de Leidse Universiteit" ; 
+	sem:hasEarliestBeginTimeStamp "1775-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1775-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1775-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1775-12-31"^^xsd:date ;
+	sem:hasActor wd:Q156598 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q15955568 a sem:EventType . 
+wd:Q156598 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:5895cef5-b220-7dc0-6451-275e30c1ac11 dc:subject eloevent:e1e9f764-f10d-48df-bcfc-f07f49e32896 .
+elobb:12a51aa1-dddf-1160-6f60-d6aa2bb44bc5 dc:subject eloevent:e1e9f764-f10d-48df-bcfc-f07f49e32896 .
+elobb:1dca0fec-f1b0-82ed-045c-c1a118f37f67 dc:subject eloevent:e1e9f764-f10d-48df-bcfc-f07f49e32896 .
+elobb:8a1864a2-7130-19c1-5944-6e53b932b227 dc:subject eloevent:e1e9f764-f10d-48df-bcfc-f07f49e32896 .
+elobb:9566da66-e993-a85d-bcfa-72ac94947fc0 dc:subject eloevent:e1e9f764-f10d-48df-bcfc-f07f49e32896 .
+elobb:b0999feb-9d19-e571-86ef-d4abd941d9f3 dc:subject eloevent:e1e9f764-f10d-48df-bcfc-f07f49e32896 .
+
+eloevent:03fc9f79-d9b5-47f9-aeff-0c4009bdf669
+	sem:eventType wd:Q365680 ; 
+	rdfs:label "Mishandeling van Pieter van den Bosch" ; 
+	sem:hasEarliestBeginTimeStamp "1787-09-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1787-09-30"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1787-09-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1787-09-30"^^xsd:date ;
+	sem:hasActor wd:Q40866401 ;
+	sem:hasPlace wd:Q33528284 ;
+	a sem:Event . 
+
+wd:Q365680 a sem:EventType . 
+wd:Q40866401 a sem:Actor .
+wd:Q33528284 a sem:Place .
+
+elobb:17deafb5-e2e6-0fd7-fc17-27d62c80d55d dc:subject eloevent:03fc9f79-d9b5-47f9-aeff-0c4009bdf669 .
+
+eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b
+	sem:eventType wd:Q3839081 ; 
+	rdfs:label "Leidse Buskruitramp" ; 
+	sem:hasEarliestBeginTimeStamp "1807-01-12"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1807-01-12"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1807-01-12"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1807-01-12"^^xsd:date ;
+	sem:hasPlace wd:Q2597656 ;
+	a sem:Event . 
+
+wd:Q3839081 a sem:EventType . 
+wd:Q2597656 a sem:Place .
+
+elobb:02cde5f3-f789-d161-8a98-55dc2e8eef00 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:1751f20e-26bd-11e3-990a-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:175374e4-26bd-11e3-aa24-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:1753eed8-26bd-11e3-ab4a-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:a74b64fe-26bc-11e3-80b7-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:a74bb346-26bc-11e3-9caf-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:a74c0b48-26bc-11e3-b2f2-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:a74c585a-26bc-11e3-8f27-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:a74ca5bc-26bc-11e3-b732-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:a74cfdc8-26bc-11e3-bd4c-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+elobb:a8513018-26bc-11e3-acca-3cd92befe4f8 dc:subject eloevent:eba2c757-6a6d-4836-ab77-fbec2cdac80b .
+
+eloevent:5a773306-9450-4e37-9f5f-e93ab13f0fc3
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Koning Willem I bezoekt het ingestorte Zeemagazijn te Amsterdam" ; 
+	sem:hasEarliestBeginTimeStamp "1823-04-16"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1823-04-16"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1823-04-16"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1823-04-16"^^xsd:date ;
+	sem:hasActor wd:Q2079957 ;
+	sem:hasPlace wd:Q29944149 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q2079957 a sem:Actor .
+wd:Q29944149 a sem:Place .
+
+elobb:c69ad34e-26bc-11e3-b6b9-3cd92befe4f8 dc:subject eloevent:5a773306-9450-4e37-9f5f-e93ab13f0fc3 .
+
+eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Optocht gehouden door de studenten van de Leidse Hogeschool  voorstellende de Intocht van Ferdinand en Isabella in Grenada op 6 Januari 1492" ; 
+	sem:hasEarliestBeginTimeStamp "1835-02-09"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1835-02-09"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1835-02-09"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1835-02-09"^^xsd:date ;
+	sem:hasActor wd:Q156598 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q156598 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:1739370a-26bd-11e3-afb8-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:1739790e-26bd-11e3-8522-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:1739c3f0-26bd-11e3-9b16-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:173a4186-26bd-11e3-a4a1-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:173a893e-26bd-11e3-a7f6-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:173ad5e2-26bd-11e3-a5f4-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:173b521a-26bd-11e3-a45b-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:173da448-26bd-11e3-be17-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:1768b322-26bd-11e3-ba3d-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+elobb:a77ba5ce-26bc-11e3-8850-3cd92befe4f8 dc:subject eloevent:7a3077cd-168f-4f0b-a255-a8d8173e3317 .
+
+eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088
+	sem:eventType wd:Q15955568 ; 
+	rdfs:label "Viering van het 280-jarig bestaan der Hoogeschol te Leiden" ; 
+	sem:hasEarliestBeginTimeStamp "1855-06-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1855-06-30"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1855-06-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1855-06-30"^^xsd:date ;
+	sem:hasActor wd:Q156598 ;
+	sem:hasPlace wd:Q2946957 ;
+	a sem:Event . 
+
+wd:Q15955568 a sem:EventType . 
+wd:Q156598 a sem:Actor .
+wd:Q2946957 a sem:Place .
+
+elobb:19790b30-26bd-11e3-a157-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+elobb:1979494c-26bd-11e3-a893-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+elobb:19799622-26bd-11e3-9234-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+elobb:1979e30c-26bd-11e3-b9a5-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+elobb:197a2e02-26bd-11e3-8b0e-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+elobb:197a7470-26bd-11e3-bc5b-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+elobb:197ac240-26bd-11e3-a58e-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+elobb:197b2172-26bd-11e3-974a-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+elobb:197b6588-26bd-11e3-bb06-3cd92befe4f8 dc:subject eloevent:42d0d70a-51be-40d7-bbfa-87b3867d1088 .
+
+eloevent:57a558f3-dc95-4092-8575-7c975c70d103
+	sem:eventType wd:Q15051339 ; 
+	rdfs:label "Heropening van de zweminrichting \'Rhijnzigt\'" ; 
+	sem:hasEarliestBeginTimeStamp "1861-05-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1861-05-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1861-05-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1861-05-01"^^xsd:date ;
+	sem:hasPlace wd:Q19350677 ;
+	a sem:Event . 
+
+wd:Q15051339 a sem:EventType . 
+wd:Q19350677 a sem:Place .
+
+elobb:00ffa622-26bd-11e3-8592-3cd92befe4f8 dc:subject eloevent:57a558f3-dc95-4092-8575-7c975c70d103 .
+
+eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1
+	sem:eventType wd:Q168983 ; 
+	rdfs:label "Brand Katoenfabriek van De Heyder & Co" ; 
+	sem:hasEarliestBeginTimeStamp "1861-12-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1861-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1861-12-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1861-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q2982366 ;
+	a sem:Event . 
+
+wd:Q168983 a sem:EventType . 
+wd:Q2982366 a sem:Place .
+
+elobb:0e631a1a-26bd-11e3-a853-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:0e63631c-26bd-11e3-82ed-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:0e63ac5a-26bd-11e3-9ee4-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:0e63fae8-26bd-11e3-9d20-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:0e644228-26bd-11e3-8688-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:0e64a8ee-26bd-11e3-867e-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:0e64ef7a-26bd-11e3-b5f4-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:0e655f8c-26bd-11e3-86cf-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:0e65a3d4-26bd-11e3-98f4-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:1b398e72-26bd-11e3-bf7a-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:cd2df178-26bc-11e3-a423-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+elobb:cd2e4b78-26bc-11e3-af74-3cd92befe4f8 dc:subject eloevent:47aa3e8a-a3dd-4d62-a088-79333af870d1 .
+
+eloevent:32dd296f-9118-436d-99ff-1e23710803a5
+	sem:eventType wd:Q1445650 ; 
+	rdfs:label "Drie Oktoberviering 1874" ; 
+	sem:hasEarliestBeginTimeStamp "1874-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1874-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1874-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1874-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q1445650 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:2e8d0798-f1c0-6ead-caa9-660efabbc97d dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:0d755d0f-20a8-08f1-503b-188072b8463f dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:126e607f-bf33-b2bd-16c5-0ae41fb7e679 dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:19677594-6ce7-6b17-fc16-8f81339287b0 dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:30ef326f-dd56-7fe8-4561-fafa071e2b78 dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:338b73cf-b9f2-da96-8aab-0e447fd9be2d dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:374d9e4f-f971-d4a8-7a27-095071e8dba7 dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:68a8c73b-0997-7fd1-38af-13cfba2be065 dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:c41e071c-26bc-11e3-bd7f-3cd92befe4f8 dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+elobb:e2dc985a-c6af-f830-bd97-b748efc0f190 dc:subject eloevent:32dd296f-9118-436d-99ff-1e23710803a5 .
+
+eloevent:31349e72-56c1-4d5c-89f4-9794ecf296e6
+	sem:eventType wd:Q657221 ; 
+	rdfs:label "Diner ter gelegenheid van de reünie van de Eglise Wallone" ; 
+	sem:hasEarliestBeginTimeStamp "1876-06-26"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1876-06-26"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1876-06-26"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1876-06-26"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q657221 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:0b695e3b-3ee8-0705-589e-f1d925de6303 dc:subject eloevent:31349e72-56c1-4d5c-89f4-9794ecf296e6 .
+
+eloevent:a053bac4-82ac-4e43-a80b-15124c891aa3
+	sem:eventType wd:Q50378760 ; 
+	rdfs:label "Seriemoorden van \'Goede Mie\'" ; 
+	sem:hasEarliestBeginTimeStamp "1879-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1879-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1883-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1883-12-31"^^xsd:date ;
+	sem:hasActor wd:Q2185638 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q50378760 a sem:EventType . 
+wd:Q2185638 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:6a78402b-8a74-4953-630f-f11ca0ec4265 dc:subject eloevent:a053bac4-82ac-4e43-a80b-15124c891aa3 .
+elobb:a702fc5a-26bc-11e3-a7b9-3cd92befe4f8 dc:subject eloevent:a053bac4-82ac-4e43-a80b-15124c891aa3 .
+elobb:a7035646-26bc-11e3-a472-3cd92befe4f8 dc:subject eloevent:a053bac4-82ac-4e43-a80b-15124c891aa3 .
+
+eloevent:e7c1de54-cd17-4c7f-b2cc-ff1423eacb06
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Maskerade" ; 
+	sem:hasEarliestBeginTimeStamp "1880-06-22"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1880-06-22"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1880-06-22"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1880-06-22"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:a787108a-26bc-11e3-9c6a-3cd92befe4f8 dc:subject eloevent:e7c1de54-cd17-4c7f-b2cc-ff1423eacb06 .
+
+eloevent:0e006f97-1ad2-4565-a76c-bed2e73569e5
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Maskerade gehouden door de leden van het Leidse Studentencorps ter gelegenheid van de 310e verjaardag van de Universiteit" ; 
+	sem:hasEarliestBeginTimeStamp "1885-06-23"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1885-06-23"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1885-06-23"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1885-06-23"^^xsd:date ;
+	sem:hasActor wd:Q156598 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q156598 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:a3da5c44-26bc-11e3-aa88-3cd92befe4f8 dc:subject eloevent:0e006f97-1ad2-4565-a76c-bed2e73569e5 .
+elobb:a3dab356-26bc-11e3-b647-3cd92befe4f8 dc:subject eloevent:0e006f97-1ad2-4565-a76c-bed2e73569e5 .
+elobb:a3dafffa-26bc-11e3-b696-3cd92befe4f8 dc:subject eloevent:0e006f97-1ad2-4565-a76c-bed2e73569e5 .
+
+eloevent:a2eb3a6c-7a0b-4145-9230-b4ecfcd7e5d9
+	sem:eventType wd:Q478515 ; 
+	rdfs:label "Bal ter gelegenheid van het 25-jarig bestaan van Societeit Concordia" ; 
+	sem:hasEarliestBeginTimeStamp "1887-06-29"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1887-06-29"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1887-06-29"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1887-06-29"^^xsd:date ;
+	sem:hasPlace wd:Q2579209 ;
+	a sem:Event . 
+
+wd:Q478515 a sem:EventType . 
+wd:Q2579209 a sem:Place .
+
+elobb:19a7e07d-17aa-099a-3af1-87f08c7f16fc dc:subject eloevent:a2eb3a6c-7a0b-4145-9230-b4ecfcd7e5d9 .
+
+eloevent:9db71ee9-dcb9-41eb-b05a-e4559b083ccd
+	sem:eventType wd:Q657221 ; 
+	rdfs:label "Diner op het 2e Natuur- en Geneeskundige congres" ; 
+	sem:hasEarliestBeginTimeStamp "1889-04-27"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1889-04-27"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1889-04-27"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1889-04-27"^^xsd:date ;
+	sem:hasPlace wd:Q2058912 ;
+	a sem:Event . 
+
+wd:Q657221 a sem:EventType . 
+wd:Q2058912 a sem:Place .
+
+elobb:0b5a9b1d-2cc3-f9cd-0cee-335ec866ec5c dc:subject eloevent:9db71ee9-dcb9-41eb-b05a-e4559b083ccd .
+
+eloevent:f1b2d800-910f-4d87-8900-30f459a22226
+	sem:eventType wd:Q168983 ; 
+	rdfs:label "Brand in de fabriek van de Leidsche Katoen Maatschappij" ; 
+	sem:hasEarliestBeginTimeStamp "1897-06-24"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1897-06-24"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1897-06-24"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1897-06-24"^^xsd:date ;
+	sem:hasPlace wd:Q2982366 ;
+	a sem:Event . 
+
+wd:Q168983 a sem:EventType . 
+wd:Q2982366 a sem:Place .
+
+elobb:be7aea50-26bc-11e3-a608-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:0e663498-26bd-11e3-9bb6-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:0e667c78-26bd-11e3-a896-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:0e69007e-26bd-11e3-9600-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:0e69478c-26bd-11e3-87cc-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:0e698864-26bd-11e3-b5b9-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7b46c6-26bc-11e3-9e89-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7baae4-26bc-11e3-a5ca-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7cb3d0-26bc-11e3-8fa8-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7d123a-26bc-11e3-9f82-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7e3070-26bc-11e3-8cd6-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7ee286-26bc-11e3-aca1-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7f36fa-26bc-11e3-bc86-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7f8b3c-26bc-11e3-aade-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be7fd7c2-26bc-11e3-9b3d-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be8025d8-26bc-11e3-abaa-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be809752-26bc-11e3-9813-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be80e7d4-26bc-11e3-9033-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be8139c8-26bc-11e3-8981-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be81e738-26bc-11e3-982a-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be823a62-26bc-11e3-b042-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+elobb:be82e642-26bc-11e3-8dae-3cd92befe4f8 dc:subject eloevent:f1b2d800-910f-4d87-8900-30f459a22226 .
+
+eloevent:ced1ca5d-8d40-4b40-9262-ce2e354117d8
+	sem:eventType wd:Q200538 ; 
+	rdfs:label "Festiviteiten Kroningsfeest Koningin Wilhelmina" ; 
+	sem:hasEarliestBeginTimeStamp "1898-08-31"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1898-08-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1898-08-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1898-08-31"^^xsd:date ;
+	sem:hasActor wd:Q150747 ;
+	sem:hasPlace wd:Q455464 ;
+	a sem:Event . 
+
+wd:Q200538 a sem:EventType . 
+wd:Q150747 a sem:Actor .
+wd:Q455464 a sem:Place .
+
+elobb:0c0e4bbb-3fd3-dad0-f896-0bce7b8077f9 dc:subject eloevent:ced1ca5d-8d40-4b40-9262-ce2e354117d8 .
+elobb:febe38d8-26bc-11e3-9817-3cd92befe4f8 dc:subject eloevent:ced1ca5d-8d40-4b40-9262-ce2e354117d8 .
+
+eloevent:71a9351a-f308-4c26-800b-fb11694eb9cd
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Maskerade optocht" ; 
+	sem:hasEarliestBeginTimeStamp "1900-06-19"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1900-06-19"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1900-06-19"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1900-06-19"^^xsd:date ;
+	sem:hasPlace wd:Q2597656 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q2597656 a sem:Place .
+
+elobb:16a67d2a-26bd-11e3-ae57-3cd92befe4f8 dc:subject eloevent:71a9351a-f308-4c26-800b-fb11694eb9cd .
+elobb:16a6cdca-26bd-11e3-a3a2-3cd92befe4f8 dc:subject eloevent:71a9351a-f308-4c26-800b-fb11694eb9cd .
+elobb:16a72040-26bd-11e3-9f0e-3cd92befe4f8 dc:subject eloevent:71a9351a-f308-4c26-800b-fb11694eb9cd .
+elobb:e23f68c6-26bc-11e3-ab41-3cd92befe4f8 dc:subject eloevent:71a9351a-f308-4c26-800b-fb11694eb9cd .
+elobb:f07da642-1cd0-7a7d-1c35-649839036faf dc:subject eloevent:71a9351a-f308-4c26-800b-fb11694eb9cd .
+
+eloevent:6c21c798-8723-462f-8abb-b7e7b9b7c633
+	sem:eventType wd:Q171558 ; 
+	rdfs:label "Spoorwegongeluk aan de Wiericke, bij Bodegraven" ; 
+	sem:hasEarliestBeginTimeStamp "1903-12-23"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1903-12-23"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1903-12-23"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1903-12-23"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q171558 a sem:EventType . 
+
+elobb:cb485b00-26bc-11e3-87ff-3cd92befe4f8 dc:subject eloevent:6c21c798-8723-462f-8abb-b7e7b9b7c633 .
+
+eloevent:3d6790ab-c8f3-41d5-b629-f55f90e82f39
+	sem:eventType wd:Q15955568 ; 
+	rdfs:label "20-jarig bestaan Kegelvereniging \'Toeljee\'" ; 
+	sem:hasEarliestBeginTimeStamp "1908-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1908-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1908-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1908-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q15955568 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:074e0da2-26bd-11e3-89f0-3cd92befe4f8 dc:subject eloevent:3d6790ab-c8f3-41d5-b629-f55f90e82f39 .
+elobb:074ea0a0-26bd-11e3-964d-3cd92befe4f8 dc:subject eloevent:3d6790ab-c8f3-41d5-b629-f55f90e82f39 .
+
+eloevent:37baae0d-71d8-4959-9fd6-f6e192b07e57
+	sem:eventType wd:Q168983 ; 
+	rdfs:label "Brand in de lakenfabriek van de firma J.J.Krantz & Zoon" ; 
+	sem:hasEarliestBeginTimeStamp "1909-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1909-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1909-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1909-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q1853174 ;
+	a sem:Event . 
+
+wd:Q168983 a sem:EventType . 
+wd:Q1853174 a sem:Place .
+
+elobb:0ffdb6b4-26bd-11e3-ae72-3cd92befe4f8 dc:subject eloevent:37baae0d-71d8-4959-9fd6-f6e192b07e57 .
+elobb:0ffe0542-26bd-11e3-9a1b-3cd92befe4f8 dc:subject eloevent:37baae0d-71d8-4959-9fd6-f6e192b07e57 .
+elobb:0ffe51e6-26bd-11e3-b8fe-3cd92befe4f8 dc:subject eloevent:37baae0d-71d8-4959-9fd6-f6e192b07e57 .
+elobb:0ffe9d86-26bd-11e3-9fa7-3cd92befe4f8 dc:subject eloevent:37baae0d-71d8-4959-9fd6-f6e192b07e57 .
+
+eloevent:cb71f4a8-8c55-411e-a22f-cd9699662350
+	sem:eventType wd:Q2623547 ; 
+	rdfs:label "Concours Hippique" ; 
+	sem:hasEarliestBeginTimeStamp "1910-06-23"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1910-06-23"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1910-06-23"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1910-06-23"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q2623547 a sem:EventType . 
+
+elobb:e5164efc-26bc-11e3-b96c-3cd92befe4f8 dc:subject eloevent:cb71f4a8-8c55-411e-a22f-cd9699662350 .
+
+eloevent:363fb4d1-be4d-4725-a1bb-8d909d94f4df
+	sem:eventType wd:Q2761147 ; 
+	rdfs:label "Vergadering van het steuncomite 1914-1918" ; 
+	sem:hasEarliestBeginTimeStamp "1915-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1915-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1916-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1916-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q2946957 ;
+	a sem:Event . 
+
+wd:Q2761147 a sem:EventType . 
+wd:Q2946957 a sem:Place .
+
+elobb:e51d2100-26bc-11e3-a236-3cd92befe4f8 dc:subject eloevent:363fb4d1-be4d-4725-a1bb-8d909d94f4df .
+
+eloevent:faa9cf35-87e6-44b2-ba23-b5546ed11935
+	sem:eventType wd:Q55651798 ; 
+	rdfs:label "Onthulling Gijselaarsbank" ; 
+	sem:hasEarliestBeginTimeStamp "1920-04-23"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1920-04-23"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1920-04-23"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1920-04-23"^^xsd:date ;
+	sem:hasActor wd:Q20857379 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q55651798 a sem:EventType . 
+wd:Q20857379 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:3369083a-c2e9-6053-3a20-3b262fea9e07 dc:subject eloevent:faa9cf35-87e6-44b2-ba23-b5546ed11935 .
+elobb:5d7f1ff0-1e6f-9b53-436c-a5547f98dfb3 dc:subject eloevent:faa9cf35-87e6-44b2-ba23-b5546ed11935 .
+elobb:df15ff8e-26bc-11e3-89dd-3cd92befe4f8 dc:subject eloevent:faa9cf35-87e6-44b2-ba23-b5546ed11935 .
+
+eloevent:ebea85c4-e7da-482b-b0d5-ef1d0257f9af
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Koningin Wilhelmina en Prins Hendrik bezoeken 3 oktoberfeesten" ; 
+	sem:hasEarliestBeginTimeStamp "1924-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1924-10-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1924-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1924-10-03"^^xsd:date ;
+	sem:hasActor wd:Q150747 ;
+	sem:hasPlace wd:Q2187638 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q150747 a sem:Actor .
+wd:Q2187638 a sem:Place .
+
+elobb:8814770e-d6e3-1f0d-dc19-b1117af75605 dc:subject eloevent:ebea85c4-e7da-482b-b0d5-ef1d0257f9af .
+elobb:2552664b-0363-cfc0-3cf1-c07049b90a2f dc:subject eloevent:ebea85c4-e7da-482b-b0d5-ef1d0257f9af .
+elobb:b35beaa1-fc93-5ef3-bcb1-0240f7dbf990 dc:subject eloevent:ebea85c4-e7da-482b-b0d5-ef1d0257f9af .
+elobb:ec66d98d-aff5-0df7-58a6-808a562aad02 dc:subject eloevent:ebea85c4-e7da-482b-b0d5-ef1d0257f9af .
+
+eloevent:2279d288-980e-40e7-9c20-f1205f7d3728
+	sem:eventType wd:Q1445650 ; 
+	rdfs:label "3 oktoberfeesten" ; 
+	sem:hasEarliestBeginTimeStamp "1924-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1924-10-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1924-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1924-10-03"^^xsd:date ;
+	sem:hasPlace wd:Q2187638 ;
+	a sem:Event . 
+
+wd:Q1445650 a sem:EventType . 
+wd:Q2187638 a sem:Place .
+
+elobb:e020e742-85e5-8d1d-1e10-adfa89dbabb0 dc:subject eloevent:2279d288-980e-40e7-9c20-f1205f7d3728 .
+
+eloevent:182f0cc4-a49e-4be4-9890-258574dac73c
+	sem:eventType wd:Q5157004 ; 
+	rdfs:label "Erepromotie koningin Wilhelmina" ; 
+	sem:hasEarliestBeginTimeStamp "1925-02-09"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1925-02-09"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1925-02-09"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1925-02-09"^^xsd:date ;
+	sem:hasActor wd:Q150747 ;
+	sem:hasPlace wd:Q19304138 ;
+	a sem:Event . 
+
+wd:Q5157004 a sem:EventType . 
+wd:Q150747 a sem:Actor .
+wd:Q19304138 a sem:Place .
+
+elobb:31cf9944-0273-b2e6-5713-99834e6834aa dc:subject eloevent:182f0cc4-a49e-4be4-9890-258574dac73c .
+elobb:12099f25-3db7-1f6c-040e-a5ba61302898 dc:subject eloevent:182f0cc4-a49e-4be4-9890-258574dac73c .
+elobb:2ba0fbd4-5c7f-b268-0466-14c2d8bd56c9 dc:subject eloevent:182f0cc4-a49e-4be4-9890-258574dac73c .
+elobb:da868df7-d356-b18b-13e1-89abf0e25d31 dc:subject eloevent:182f0cc4-a49e-4be4-9890-258574dac73c .
+
+eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e
+	sem:eventType wd:Q171558 ; 
+	rdfs:label "Spoorwegongeluk te Voorschoten" ; 
+	sem:hasEarliestBeginTimeStamp "1926-09-09"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1926-09-09"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1926-09-09"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1926-09-09"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q171558 a sem:EventType . 
+
+elobb:cc1ac5e0-26bc-11e3-9072-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:cc1b11c6-26bc-11e3-b8fb-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:cc1b63f6-26bc-11e3-a11a-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:cc1bb72a-26bc-11e3-8327-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:cc1c0838-26bc-11e3-9843-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:f1b1e284-26bc-11e3-b1b9-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:f1b22a1e-26bc-11e3-a643-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:f1b27514-26bc-11e3-8b34-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:f1b317f8-26bc-11e3-a8e0-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+elobb:f1b3af74-26bc-11e3-80fc-3cd92befe4f8 dc:subject eloevent:bfffbfa8-4c58-4ca3-a998-880244327c5e .
+
+eloevent:93937c15-cb31-4d75-9085-9d55ef7801c7
+	sem:eventType wd:Q182832 ; 
+	rdfs:label "Koraalzang in het Van der Werfpark" ; 
+	sem:hasEarliestBeginTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasPlace wd:Q2187638 ;
+	a sem:Event . 
+
+wd:Q182832 a sem:EventType . 
+wd:Q2187638 a sem:Place .
+
+elobb:63ea3d54-2a26-4dd6-32ae-a1fa86864c7b dc:subject eloevent:93937c15-cb31-4d75-9085-9d55ef7801c7 .
+
+eloevent:28bfc58a-2c94-4fa2-93a8-4fd3d5cb117f
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Historische optocht op 3 Oktober 1926" ; 
+	sem:hasEarliestBeginTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasPlace wd:Q2946957 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q2946957 a sem:Place .
+
+elobb:e383e3e2-26bc-11e3-90b0-3cd92befe4f8 dc:subject eloevent:28bfc58a-2c94-4fa2-93a8-4fd3d5cb117f .
+
+eloevent:6f5ca3db-2ef1-4eb1-be52-f6e2eba673e8
+	sem:eventType wd:Q1445650 ; 
+	rdfs:label "3 oktoberviering" ; 
+	sem:hasEarliestBeginTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1926-10-03"^^xsd:date ;
+	sem:hasPlace wd:Q2187638 ;
+	a sem:Event . 
+
+wd:Q1445650 a sem:EventType . 
+wd:Q2187638 a sem:Place .
+
+elobb:088da7bc-2871-543e-52ad-9abc5f6a3126 dc:subject eloevent:6f5ca3db-2ef1-4eb1-be52-f6e2eba673e8 .
+
+eloevent:660066eb-9684-43a0-a825-703ad03c2b72
+	sem:eventType wd:Q55651798 ; 
+	rdfs:label "Onthulling van een gedenksteen van Jan Steen" ; 
+	sem:hasEarliestBeginTimeStamp "1926-11-22"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1926-11-22"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1926-11-22"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1926-11-22"^^xsd:date ;
+	sem:hasActor wd:Q2085737 ;
+	a sem:Event . 
+
+wd:Q55651798 a sem:EventType . 
+wd:Q2085737 a sem:Actor .
+
+elobb:f2193ee8-26bc-11e3-9e6c-3cd92befe4f8 dc:subject eloevent:660066eb-9684-43a0-a825-703ad03c2b72 .
+
+eloevent:f47d77e7-f9ee-4c53-9aaa-e9d447196b37
+	sem:eventType wd:Q2918584 ; 
+	rdfs:label "Verhuizing VVSL van het oude clubgebouw aan de Steenschuur naar het Rapenburg" ; 
+	sem:hasEarliestBeginTimeStamp "1927-09-11"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1927-09-11"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1927-09-11"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1927-09-11"^^xsd:date ;
+	sem:hasActor wd:Q95608250 ;
+	sem:hasPlace wd:Q1962702 ;
+	a sem:Event . 
+
+wd:Q2918584 a sem:EventType . 
+wd:Q95608250 a sem:Actor .
+wd:Q1962702 a sem:Place .
+
+elobb:3165c444-ebbb-8e53-141f-a61078eb1604 dc:subject eloevent:f47d77e7-f9ee-4c53-9aaa-e9d447196b37 .
+elobb:d9aa27af-715a-83e4-8508-dde2f30f50ab dc:subject eloevent:f47d77e7-f9ee-4c53-9aaa-e9d447196b37 .
+
+eloevent:a880d55d-5402-489f-a147-4b617556bad5
+	sem:eventType wd:Q6815577 ; 
+	rdfs:label "John Robinson herdenking" ; 
+	sem:hasEarliestBeginTimeStamp "1928-09-08"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1928-09-08"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1928-09-08"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1928-09-08"^^xsd:date ;
+	sem:hasActor wd:Q21170364 ;
+	sem:hasPlace wd:Q19277989 ;
+	a sem:Event . 
+
+wd:Q6815577 a sem:EventType . 
+wd:Q21170364 a sem:Actor .
+wd:Q19277989 a sem:Place .
+
+elobb:b53cbd7e-26bc-11e3-aa88-3cd92befe4f8 dc:subject eloevent:a880d55d-5402-489f-a147-4b617556bad5 .
+
+eloevent:144e83ac-b470-44bc-a47d-c4527688026e
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Burgemeester A. v.d. Sande Bakhuyzen bezoekt de Leidse Hout" ; 
+	sem:hasEarliestBeginTimeStamp "1929-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1929-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1932-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1932-12-31"^^xsd:date ;
+	sem:hasActor wd:Q21170364 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q21170364 a sem:Actor .
+
+elobb:028fcef4-26bd-11e3-b7d5-3cd92befe4f8 dc:subject eloevent:144e83ac-b470-44bc-a47d-c4527688026e .
+
+eloevent:26bd9ecb-2f21-4a67-9e93-a1353015e12c
+	sem:eventType wd:Q5157004 ; 
+	rdfs:label "Ere-promotie prinses Juliana" ; 
+	sem:hasEarliestBeginTimeStamp "1930-01-31"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1930-01-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1930-01-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1930-01-31"^^xsd:date ;
+	sem:hasActor wd:Q154946 ;
+	a sem:Event . 
+
+wd:Q5157004 a sem:EventType . 
+wd:Q154946 a sem:Actor .
+
+elobb:164578d7-e3d7-78c6-e804-0c7cea124a3b dc:subject eloevent:26bd9ecb-2f21-4a67-9e93-a1353015e12c .
+elobb:94c5c4ce-00e5-c368-bff5-4ca93b95230c dc:subject eloevent:26bd9ecb-2f21-4a67-9e93-a1353015e12c .
+elobb:f5cc639c-e446-1b6c-2814-5b6ba820397f dc:subject eloevent:26bd9ecb-2f21-4a67-9e93-a1353015e12c .
+
+eloevent:2824f933-3fd7-46d9-842e-540ead0fa276
+	sem:eventType wd:Q175331 ; 
+	rdfs:label "A.V.R.O. betoging" ; 
+	sem:hasEarliestBeginTimeStamp "1930-09-06"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1930-09-06"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1930-09-06"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1930-09-06"^^xsd:date ;
+	sem:hasPlace wd:Q19468823 ;
+	a sem:Event . 
+
+wd:Q175331 a sem:EventType . 
+wd:Q19468823 a sem:Place .
+
+elobb:e5b4af84-26bc-11e3-956a-3cd92befe4f8 dc:subject eloevent:2824f933-3fd7-46d9-842e-540ead0fa276 .
+
+eloevent:94ff6fb9-51df-4424-8853-daae7448c01c
+	sem:eventType wd:Q66317493 ; 
+	rdfs:label "Afscheid Charles van Spall, directeur der N.V. Leidsche Duinwater Maatschappij" ; 
+	sem:hasEarliestBeginTimeStamp "1931-01-27"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1931-01-27"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1931-01-27"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1931-01-27"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q66317493 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:002aa99a-26bd-11e3-9e44-3cd92befe4f8 dc:subject eloevent:94ff6fb9-51df-4424-8853-daae7448c01c .
+
+eloevent:d7cc4501-39aa-413f-b46c-58303c64c74a
+	sem:eventType wd:Q15051339 ; 
+	rdfs:label "Opening en overdracht van de Leidse Hout aan de Gemeente Leiden" ; 
+	sem:hasEarliestBeginTimeStamp "1931-06-30"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1931-06-30"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1931-06-30"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1931-06-30"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q15051339 a sem:EventType . 
+
+elobb:0291bda4-26bd-11e3-9eae-3cd92befe4f8 dc:subject eloevent:d7cc4501-39aa-413f-b46c-58303c64c74a .
+elobb:02925700-26bd-11e3-bd32-3cd92befe4f8 dc:subject eloevent:d7cc4501-39aa-413f-b46c-58303c64c74a .
+
+eloevent:94c84f64-2770-4138-97e9-a4fbec03c620
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "3 oktoberoptocht" ; 
+	sem:hasEarliestBeginTimeStamp "1931-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1931-10-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1931-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1931-10-03"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:bdae3547-3acf-b3b9-48ba-37c0e4a8cce6 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:01a29281-cb57-ef25-bc3d-0405d2d60b6b dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:02469182-ef0e-43fc-0651-14939813f6c1 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:229b08c7-5883-d25d-94cb-959d2012283a dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:2c0e6613-5a76-f0c0-836f-7c23a7d2c6c4 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:41eabba7-ebbe-0126-ec10-4ff1e5b887cc dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:452616a8-d772-7d3b-bb59-c58270377dcb dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:622ff0a8-3ed9-a151-31e4-161b9c405031 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:630fcea0-c3df-afde-5c08-0d724df2682c dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:6a046b04-ec23-aa26-025d-99347f70470d dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:73a8f2c8-3e0e-51d7-f4c8-c949b9af6625 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:819694ca-8e61-5d78-b3c3-fdf3617b6839 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:9291e855-2c35-f56d-4615-75f2d234b36d dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:940aca6b-3550-1ce7-0c8f-e0c98f24a08f dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:95bf66f0-3e23-ff07-517a-82cc97d7b08e dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:aa62f7c3-2ab6-3df0-0859-00bdf72d1b29 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:af5de69d-f2a4-0d68-04a3-31c9e1aaa834 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:ce05faea-2191-209b-8e60-150a61cae515 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:cebd80b3-fa68-d161-91b3-3ffa57e820f4 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:da58d4b4-de04-2d20-10c4-b32a7d285835 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:dc9c3a88-573a-6f30-00ee-d3e6986ae385 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:df90f6c7-0ab5-f07b-12ce-3a0ab485d137 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:e71cab63-ab2a-7984-67aa-923c167ac61e dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:e756a540-376e-656d-630d-80de3b67455c dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:f6ece4f2-37b0-c3b7-207c-383009a155c7 dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+elobb:fcc76ade-812e-095a-1485-d1d2cf4bf73a dc:subject eloevent:94c84f64-2770-4138-97e9-a4fbec03c620 .
+
+eloevent:cca545b6-cfa9-4b06-809c-53f0f884cb94
+	sem:eventType wd:Q168983 ; 
+	rdfs:label "Brand in beddenmagazijn Haarlemmerstraat" ; 
+	sem:hasEarliestBeginTimeStamp "1932-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1932-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1932-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1932-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q1968539 ;
+	a sem:Event . 
+
+wd:Q168983 a sem:EventType . 
+wd:Q1968539 a sem:Place .
+
+elobb:f0026b0c-26bc-11e3-b243-3cd92befe4f8 dc:subject eloevent:cca545b6-cfa9-4b06-809c-53f0f884cb94 .
+elobb:f002b7c4-26bc-11e3-9f08-3cd92befe4f8 dc:subject eloevent:cca545b6-cfa9-4b06-809c-53f0f884cb94 .
+
+eloevent:6700d428-5fd6-48d5-8707-3cd13c647794
+	sem:eventType wd:Q200538 ; 
+	rdfs:label "Kinderfeest op de Leidsche ijsbaan" ; 
+	sem:hasEarliestBeginTimeStamp "1933-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1933-01-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1933-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1933-01-31"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q200538 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:0eeaf4d0-26bd-11e3-9482-3cd92befe4f8 dc:subject eloevent:6700d428-5fd6-48d5-8707-3cd13c647794 .
+
+eloevent:bead433b-6357-4874-b33b-b5d904486fc4
+	sem:eventType wd:Q16510064 ; 
+	rdfs:label "Schaatsen Zoeterwoudse Singel" ; 
+	sem:hasEarliestBeginTimeStamp "1933-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1933-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1933-01-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1933-01-31"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q16510064 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:0f692544-26bd-11e3-a63b-3cd92befe4f8 dc:subject eloevent:bead433b-6357-4874-b33b-b5d904486fc4 .
+
+eloevent:8ee5b3f3-89cf-4689-9aa4-d23f54106312
+	sem:eventType wd:Q16510064 ; 
+	rdfs:label "IJszeilen op het Brasemermeer" ; 
+	sem:hasEarliestBeginTimeStamp "1933-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1933-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1933-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1933-12-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q16510064 a sem:EventType . 
+
+elobb:0f761ea2-26bd-11e3-bb04-3cd92befe4f8 dc:subject eloevent:8ee5b3f3-89cf-4689-9aa4-d23f54106312 .
+
+eloevent:5b06bad5-c777-4f75-b664-befa1e01e9a2
+	sem:eventType wd:Q6815577 ; 
+	rdfs:label "Herdenking 400e geboortedag Willem de Zwijger" ; 
+	sem:hasEarliestBeginTimeStamp "1933-04-24"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1933-04-24"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1933-04-24"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1933-04-24"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q6815577 a sem:EventType . 
+
+elobb:0e607346-a229-6f3d-49fd-f8d3c6ca94f9 dc:subject eloevent:5b06bad5-c777-4f75-b664-befa1e01e9a2 .
+elobb:0058fdf3-2aed-6557-3043-6f182d776e42 dc:subject eloevent:5b06bad5-c777-4f75-b664-befa1e01e9a2 .
+elobb:037e1a28-e7a8-1a05-746f-2cca1f1d9499 dc:subject eloevent:5b06bad5-c777-4f75-b664-befa1e01e9a2 .
+
+eloevent:05385899-9701-4ee9-a511-e90679741067
+	sem:eventType wd:Q168983 ; 
+	rdfs:label "Petruskerk door brand verwoest" ; 
+	sem:hasEarliestBeginTimeStamp "1933-07-25"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1933-07-25"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1933-07-25"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1933-07-25"^^xsd:date ;
+	sem:hasPlace wd:Q5215803 ;
+	a sem:Event . 
+
+wd:Q168983 a sem:EventType . 
+wd:Q5215803 a sem:Place .
+
+elobb:010fc9d0-26bd-11e3-8dec-3cd92befe4f8 dc:subject eloevent:05385899-9701-4ee9-a511-e90679741067 .
+
+eloevent:60f3f339-00dc-4ee7-8495-c160453310aa
+	sem:eventType wd:Q4181026 ; 
+	rdfs:label "Verbreding en asfaltering van de Zoeterwoudsesingel" ; 
+	sem:hasEarliestBeginTimeStamp "1935-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1935-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1935-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1935-12-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q4181026 a sem:EventType . 
+
+elobb:069324d8-26bd-11e3-b31c-3cd92befe4f8 dc:subject eloevent:60f3f339-00dc-4ee7-8495-c160453310aa .
+
+eloevent:86c91c8e-1e4d-4f97-919c-d8cd117227b9
+	sem:eventType wd:Q15955568 ; 
+	rdfs:label "Viering 360-jarig bestaan Universiteit" ; 
+	sem:hasEarliestBeginTimeStamp "1935-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1935-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1935-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1935-12-31"^^xsd:date ;
+	sem:hasActor wd:Q156598 ;
+	sem:hasPlace wd:Q2612311 ;
+	a sem:Event . 
+
+wd:Q15955568 a sem:EventType . 
+wd:Q156598 a sem:Actor .
+wd:Q2612311 a sem:Place .
+
+elobb:1e917a00-fbcb-9b42-1178-6d772c1dee2a dc:subject eloevent:86c91c8e-1e4d-4f97-919c-d8cd117227b9 .
+elobb:afe08d76-0d22-a607-1d9d-34d132316296 dc:subject eloevent:86c91c8e-1e4d-4f97-919c-d8cd117227b9 .
+elobb:fc4aa1ba-5102-874b-b7d8-9d45b04c9f48 dc:subject eloevent:86c91c8e-1e4d-4f97-919c-d8cd117227b9 .
+
+eloevent:a7bab971-55f6-433a-8bfa-750476b1d895
+	sem:eventType wd:Q18752057 ; 
+	rdfs:label "Eerste steenlegging voor de nieuwe Cooperatieve Spaar- en Voorschotbank" ; 
+	sem:hasEarliestBeginTimeStamp "1935-10-31"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1935-10-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1935-10-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1935-10-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q18752057 a sem:EventType . 
+
+elobb:1a940aec-26bd-11e3-ab8e-3cd92befe4f8 dc:subject eloevent:a7bab971-55f6-433a-8bfa-750476b1d895 .
+
+eloevent:9cb49a91-8179-48f2-bad2-d33e42dd9387
+	sem:eventType wd:Q29023906 ; 
+	rdfs:label "De Leidse \'VEBO\' expositie" ; 
+	sem:hasEarliestBeginTimeStamp "1936-09-17"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1936-09-17"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1936-09-17"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1936-09-17"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q29023906 a sem:EventType . 
+
+elobb:e50aff16-26bc-11e3-bd28-3cd92befe4f8 dc:subject eloevent:9cb49a91-8179-48f2-bad2-d33e42dd9387 .
+
+eloevent:9e0c5902-c2e3-462b-9ce1-b4165f54917e
+	sem:eventType wd:Q16510064 ; 
+	rdfs:label "Demonstratie van de Leidsche Gymnastiek en Scherm Vereniging Excelsior bij de Volkstuinvereniging \'Ons Genoegen\'" ; 
+	sem:hasEarliestBeginTimeStamp "1937-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1937-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1937-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1937-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q16510064 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:07c556e6-26bd-11e3-95e5-3cd92befe4f8 dc:subject eloevent:9e0c5902-c2e3-462b-9ce1-b4165f54917e .
+
+eloevent:f7cc2238-e4d8-4ff4-a495-9c2c6796f00f
+	sem:eventType wd:Q2627975 ; 
+	rdfs:label "Juliana-Eik wordt geplant in de Leidse Hout" ; 
+	sem:hasEarliestBeginTimeStamp "1937-01-04"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1937-01-04"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1937-01-04"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1937-01-04"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q2627975 a sem:EventType . 
+
+elobb:02948c6e-26bd-11e3-b7c7-3cd92befe4f8 dc:subject eloevent:f7cc2238-e4d8-4ff4-a495-9c2c6796f00f .
+
+eloevent:f6a8372f-1dbb-4fd3-b347-7e75f94ec893
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Optocht" ; 
+	sem:hasEarliestBeginTimeStamp "1937-01-04"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1937-01-04"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1937-01-04"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1937-01-04"^^xsd:date ;
+	sem:hasPlace wd:Q2976475 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q2976475 a sem:Place .
+
+elobb:17523e08-26bd-11e3-a189-3cd92befe4f8 dc:subject eloevent:f6a8372f-1dbb-4fd3-b347-7e75f94ec893 .
+
+eloevent:d8fae2c2-1af4-491e-9c62-af9af308b91e
+	sem:eventType wd:Q242412 ; 
+	rdfs:label "Mobilisatie" ; 
+	sem:hasEarliestBeginTimeStamp "1939-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1939-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1940-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1940-12-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q242412 a sem:EventType . 
+
+elobb:1556554e-26bd-11e3-872b-3cd92befe4f8 dc:subject eloevent:d8fae2c2-1af4-491e-9c62-af9af308b91e .
+
+eloevent:71ea60ac-3df4-4314-9fb1-13a359595df4
+	sem:eventType wd:Q3002150 ; 
+	rdfs:label "Vliegtuig stort neer op strand" ; 
+	sem:hasEarliestBeginTimeStamp "1940-05-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1940-05-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1940-05-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1940-05-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q3002150 a sem:EventType . 
+
+elobb:c5544a25-e6c8-789c-e68b-6a27934ae321 dc:subject eloevent:71ea60ac-3df4-4314-9fb1-13a359595df4 .
+elobb:5c0f42d4-e320-004d-f88f-87ba24cdcf34 dc:subject eloevent:71ea60ac-3df4-4314-9fb1-13a359595df4 .
+
+eloevent:27820dc8-71ac-499a-92b3-a2c21f87b64a
+	sem:eventType wd:Q17781833 ; 
+	rdfs:label "Verwoesting protestantse kerk Valkenburg" ; 
+	sem:hasEarliestBeginTimeStamp "1940-05-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1940-05-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1940-05-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1940-05-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q17781833 a sem:EventType . 
+
+elobb:777f357f-d1bb-c969-9f8f-36f7c9186d2d dc:subject eloevent:27820dc8-71ac-499a-92b3-a2c21f87b64a .
+
+eloevent:16a5468c-2aa5-44e6-a78a-6c8fad036d3f
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Propaganda-mars van de Nederlandse SS" ; 
+	sem:hasEarliestBeginTimeStamp "1941-04-27"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1941-04-27"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1941-04-27"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1941-04-27"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:151cd54e-26bd-11e3-980e-3cd92befe4f8 dc:subject eloevent:16a5468c-2aa5-44e6-a78a-6c8fad036d3f .
+
+eloevent:1268850f-352c-4308-a4cd-04dd3bc25d8e
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Bezoek Arbeitsdienstafdeling uit Nunspeet aan tentoonstelling over de Arbeitsdienst in \"Den Burcht\"" ; 
+	sem:hasEarliestBeginTimeStamp "1941-11-11"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1941-11-11"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1941-11-11"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1941-11-11"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:151d5e24-26bd-11e3-882b-3cd92befe4f8 dc:subject eloevent:1268850f-352c-4308-a4cd-04dd3bc25d8e .
+
+eloevent:a99366a6-4a59-4317-9e4b-80391681f45f
+	sem:eventType wd:Q15051339 ; 
+	rdfs:label "Opening van het \'Kringhuis N.S.B. kring Leiden\' aan het Rapenburg 26" ; 
+	sem:hasEarliestBeginTimeStamp "1942-07-04"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1942-07-04"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1942-07-04"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1942-07-04"^^xsd:date ;
+	sem:hasPlace wd:Q2597656 ;
+	a sem:Event . 
+
+wd:Q15051339 a sem:EventType . 
+wd:Q2597656 a sem:Place .
+
+elobb:1520043a-26bd-11e3-894e-3cd92befe4f8 dc:subject eloevent:a99366a6-4a59-4317-9e4b-80391681f45f .
+
+eloevent:4d937ef0-bc40-4bb4-8bb8-05257058cb1f
+	sem:eventType wd:Q13557414 ; 
+	rdfs:label "Opnemen van een \'gesproken brief\' aan de mannen in de Arbeitzeinsatz" ; 
+	sem:hasEarliestBeginTimeStamp "1944-09-21"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1944-09-21"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1944-12-20"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1944-12-20"^^xsd:date ;
+	sem:hasPlace wd:Q2579209 ;
+	a sem:Event . 
+
+wd:Q13557414 a sem:EventType . 
+wd:Q2579209 a sem:Place .
+
+elobb:1521d774-26bd-11e3-ad95-3cd92befe4f8 dc:subject eloevent:4d937ef0-bc40-4bb4-8bb8-05257058cb1f .
+
+eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a
+	sem:eventType wd:Q678146 ; 
+	rdfs:label "Bombardement op het stationskwartier" ; 
+	sem:hasEarliestBeginTimeStamp "1944-12-11"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1944-12-11"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1944-12-11"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1944-12-11"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q678146 a sem:EventType . 
+
+elobb:0e7c038a-9099-b91d-7140-45f76303c0df dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:07056621-7000-53a8-b13d-597885c886b1 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:12bd5c3b-c577-fbcf-b146-f9ba43df34b7 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:256b91f0-f6bd-d2a5-34de-ccf7b3cd79e5 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:2c90831b-23dc-776e-42ba-8f5bd4a29111 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:2e0dd89c-4aff-ad06-1884-5e5c22c226ea dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:5e2f0db8-bc93-0ac3-b096-7d0a950d0b4b dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:676aed85-9185-e466-10b8-c8a9613ca311 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:6ccf1a5c-602c-098c-b7d1-72973397a9d5 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:85a794e8-3df4-d12f-172c-0c142fc59c83 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:8657e7a5-c30e-61a2-ba2e-79ceec45fdf6 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:889d16b1-31e2-472e-ae9e-5a9983eb4395 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:8b039f0d-c2e0-4ed1-0b2e-3ee5a2b28ed7 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:8c2b2e44-d764-6320-025a-1913465bd5d1 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:b1fc323d-3dd8-f9b8-4e58-ed81891e0293 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:b48c0781-a385-4f66-a43f-4bda88875318 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:c24e03a2-3df3-abc3-0be7-994c44dc8c2d dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:c4a9d3cd-7f2b-6e0b-52c8-fc0d20fd63d8 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:e4644251-56d8-9dd6-045b-9dadcf306f80 dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+elobb:f3d83866-8081-ff95-962a-9112424a7b3c dc:subject eloevent:148bc78f-8ca4-4389-977a-23ffb081d14a .
+
+eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Bezoek van Koningin Juliana ter gelegenheid van het lustrum van de Hogeschool" ; 
+	sem:hasEarliestBeginTimeStamp "1945-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-12-31"^^xsd:date ;
+	sem:hasActor wd:Q154946 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q154946 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:3dcfda71-d0d6-8c39-1bed-18cdc421f993 dc:subject eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0 .
+elobb:3fbf4741-98e7-1af3-862a-29d7bdf6853b dc:subject eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0 .
+elobb:41c36e0f-37f0-7617-5b6b-433bbcf2f870 dc:subject eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0 .
+elobb:5ef81d9a-11e7-2f73-cbda-cec2d0e2aac6 dc:subject eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0 .
+elobb:79dd16d4-69db-6ec7-ccce-a5a4ea85623f dc:subject eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0 .
+elobb:d0cd6ae2-6d53-95e6-9667-5c1ef580caa7 dc:subject eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0 .
+elobb:f0539fb8-d2b3-d2fe-5f2c-7a3e5e24ad5b dc:subject eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0 .
+elobb:f4017dc0-519b-0482-d5d2-35f9b5ad78f3 dc:subject eloevent:8ae7ed8d-1ea4-4694-89b5-7b6a009fbea0 .
+
+eloevent:296e002b-4273-4f3b-aea9-ffba9a3d93e5
+	sem:eventType wd:Q55651798 ; 
+	rdfs:label "Onthulling van de gedenksteen, ter herinnering aan WOII, in de muur van het Weeshuis aan de Hooglandse Kerkgracht" ; 
+	sem:hasEarliestBeginTimeStamp "1945-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1960-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1960-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q3317013 ;
+	a sem:Event . 
+
+wd:Q55651798 a sem:EventType . 
+wd:Q3317013 a sem:Place .
+
+elobb:dc4c44a2-26bc-11e3-826e-3cd92befe4f8 dc:subject eloevent:296e002b-4273-4f3b-aea9-ffba9a3d93e5 .
+
+eloevent:bbe54d7b-bd2b-4571-a0cc-1cd8a6884903
+	sem:eventType wd:Q861911 ; 
+	rdfs:label "Bevrijdings- toespraak van Burgemeester mr. A. van de Sande Bakhuizen, 5 mei 1945 ca. 10.00 uur" ; 
+	sem:hasEarliestBeginTimeStamp "1945-05-05"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-05-05"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-05-05"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-05-05"^^xsd:date ;
+	sem:hasActor wd:Q21170364 ;
+	sem:hasPlace wd:Q2946957 ;
+	a sem:Event . 
+
+wd:Q861911 a sem:EventType . 
+wd:Q21170364 a sem:Actor .
+wd:Q2946957 a sem:Place .
+
+elobb:18da0fda-26bd-11e3-963e-3cd92befe4f8 dc:subject eloevent:bbe54d7b-bd2b-4571-a0cc-1cd8a6884903 .
+
+eloevent:c7356965-f3f3-4fdb-9c9e-4301fa0508b2
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Intocht van de Canadezen" ; 
+	sem:hasEarliestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-05-08"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+
+elobb:47b6dc30-2cdf-a037-3ae1-5c3cf68705b9 dc:subject eloevent:c7356965-f3f3-4fdb-9c9e-4301fa0508b2 .
+elobb:127455d6-cfe9-b990-43e1-cf33dcb70c80 dc:subject eloevent:c7356965-f3f3-4fdb-9c9e-4301fa0508b2 .
+elobb:8286b6e4-165d-4c47-5a90-e092204e9687 dc:subject eloevent:c7356965-f3f3-4fdb-9c9e-4301fa0508b2 .
+elobb:9223cabc-0afe-49ef-863f-f81c9f07c760 dc:subject eloevent:c7356965-f3f3-4fdb-9c9e-4301fa0508b2 .
+elobb:a07bd26e-dd26-41af-19c6-f7022fcf3b54 dc:subject eloevent:c7356965-f3f3-4fdb-9c9e-4301fa0508b2 .
+elobb:c7a9d9f8-8561-d676-62a4-192c261c03f3 dc:subject eloevent:c7356965-f3f3-4fdb-9c9e-4301fa0508b2 .
+
+eloevent:5717d993-6a2f-4f01-8839-f6aabe4f4c89
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Bevrijdingsoptocht" ; 
+	sem:hasEarliestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-05-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-05-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+
+elobb:48bb8b4f-a9a1-d778-c8a6-f36982ae3369 dc:subject eloevent:5717d993-6a2f-4f01-8839-f6aabe4f4c89 .
+
+eloevent:7e3d0610-11df-4ebd-b71a-b32c7d437ec1
+	sem:eventType wd:Q200538 ; 
+	rdfs:label "Bevrijdingsdagen" ; 
+	sem:hasEarliestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-05-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-05-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q200538 a sem:EventType . 
+
+elobb:6cb48112-6ff7-76cf-51b7-7028e7d2ca1e dc:subject eloevent:7e3d0610-11df-4ebd-b71a-b32c7d437ec1 .
+elobb:0db556d8-47b3-7762-0f3b-07845e953b6e dc:subject eloevent:7e3d0610-11df-4ebd-b71a-b32c7d437ec1 .
+
+eloevent:a4bbf4c0-dd7d-409c-a9bb-c88e84cafa07
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Bevrijdingsoptocht" ; 
+	sem:hasEarliestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-05-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-05-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+
+elobb:ea3e467b-7952-0471-caaf-b5dc4cc8f61c dc:subject eloevent:a4bbf4c0-dd7d-409c-a9bb-c88e84cafa07 .
+
+eloevent:323d3e32-357c-4810-890f-f01cc2a7dff6
+	sem:eventType wd:Q200538 ; 
+	rdfs:label "Bevrijdingsdagen in de Breestraat" ; 
+	sem:hasEarliestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-05-08"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-05-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-05-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q200538 a sem:EventType . 
+
+elobb:0779154e-43b0-4ce9-63d7-d2fb89152a8f dc:subject eloevent:323d3e32-357c-4810-890f-f01cc2a7dff6 .
+
+eloevent:3ec873d6-555a-4037-85e2-8900dd325314
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Bevrijdingsoptocht tijdens de bevrijdingsfeesten van de Professoren en Burgemeesterswijk" ; 
+	sem:hasEarliestBeginTimeStamp "1945-07-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-07-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-07-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-07-31"^^xsd:date ;
+	sem:hasPlace wd:Q2976475 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q2976475 a sem:Place .
+
+elobb:cc52a80c-26bc-11e3-a433-3cd92befe4f8 dc:subject eloevent:3ec873d6-555a-4037-85e2-8900dd325314 .
+elobb:18463a1c-26bd-11e3-aa89-3cd92befe4f8 dc:subject eloevent:3ec873d6-555a-4037-85e2-8900dd325314 .
+elobb:1846cb30-26bd-11e3-afe4-3cd92befe4f8 dc:subject eloevent:3ec873d6-555a-4037-85e2-8900dd325314 .
+elobb:18470f6e-26bd-11e3-8abc-3cd92befe4f8 dc:subject eloevent:3ec873d6-555a-4037-85e2-8900dd325314 .
+elobb:cc53046e-26bc-11e3-a334-3cd92befe4f8 dc:subject eloevent:3ec873d6-555a-4037-85e2-8900dd325314 .
+elobb:cc535734-26bc-11e3-bb9d-3cd92befe4f8 dc:subject eloevent:3ec873d6-555a-4037-85e2-8900dd325314 .
+
+eloevent:70edc9a9-1732-43e2-b1ef-ee49e90d1f53
+	sem:eventType wd:Q1417098 ; 
+	rdfs:label "Herinstallatie burgemeester Vd Mortel." ; 
+	sem:hasEarliestBeginTimeStamp "1945-08-02"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-08-02"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-08-02"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-08-02"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q1417098 a sem:EventType . 
+
+elobb:004b9432-90e9-7e1b-c62e-b16b5533d015 dc:subject eloevent:70edc9a9-1732-43e2-b1ef-ee49e90d1f53 .
+
+eloevent:944a6178-2ccc-4a89-8cf6-9757aea11d29
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Bezoek van Koningin Wilhelmina" ; 
+	sem:hasEarliestBeginTimeStamp "1945-09-17"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1945-09-17"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1945-09-17"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1945-09-17"^^xsd:date ;
+	sem:hasActor wd:Q150747 ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q150747 a sem:Actor .
+wd:Q33456378 a sem:Place .
+
+elobb:1d411bc9-997b-4168-42e4-5084ae9e7942 dc:subject eloevent:944a6178-2ccc-4a89-8cf6-9757aea11d29 .
+
+eloevent:2ae224d3-be66-4844-a175-1e3a1c602daa
+	sem:eventType wd:Q1417098 ; 
+	rdfs:label "Installatie Burgemeester Van Berckel" ; 
+	sem:hasEarliestBeginTimeStamp "1946-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1946-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1946-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1946-12-31"^^xsd:date ;
+	a sem:Event . 
+
+wd:Q1417098 a sem:EventType . 
+
+elobb:0c0d4d00-bd87-70ae-0768-b413f3e864d0 dc:subject eloevent:2ae224d3-be66-4844-a175-1e3a1c602daa .
+elobb:02f129cc-be14-cd05-0802-3dacfadb21e0 dc:subject eloevent:2ae224d3-be66-4844-a175-1e3a1c602daa .
+elobb:053e32dd-a75b-a947-abc9-46bf69c14077 dc:subject eloevent:2ae224d3-be66-4844-a175-1e3a1c602daa .
+elobb:05666fb0-d6b7-ff89-4922-92626d3233bb dc:subject eloevent:2ae224d3-be66-4844-a175-1e3a1c602daa .
+
+eloevent:5a3a88f2-c095-4c8a-97fe-8e645d073bf2
+	sem:eventType wd:Q55651798 ; 
+	rdfs:label "Onthulling voorlopig oorlogsmonument aan de Steenstraat" ; 
+	sem:hasEarliestBeginTimeStamp "1946-05-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1946-05-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1946-05-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1946-05-03"^^xsd:date ;
+	sem:hasPlace wd:Q19548250 ;
+	a sem:Event . 
+
+wd:Q55651798 a sem:EventType . 
+wd:Q19548250 a sem:Place .
+
+elobb:18475d84-26bd-11e3-a16a-3cd92befe4f8 dc:subject eloevent:5a3a88f2-c095-4c8a-97fe-8e645d073bf2 .
+
+eloevent:d25aa952-862e-4d18-b5b2-dffb9611e020
+	sem:eventType wd:Q201676 ; 
+	rdfs:label "Begrafenis van wethouder Verwey" ; 
+	sem:hasEarliestBeginTimeStamp "1947-05-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1947-05-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1947-05-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1947-05-31"^^xsd:date ;
+	sem:hasPlace wd:Q19546099 ;
+	a sem:Event . 
+
+wd:Q201676 a sem:EventType . 
+wd:Q19546099 a sem:Place .
+
+elobb:11d39a94-26bd-11e3-9917-3cd92befe4f8 dc:subject eloevent:d25aa952-862e-4d18-b5b2-dffb9611e020 .
+elobb:b541e1be-26bc-11e3-af28-3cd92befe4f8 dc:subject eloevent:d25aa952-862e-4d18-b5b2-dffb9611e020 .
+
+eloevent:6a6dde19-2737-49de-8cc0-a0781dc92c5d
+	sem:eventType wd:Q61509 ; 
+	rdfs:label "Zondagschoolreisje van de Gereformeerde Kerk aan de Herengracht" ; 
+	sem:hasEarliestBeginTimeStamp "1947-07-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1947-07-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1947-07-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1947-07-31"^^xsd:date ;
+	sem:hasPlace wd:Q2982366 ;
+	a sem:Event . 
+
+wd:Q61509 a sem:EventType . 
+wd:Q2982366 a sem:Place .
+
+elobb:097a043c-26bd-11e3-aeb7-3cd92befe4f8 dc:subject eloevent:6a6dde19-2737-49de-8cc0-a0781dc92c5d .
+
+eloevent:7942d49a-a785-47ca-9cc0-e9273160d58c
+	sem:eventType wd:Q16510064 ; 
+	rdfs:label "Politie sportwedstrijden georganiseerd door de L.P.S.V (Leidse Politie Sport Vereniging)" ; 
+	sem:hasEarliestBeginTimeStamp "1948-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1948-12-31"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1948-01-01"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1948-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q19548250 ;
+	a sem:Event . 
+
+wd:Q16510064 a sem:EventType . 
+wd:Q19548250 a sem:Place .
+
+elobb:1453d536-26bd-11e3-be6b-3cd92befe4f8 dc:subject eloevent:7942d49a-a785-47ca-9cc0-e9273160d58c .
+
+eloevent:72382348-5583-47c7-9842-65fa94114ed1
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Bezoek van de Commisaris der Koningin in Zuid-Holland (links) aan de Brandweer Leiden" ; 
+	sem:hasEarliestBeginTimeStamp "1949-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1949-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1949-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1949-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q19632960 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q19632960 a sem:Place .
+
+elobb:0562edbe-26bd-11e3-ab3b-3cd92befe4f8 dc:subject eloevent:72382348-5583-47c7-9842-65fa94114ed1 .
+elobb:05635628-26bd-11e3-a640-3cd92befe4f8 dc:subject eloevent:72382348-5583-47c7-9842-65fa94114ed1 .
+elobb:05639264-26bd-11e3-b996-3cd92befe4f8 dc:subject eloevent:72382348-5583-47c7-9842-65fa94114ed1 .
+
+eloevent:c1db45e7-bae8-4852-96de-f5b7aa0d3ae0
+	sem:eventType wd:Q6163881 ; 
+	rdfs:label "Burgemeester Jhr. mr. F.H. van Kinschot en Mr. Kesper, Commissaris der Koningin in Zuid-Holland bezoeken de \'VEBO\' op de Lammermarkt" ; 
+	sem:hasEarliestBeginTimeStamp "1949-06-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1949-06-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1949-06-30"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1949-06-30"^^xsd:date ;
+	sem:hasActor wd:Q2800952 ;
+	a sem:Event . 
+
+wd:Q6163881 a sem:EventType . 
+wd:Q2800952 a sem:Actor .
+
+elobb:e4dd64a2-26bc-11e3-b591-3cd92befe4f8 dc:subject eloevent:c1db45e7-bae8-4852-96de-f5b7aa0d3ae0 .
+
+eloevent:346155a0-47b7-46df-ab41-fd97347ae94f
+	sem:eventType wd:Q16510064 ; 
+	rdfs:label "Hengelwedstrijd in het Rijn Schiekanaal ter gelegenheid van het 375-jarig bestaan van de Rijks Universiteit Leiden" ; 
+	sem:hasEarliestBeginTimeStamp "1950-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1950-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1950-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1950-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q19546099 ;
+	a sem:Event . 
+
+wd:Q16510064 a sem:EventType . 
+wd:Q19546099 a sem:Place .
+
+elobb:0979bc34-26bd-11e3-913b-3cd92befe4f8 dc:subject eloevent:346155a0-47b7-46df-ab41-fd97347ae94f .
+
+eloevent:164cd493-3c04-40ab-9c53-ac9bf59ac376
+	sem:eventType wd:Q1445650 ; 
+	rdfs:label "3 Oktoberviering" ; 
+	sem:hasEarliestBeginTimeStamp "1950-10-03"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1950-10-03"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1950-10-03"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1950-10-03"^^xsd:date ;
+	sem:hasPlace wd:Q1867200 ;
+	a sem:Event . 
+
+wd:Q1445650 a sem:EventType . 
+wd:Q1867200 a sem:Place .
+
+elobb:1a24dc08-26bd-11e3-bf99-3cd92befe4f8 dc:subject eloevent:164cd493-3c04-40ab-9c53-ac9bf59ac376 .
+elobb:0563e89a-26bd-11e3-b2fb-3cd92befe4f8 dc:subject eloevent:164cd493-3c04-40ab-9c53-ac9bf59ac376 .
+elobb:05643dea-26bd-11e3-b60f-3cd92befe4f8 dc:subject eloevent:164cd493-3c04-40ab-9c53-ac9bf59ac376 .
+elobb:13074f64-26bd-11e3-8f00-3cd92befe4f8 dc:subject eloevent:164cd493-3c04-40ab-9c53-ac9bf59ac376 .
+elobb:1307960e-26bd-11e3-9d73-3cd92befe4f8 dc:subject eloevent:164cd493-3c04-40ab-9c53-ac9bf59ac376 .
+elobb:1307e334-26bd-11e3-9126-3cd92befe4f8 dc:subject eloevent:164cd493-3c04-40ab-9c53-ac9bf59ac376 .
+elobb:1a24662e-26bd-11e3-8045-3cd92befe4f8 dc:subject eloevent:164cd493-3c04-40ab-9c53-ac9bf59ac376 .
+
+eloevent:076814bb-fddb-408f-af0d-8e2fe61c3a20
+	sem:eventType wd:Q657449 ; 
+	rdfs:label "Reclame optocht Midza" ; 
+	sem:hasEarliestBeginTimeStamp "1951-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1951-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1951-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1951-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q18962343 ;
+	a sem:Event . 
+
+wd:Q657449 a sem:EventType . 
+wd:Q18962343 a sem:Place .
+
+elobb:b5455b82-26bc-11e3-a7ca-3cd92befe4f8 dc:subject eloevent:076814bb-fddb-408f-af0d-8e2fe61c3a20 .
+
+eloevent:d582e748-3917-46fd-bab2-bb4ea35e340e
+	sem:eventType wd:Q16510064 ; 
+	rdfs:label "Uitvoering van de Leidse Dames Gymnastiek Vereniging Nieuw Brunhilde in de Stadsgehoorzaal" ; 
+	sem:hasEarliestBeginTimeStamp "1951-02-27"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1951-02-27"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1951-02-27"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1951-02-27"^^xsd:date ;
+	sem:hasPlace wd:Q2946957 ;
+	a sem:Event . 
+
+wd:Q16510064 a sem:EventType . 
+wd:Q2946957 a sem:Place .
+
+elobb:07bd564e-26bd-11e3-9937-3cd92befe4f8 dc:subject eloevent:d582e748-3917-46fd-bab2-bb4ea35e340e .
+
+eloevent:7708ff9b-2505-47f5-a94f-fc6030d99d53
+	sem:eventType wd:Q171558 ; 
+	rdfs:label "Brandweertakelwagen brengt een in de Nieuwe Rijn terecht gekomen personenauto vanaf de Vismarkt weer op het droge" ; 
+	sem:hasEarliestBeginTimeStamp "1951-05-24"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1951-05-24"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1951-05-24"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1951-05-24"^^xsd:date ;
+	sem:hasPlace wd:Q57945772 ;
+	a sem:Event . 
+
+wd:Q171558 a sem:EventType . 
+wd:Q57945772 a sem:Place .
+
+elobb:053b6708-26bd-11e3-a002-3cd92befe4f8 dc:subject eloevent:7708ff9b-2505-47f5-a94f-fc6030d99d53 .
+
+eloevent:acfc7720-afb8-441a-aa84-0c4dcc43a5ea
+	sem:eventType wd:Q15955568 ; 
+	rdfs:label "10e lustrum van de Leidsche Gymnastiek en Scherm Vereniging Excelsior" ; 
+	sem:hasEarliestBeginTimeStamp "1952-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1952-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1952-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1952-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q19619902 ;
+	a sem:Event . 
+
+wd:Q15955568 a sem:EventType . 
+wd:Q19619902 a sem:Place .
+
+elobb:07f6db44-26bd-11e3-ba4c-3cd92befe4f8 dc:subject eloevent:acfc7720-afb8-441a-aa84-0c4dcc43a5ea .
+
+eloevent:3608e11f-8674-4a9c-ba92-43ca139c144f
+	sem:eventType wd:Q40231 ; 
+	rdfs:label "Gemeenteraadsverkiezingen" ; 
+	sem:hasEarliestBeginTimeStamp "1952-06-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1952-06-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1952-06-30"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1952-06-30"^^xsd:date ;
+	sem:hasPlace wd:Q2274574 ;
+	a sem:Event . 
+
+wd:Q40231 a sem:EventType . 
+wd:Q2274574 a sem:Place .
+
+elobb:1913ccd4-26bd-11e3-8e03-3cd92befe4f8 dc:subject eloevent:3608e11f-8674-4a9c-ba92-43ca139c144f .
+
+eloevent:090c2ec6-990c-4750-85f3-ed78559d694b
+	sem:eventType wd:Q596643 ; 
+	rdfs:label "Te waterlating van de nieuwe woonboot voor de heer Mink" ; 
+	sem:hasEarliestBeginTimeStamp "1952-12-17"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1952-12-17"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1952-12-17"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1952-12-17"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q596643 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:169af7ca-26bd-11e3-ba91-3cd92befe4f8 dc:subject eloevent:090c2ec6-990c-4750-85f3-ed78559d694b .
+
+eloevent:329f0e7f-fb8c-4c81-bb3b-172b1d245055
+	sem:eventType wd:Q16510064 ; 
+	rdfs:label "Jaarlijkse Voetbalwedstrijd van de Raadsleden" ; 
+	sem:hasEarliestBeginTimeStamp "1953-01-01"^^xsd:date ;
+	sem:hasLatestBeginTimeStamp "1953-01-01"^^xsd:date ;
+	sem:hasEarliestEndTimeStamp "1953-12-31"^^xsd:date ;
+	sem:hasLatestEndTimeStamp "1953-12-31"^^xsd:date ;
+	sem:hasPlace wd:Q33456378 ;
+	a sem:Event . 
+
+wd:Q16510064 a sem:EventType . 
+wd:Q33456378 a sem:Place .
+
+elobb:09c74c6a-26bd-11e3-8136-3cd92befe4f8 dc:subject eloevent:329f0e7f-fb8c-4c81-bb3b-172b1d245055 .
+
