@@ -1,4 +1,4 @@
-# Voornamen
+# Achternamen
 
 Het bestand [surnames.csv](surnames.csv) bevat vrijwel alle achternamen die voorkomen in de volgende akten:
 
