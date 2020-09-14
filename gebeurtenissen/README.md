@@ -8,7 +8,7 @@ Neem de brand in de Hoogstraat op 3 oktober 1766. Daar zijn verschillende afbeel
 
 Op zo'n manier geautomatiseerd gebeurtenissen uit de beeldbank verzamelen, bijvoorbeeld om een tijdbalk te maken, is lastig, om niet te zeggen praktisch gezien ondoenlijk.
 
-Om een beeld te krijgen van de typen gebeurtenissen die in de beeldbank voorkomen heb ik de eerste honderd gebeurtenissen verzameld, op datum oplopend, aan de hand van het trefwoord `Gebeurtenissen`. De [visualisatie daarvan](https://hicsuntleones.nl/elo/gebeurtenissen/) geeft een aardig beeld - al heeft het tot nu aan tijd ontbroken om in die applicatie problemen met niet rechtenvrije afbeeldingen te omzeilen. De data (zowel gebeurtenissen als koppelingen met beeldbankrecords) is te vinden in [events.ttl](events.ttl).
+Om een beeld te krijgen van de typen gebeurtenissen die in de beeldbank voorkomen heb ik de eerste honderd gebeurtenissen verzameld, op datum oplopend, aan de hand van het trefwoord `Gebeurtenissen`. De [visualisatie daarvan](https://hicsuntleones.nl/elo/gebeurtenissen/) geeft een aardig beeld, al kunnen daar alleen de gebeurtenissen met rechtenvrije afbeeldingen getoond worden. De data (zowel alle gebeurtenissen als koppelingen met beeldbankrecords, al dan niet rechtenvrij) is te vinden in [events.ttl](events.ttl).
 
 ## Voordelen van het benoemen van gebeurtenissen
 
