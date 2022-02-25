@@ -1,4 +1,4 @@
-Naamvariant,Wikidata-item
+namevariant,wikidata
 "Marendorpse Achtergracht",http://www.wikidata.org/entity/Q19620000
 "Marendorpsche Achtergracht",http://www.wikidata.org/entity/Q19620000
 "Hooglandse Achtergracht",http://www.wikidata.org/entity/Q19620000
@@ -21,6 +21,7 @@ v.d.Werfstraat,http://www.wikidata.org/entity/Q19620000
 "V.d Werfstraat",http://www.wikidata.org/entity/Q19620000
 Werfstraat,http://www.wikidata.org/entity/Q19620000
 "v.d. Werfstr.",http://www.wikidata.org/entity/Q19620000
+"Van de WEfstraat",http://www.wikidata.org/entity/Q19620000
 "St. Pieters Achtergracht",http://www.wikidata.org/entity/Q96142068
 "Sint Pieters Achtergracht",http://www.wikidata.org/entity/Q96142068
 Achtergracht,http://www.wikidata.org/entity/Q96142068
@@ -36,6 +37,7 @@ Groeneveststeeg,http://www.wikidata.org/entity/Q96142636
 "Voorste Groenesteeg",http://www.wikidata.org/entity/Q96142638
 "Middelste Groenesteeg",http://www.wikidata.org/entity/Q96142639
 "5e Groenesteed",http://www.wikidata.org/entity/Q96142639
+"5e Gorenesteeg",http://www.wikidata.org/entity/Q96142639
 "Achterste Groenesteeg",http://www.wikidata.org/entity/Q96142640
 Achterzandstraat,http://www.wikidata.org/entity/Q96146311
 "Korte Zandstraat",http://www.wikidata.org/entity/Q96146311
@@ -50,6 +52,8 @@ Nagtegaallaan,http://www.wikidata.org/entity/Q19352370
 "St. Annasteeg",http://www.wikidata.org/entity/Q19346889
 Sannensteeg,http://www.wikidata.org/entity/Q19346889
 Mirakelstraat,http://www.wikidata.org/entity/Q19346889
+Miraleksteeg,http://www.wikidata.org/entity/Q19346889
+Mirakelstaag,http://www.wikidata.org/entity/Q19346889
 Armstraat,http://www.wikidata.org/entity/Q19352847
 Namstraat,http://www.wikidata.org/entity/Q19352847
 Nermstraat,http://www.wikidata.org/entity/Q19352847
@@ -97,6 +101,7 @@ Musshenbroekstraat,http://www.wikidata.org/entity/Q19352062
 Musschenroekstraat,http://www.wikidata.org/entity/Q19352062
 Muschenbroekstraat,http://www.wikidata.org/entity/Q19352062
 Misschenbroekstraat,http://www.wikidata.org/entity/Q19352062
+Musschenborekstraat,http://www.wikidata.org/entity/Q19352062
 "Derde Kooistraat",http://www.wikidata.org/entity/Q18953891
 "3e Kooistraat",http://www.wikidata.org/entity/Q18953891
 Bilitonstraat,http://www.wikidata.org/entity/Q18953891
@@ -158,6 +163,7 @@ Looierstraat,http://www.wikidata.org/entity/Q18954159
 Looijerstraat,http://www.wikidata.org/entity/Q18954159
 Looiersstraat,http://www.wikidata.org/entity/Q18954159
 "looerstraat ",http://www.wikidata.org/entity/Q18954159
+looerstraat,http://www.wikidata.org/entity/Q18954159
 "Jan Vossensteeg",http://www.wikidata.org/entity/Q19264185
 Janvossenssteeg,http://www.wikidata.org/entity/Q19264185
 "Jan Vossesteeg",http://www.wikidata.org/entity/Q19264185
@@ -169,6 +175,7 @@ Jan-Vossensteeg,http://www.wikidata.org/entity/Q19264185
 J.Vossensteeg,http://www.wikidata.org/entity/Q19264185
 "Jan Vossenstteg",http://www.wikidata.org/entity/Q19264185
 Vossensteeg,http://www.wikidata.org/entity/Q19264185
+"jan Vossenstee",http://www.wikidata.org/entity/Q19264185
 "Uiterste Gracht",http://www.wikidata.org/entity/Q19575486
 Uiterestegracht,http://www.wikidata.org/entity/Q19575486
 Uitterstegracht,http://www.wikidata.org/entity/Q19575486
@@ -176,6 +183,9 @@ Uitterstegracht,http://www.wikidata.org/entity/Q19575486
 Uitersteghracht,http://www.wikidata.org/entity/Q19575486
 Uiterstregracht,http://www.wikidata.org/entity/Q19575486
 "Uiterrste Gracht",http://www.wikidata.org/entity/Q19575486
+uiterstegrcht,http://www.wikidata.org/entity/Q19575486
+Utersegracht,http://www.wikidata.org/entity/Q19575486
+Outerstegracht,http://www.wikidata.org/entity/Q19575486
 Hoogewoerd,http://www.wikidata.org/entity/Q2579209
 Hoogenwoerd,http://www.wikidata.org/entity/Q2579209
 "Hoge Woerd",http://www.wikidata.org/entity/Q2579209
@@ -186,6 +196,7 @@ Hooge-Woerd,http://www.wikidata.org/entity/Q2579209
 Hooge-Woer,http://www.wikidata.org/entity/Q2579209
 "H. Woerd",http://www.wikidata.org/entity/Q2579209
 "H. Woerds",http://www.wikidata.org/entity/Q2579209
+Hoogewerod,http://www.wikidata.org/entity/Q2579209
 "Hooge Rijndijk",http://www.wikidata.org/entity/Q13727330
 "Hoogen Rijndijk",http://www.wikidata.org/entity/Q13727330
 "Hogen Rijndijk",http://www.wikidata.org/entity/Q13727330
@@ -201,6 +212,8 @@ HoogeRijndijk,http://www.wikidata.org/entity/Q13727330
 "Hoge r\ijndijk",http://www.wikidata.org/entity/Q13727330
 "H, Rijndijk",http://www.wikidata.org/entity/Q13727330
 H.Rijndijk,http://www.wikidata.org/entity/Q13727330
+"H. Rijndjk",http://www.wikidata.org/entity/Q13727330
+"H. Rijnsdijk",http://www.wikidata.org/entity/Q13727330
 Heerengracht,http://www.wikidata.org/entity/Q2982366
 Heeregracht,http://www.wikidata.org/entity/Q2982366
 Heerenegracht,http://www.wikidata.org/entity/Q2982366
@@ -213,6 +226,7 @@ Herernstraat,http://www.wikidata.org/entity/Q19249780
 Heerenstaat,http://www.wikidata.org/entity/Q19249780
 "Middelste Gracht",http://www.wikidata.org/entity/Q19345561
 Midelstegracht,http://www.wikidata.org/entity/Q19345561
+Middelstragracht,http://www.wikidata.org/entity/Q19345561
 "van 't Hoffstraat",http://www.wikidata.org/entity/Q19626046
 "van 't Hofstraat",http://www.wikidata.org/entity/Q19626046
 "van't Hofstraat",http://www.wikidata.org/entity/Q19626046
@@ -226,16 +240,27 @@ Midelstegracht,http://www.wikidata.org/entity/Q19345561
 "van ‘t Hofstraat ",http://www.wikidata.org/entity/Q19626046
 "van ‘t Hofstraat ",http://www.wikidata.org/entity/Q19626046
 "van ‘t Hofstraat ",http://www.wikidata.org/entity/Q19626046
+"van ‘t Hofstraat",http://www.wikidata.org/entity/Q19626046
+"Van Hofstraat",http://www.wikidata.org/entity/Q19626046
+"Van 't Hoofstraat",http://www.wikidata.org/entity/Q19626046
+"van t Hoffstraat",http://www.wikidata.org/entity/Q19626046
+"van 't Hoofstrat",http://www.wikidata.org/entity/Q19626046
+"Van ‘t Hoffstraat",http://www.wikidata.org/entity/Q19626046
+"V't Hofstraat",http://www.wikidata.org/entity/Q19626046
 Heerensteeg,http://www.wikidata.org/entity/Q19249728
 Heeremsteeg,http://www.wikidata.org/entity/Q19249728
 Heeresteeg,http://www.wikidata.org/entity/Q19249728
+Heernesteeg,http://www.wikidata.org/entity/Q19249728
+"'s Heerensteeg",http://www.wikidata.org/entity/Q19249728
 Geeregracht,http://www.wikidata.org/entity/Q19137972
 Gerregracht,http://www.wikidata.org/entity/Q19137972
 "Jan Lievenstraat",http://www.wikidata.org/entity/Q19277377
 "Jan Lievensraat",http://www.wikidata.org/entity/Q19277377
 "J. Lievenstraat",http://www.wikidata.org/entity/Q19277377
+"J. v. Lievenstraat",http://www.wikidata.org/entity/Q19277377
 "de Laat de Kanterstraat",http://www.wikidata.org/entity/Q19010185
 "Laat de Kanterstraat",http://www.wikidata.org/entity/Q19010185
+"Laat de Kanterstr.",http://www.wikidata.org/entity/Q19010185
 "Magdalena Moonstraat",http://www.wikidata.org/entity/Q19333776
 "Magd. Moonstraat",http://www.wikidata.org/entity/Q19333776
 "Magdalena Moonsytraat",http://www.wikidata.org/entity/Q19333776
@@ -255,6 +280,10 @@ Moonstraat,http://www.wikidata.org/entity/Q19333776
 "Van Bachemstraat",http://www.wikidata.org/entity/Q96349478
 "van Banchamstraat",http://www.wikidata.org/entity/Q96349478
 "van Bachemstraat.",http://www.wikidata.org/entity/Q96349478
+"van Bankemstraat",http://www.wikidata.org/entity/Q96349478
+"van Bankenstraat",http://www.wikidata.org/entity/Q96349478
+"Van Bechemstraat",http://www.wikidata.org/entity/Q96349478
+"Van Banchenstr",http://www.wikidata.org/entity/Q96349478
 Tollenstraat,http://www.wikidata.org/entity/Q19567910
 Bronckhorststraat,http://www.wikidata.org/entity/Q18974597
 Bronckhorstraat,http://www.wikidata.org/entity/Q18974597
@@ -263,6 +292,7 @@ Bronkhorstraat,http://www.wikidata.org/entity/Q18974597
 Bronkhorststraaat,http://www.wikidata.org/entity/Q18974597
 Bronckhoprststraat,http://www.wikidata.org/entity/Q18974597
 Bronhorsstraat,http://www.wikidata.org/entity/Q18974597
+Bronkhorststr.,http://www.wikidata.org/entity/Q18974597
 Geerestraat,http://www.wikidata.org/entity/Q19138277
 Geerenstraat,http://www.wikidata.org/entity/Q19138277
 Heerestraat,http://www.wikidata.org/entity/Q19138277
@@ -285,6 +315,7 @@ Gortstraat,http://www.wikidata.org/entity/Q19201255
 Gortetraat,http://www.wikidata.org/entity/Q19201255
 "Ten Catestraat",http://www.wikidata.org/entity/Q19565081
 "Ten Kstestraat",http://www.wikidata.org/entity/Q19565081
+"ten Katenstraat",http://www.wikidata.org/entity/Q19565081
 Heerensingel,http://www.wikidata.org/entity/Q2416400
 Heerenssingel,http://www.wikidata.org/entity/Q2416400
 Heerensngel,http://www.wikidata.org/entity/Q2416400
@@ -293,6 +324,7 @@ Geerensingel,http://www.wikidata.org/entity/Q2416400
 Heerensingerl,http://www.wikidata.org/entity/Q2416400
 Heeren-singel,http://www.wikidata.org/entity/Q2416400
 Heerensingen,http://www.wikidata.org/entity/Q2416400
+Heernesingel,http://www.wikidata.org/entity/Q2416400
 "Oude Heerengracht",http://www.wikidata.org/entity/Q19400386
 "Oude Heeregracht",http://www.wikidata.org/entity/Q19400386
 "Oude Varkensmarkt",http://www.wikidata.org/entity/Q19402329
@@ -302,6 +334,7 @@ Oudevarkenmarkt,http://www.wikidata.org/entity/Q19402329
 Oude-Varkenmarkt,http://www.wikidata.org/entity/Q19402329
 "O. Varkenmarkt",http://www.wikidata.org/entity/Q19402329
 "O. Varkensmarkt",http://www.wikidata.org/entity/Q19402329
+"O,Varkenmarkt",http://www.wikidata.org/entity/Q19402329
 "Piet Heijnstraat",http://www.wikidata.org/entity/Q19413415
 Sumtrastraat,http://www.wikidata.org/entity/Q19558934
 Smatrastraat,http://www.wikidata.org/entity/Q19558934
@@ -319,9 +352,12 @@ Hijacinthenstraat,http://www.wikidata.org/entity/Q19266684
 Hijachintenstraat,http://www.wikidata.org/entity/Q19266684
 Hijacintestraat,http://www.wikidata.org/entity/Q19266684
 Hijancintaanstraat,http://www.wikidata.org/entity/Q19266684
+Hyacinthenstr.,http://www.wikidata.org/entity/Q19266684
 Sieboltstraat,http://www.wikidata.org/entity/Q19514682
 Siebeldstraat,http://www.wikidata.org/entity/Q19514682
 Siebelstraat,http://www.wikidata.org/entity/Q19514682
+Sieboldstr,http://www.wikidata.org/entity/Q19514682
+Sieboltstr.,http://www.wikidata.org/entity/Q19514682
 "Os en Paardelaan",http://www.wikidata.org/entity/Q19397540
 "Os & Paardenlaan",http://www.wikidata.org/entity/Q19397540
 "Os- en Paardenlaan",http://www.wikidata.org/entity/Q19397540
@@ -336,6 +372,7 @@ Kateijnstraat,http://www.wikidata.org/entity/Q19291289
 Kapteijnsstraat,http://www.wikidata.org/entity/Q19291289
 Kapitijnstraat,http://www.wikidata.org/entity/Q19291289
 Kapijnstraat,http://www.wikidata.org/entity/Q19291289
+Kapteinstr,http://www.wikidata.org/entity/Q19291289
 "Van Oldenbarneveldstraat",http://www.wikidata.org/entity/Q19623678
 "van Oldenbarneveldstraat",http://www.wikidata.org/entity/Q19623678
 "van Oldebarneveldstraat",http://www.wikidata.org/entity/Q19623678
@@ -384,6 +421,7 @@ Hoogemorschweg,http://www.wikidata.org/entity/Q19257841
 "H. Morscheweg",http://www.wikidata.org/entity/Q19257841
 "H Morschweg",http://www.wikidata.org/entity/Q19257841
 "Hooge Morsechweg",http://www.wikidata.org/entity/Q19257841
+"Hooge Moswchweg",http://www.wikidata.org/entity/Q19257841
 "van Bemmelenstraat",http://www.wikidata.org/entity/Q19617897
 Bemmelenstraat,http://www.wikidata.org/entity/Q19617897
 "v Bemmelenstraat",http://www.wikidata.org/entity/Q19617897
@@ -392,6 +430,7 @@ Bemmelenstraat,http://www.wikidata.org/entity/Q19617897
 "van Bommelenstraat",http://www.wikidata.org/entity/Q19617897
 V.Bemmelenstraat,http://www.wikidata.org/entity/Q19617897
 "van Bemmelstraat",http://www.wikidata.org/entity/Q19617897
+"Jan Bemmelenstraat",http://www.wikidata.org/entity/Q19617897
 Rijsburgersingel,http://www.wikidata.org/entity/Q2087115
 Rijnburgersingel,http://www.wikidata.org/entity/Q2087115
 Rijnsburgsingel,http://www.wikidata.org/entity/Q2087115
@@ -410,6 +449,9 @@ Ridderstraat,http://www.wikidata.org/entity/Q19002700
 "G. Brandtstraat",http://www.wikidata.org/entity/Q19127853
 "G. Brandstraat",http://www.wikidata.org/entity/Q19127853
 "Gerrit Brandsttraat",http://www.wikidata.org/entity/Q19127853
+"Gerad randstraat",http://www.wikidata.org/entity/Q19127853
+"Ger. Brandstraat",http://www.wikidata.org/entity/Q19127853
+Ger.Brandstr.,http://www.wikidata.org/entity/Q19127853
 Klinkstraat,http://www.wikidata.org/entity/Q98636314
 Morschweg,http://www.wikidata.org/entity/Q19350677
 Moschweg,http://www.wikidata.org/entity/Q19350677
@@ -442,9 +484,11 @@ Mandenmakersteeg,http://www.wikidata.org/entity/Q19334353
 "St Jorissteeg",http://www.wikidata.org/entity/Q19515889
 St.Jorissteeg,http://www.wikidata.org/entity/Q19515889
 Sint-Jorissteeg,http://www.wikidata.org/entity/Q19515889
+St-Joritssteeg,http://www.wikidata.org/entity/Q19515889
 Brederodestraat,http://www.wikidata.org/entity/Q18967923
 Brederodestraaat,http://www.wikidata.org/entity/Q18967923
 Bredrostraat,http://www.wikidata.org/entity/Q18967923
+Brederostr,http://www.wikidata.org/entity/Q18967923
 Potgierlaan,http://www.wikidata.org/entity/Q19429061
 Potgieterslaan,http://www.wikidata.org/entity/Q19429061
 Potgietlaan,http://www.wikidata.org/entity/Q19429061
@@ -455,6 +499,7 @@ Octoberstraat,http://www.wikidata.org/entity/Q19052550
 "3 Ocotoberstraat",http://www.wikidata.org/entity/Q19052550
 "3 Oktoberstraat",http://www.wikidata.org/entity/Q19052550
 "3 Octboerstraat",http://www.wikidata.org/entity/Q19052550
+"3 Octoberstr.",http://www.wikidata.org/entity/Q19052550
 "Hof van Venetie",http://www.wikidata.org/entity/Q19255249
 "Hof van Venetin",http://www.wikidata.org/entity/Q19255249
 Marienpoelstraat,http://www.wikidata.org/entity/Q19335978
@@ -464,12 +509,18 @@ Marienpolstraat,http://www.wikidata.org/entity/Q19335978
 Mariepoelstraat,http://www.wikidata.org/entity/Q19335978
 Marieenpoelstraat,http://www.wikidata.org/entity/Q19335978
 Mariapoelstraat,http://www.wikidata.org/entity/Q19335978
+"Marieën Poelstraat",http://www.wikidata.org/entity/Q19335978
+Marienpoelstra,http://www.wikidata.org/entity/Q19335978
+Mairenpoelstraat,http://www.wikidata.org/entity/Q19335978
+Marieën-Poelstraat,http://www.wikidata.org/entity/Q19335978
 "P. Krügerstraat",http://www.wikidata.org/entity/Q19408992
 "J. Krügerstraat",http://www.wikidata.org/entity/Q19408992
 "P. Krugerstraat",http://www.wikidata.org/entity/Q19408992
 A.Krugerstraat,http://www.wikidata.org/entity/Q19408992
 Paul-Krugerstraat,http://www.wikidata.org/entity/Q19408992
 Paulkrugerstraat,http://www.wikidata.org/entity/Q19408992
+"P. Krügestaat",http://www.wikidata.org/entity/Q19408992
+"P. Krugerstr.",http://www.wikidata.org/entity/Q19408992
 "Zoeterwoudsche singel",http://www.wikidata.org/entity/Q2631099
 "Zoeterwoudsche Singel",http://www.wikidata.org/entity/Q2631099
 "Zoeterwoudse singel",http://www.wikidata.org/entity/Q2631099
@@ -495,6 +546,8 @@ Zoetwoudschesingel,http://www.wikidata.org/entity/Q2631099
 "Z. Woudschesingel",http://www.wikidata.org/entity/Q2631099
 "Zwoudsche Singel",http://www.wikidata.org/entity/Q2631099
 "Zoetwoudesche Singel",http://www.wikidata.org/entity/Q2631099
+"Z..W. singel",http://www.wikidata.org/entity/Q2631099
+"Z.W Singel",http://www.wikidata.org/entity/Q2631099
 Sitterlaan,http://www.wikidata.org/entity/Q19004260
 Sitterlann,http://www.wikidata.org/entity/Q19004260
 Siterlaan,http://www.wikidata.org/entity/Q19004260
@@ -508,6 +561,7 @@ Zoeterwoudsenweg,http://www.wikidata.org/entity/Q18955373
 Zoeterwoudescheweg,http://www.wikidata.org/entity/Q18955373
 Zoeterwoudschenweg,http://www.wikidata.org/entity/Q18955373
 Zoeterwoudschen-weg,http://www.wikidata.org/entity/Q18955373
+Zoetwoudescheweg,http://www.wikidata.org/entity/Q18955373
 Dozijstraat,http://www.wikidata.org/entity/Q19016116
 Dozustraat,http://www.wikidata.org/entity/Q19016116
 Docijstraat,http://www.wikidata.org/entity/Q19016116
@@ -539,6 +593,7 @@ Pres.Steijnstraat,http://www.wikidata.org/entity/Q19429582
 "Fr. Steynstraat",http://www.wikidata.org/entity/Q19429582
 "Pr. Steynstr.",http://www.wikidata.org/entity/Q19429582
 "Pres. Steinstr.",http://www.wikidata.org/entity/Q19429582
+"Pres. Strijnstr",http://www.wikidata.org/entity/Q19429582
 "van der Waalstraat",http://www.wikidata.org/entity/Q19619969
 "v.d. Waalsstraat",http://www.wikidata.org/entity/Q19619969
 "v.d. Waalstraat",http://www.wikidata.org/entity/Q19619969
@@ -590,8 +645,11 @@ v.d.Waalstraat,http://www.wikidata.org/entity/Q19619969
 Morschstraat,http://www.wikidata.org/entity/Q19350673
 Moschstraat,http://www.wikidata.org/entity/Q19350673
 Merschstraat,http://www.wikidata.org/entity/Q19350673
+Morschstr.,http://www.wikidata.org/entity/Q19350673
+Marschstr.,http://www.wikidata.org/entity/Q19350673
 "Jan van Galenstraat",http://www.wikidata.org/entity/Q19620451
 "Van Gaalenstraat",http://www.wikidata.org/entity/Q19620451
+"van Galenstrraat",http://www.wikidata.org/entity/Q19620451
 "Nieuwe Burgsteeg",http://www.wikidata.org/entity/Q19355230
 "Nieuwe Brugsteeg",http://www.wikidata.org/entity/Q19355230
 "Nieuwe Brugstreeg",http://www.wikidata.org/entity/Q19355230
@@ -618,6 +676,7 @@ Hooflandschekerkgracht,http://www.wikidata.org/entity/Q3317013
 "Hoogelendsche Kerkgracht",http://www.wikidata.org/entity/Q3317013
 "Hooglandsche-Kerkgracht ",http://www.wikidata.org/entity/Q3317013
 "Hooglandsche-Kerkgracht ",http://www.wikidata.org/entity/Q3317013
+Hooglandsche-Kerkgracht,http://www.wikidata.org/entity/Q3317013
 "Nic. Beetsstraat",http://www.wikidata.org/entity/Q19354162
 "Nic. Beetsstr.",http://www.wikidata.org/entity/Q19354162
 Nic.Beetsatraat,http://www.wikidata.org/entity/Q19354162
@@ -636,6 +695,7 @@ Nicolaas-Beetsstraat,http://www.wikidata.org/entity/Q19354162
 "St. Jacobsgracht",http://www.wikidata.org/entity/Q19515754
 St.Jacobsgracht,http://www.wikidata.org/entity/Q19515754
 "Sint Jaobsgracht",http://www.wikidata.org/entity/Q19515754
+Jacobsgracht,http://www.wikidata.org/entity/Q19515754
 "Buijs Ballotstraat",http://www.wikidata.org/entity/Q18981451
 "Buis Ballotstraat",http://www.wikidata.org/entity/Q18981451
 "Buijs Balotstraat",http://www.wikidata.org/entity/Q18981451
@@ -645,6 +705,7 @@ Buijs-Ballotstraat,http://www.wikidata.org/entity/Q18981451
 "B. Ballotstraat",http://www.wikidata.org/entity/Q18981451
 Buisballotstraat,http://www.wikidata.org/entity/Q18981451
 Biuijs-Ballotstraat,http://www.wikidata.org/entity/Q18981451
+"B. Balotstraat",http://www.wikidata.org/entity/Q18981451
 "K. Galgenwater",http://www.wikidata.org/entity/Q2085680
 "K. Galgewater",http://www.wikidata.org/entity/Q2085680
 "Kort. Galgewater",http://www.wikidata.org/entity/Q2085680
@@ -656,6 +717,7 @@ Biuijs-Ballotstraat,http://www.wikidata.org/entity/Q18981451
 "L. Agnietenstraat",http://www.wikidata.org/entity/Q19319939
 "K. Agnietenstraat",http://www.wikidata.org/entity/Q19319939
 "Lange Agnietstraat",http://www.wikidata.org/entity/Q19319939
+"Lange Agnietenstr",http://www.wikidata.org/entity/Q19319939
 "St. Aagtenstraat",http://www.wikidata.org/entity/Q19515450
 "St Aagtenstraat",http://www.wikidata.org/entity/Q19515450
 "St, Aagtenstraat",http://www.wikidata.org/entity/Q19515450
@@ -663,11 +725,16 @@ St.Aagtenstraat,http://www.wikidata.org/entity/Q19515450
 Sint-Aagtenstraat,http://www.wikidata.org/entity/Q19515450
 "St, Aagtenstraat",http://www.wikidata.org/entity/Q19515450
 "St, Aagtenstraat",http://www.wikidata.org/entity/Q19515450
+"St Aagtenstr",http://www.wikidata.org/entity/Q19515450
+"St. Aagtenstr.",http://www.wikidata.org/entity/Q19515450
+"St. Aagtenstr",http://www.wikidata.org/entity/Q19515450
 "v.d. Duynstraat",http://www.wikidata.org/entity/Q19619594
 "Van der Duinstraat",http://www.wikidata.org/entity/Q19619594
 "v.d. Duinstraat",http://www.wikidata.org/entity/Q19619594
 "Van der Duijnstraat",http://www.wikidata.org/entity/Q19619594
 "vd Duinstraat",http://www.wikidata.org/entity/Q19619594
+"v d Duijnstraat",http://www.wikidata.org/entity/Q19619594
+"van de Duijnstraat",http://www.wikidata.org/entity/Q19619594
 "J. Willemshof",http://www.wikidata.org/entity/Q106393178
 "Jan Willemshof",http://www.wikidata.org/entity/Q106393178
 "Jan Willemhof",http://www.wikidata.org/entity/Q106393178
@@ -686,12 +753,14 @@ Genestestraat,http://www.wikidata.org/entity/Q19007959
 "Hooglandsche Kerkoorsteeg",http://www.wikidata.org/entity/Q19257350
 "Hoogelandsche Kerkkoorsteeg",http://www.wikidata.org/entity/Q19257350
 Hooglandschekerkoorsteeg,http://www.wikidata.org/entity/Q19257350
+"Hooglandse Kerkkoorsteeg",http://www.wikidata.org/entity/Q19257350
 Groenenhazengracht,http://www.wikidata.org/entity/Q19207200
 Groenhazegracht,http://www.wikidata.org/entity/Q19207200
 Stieltjesstr.,http://www.wikidata.org/entity/Q19551034
 Sieltjesstraat,http://www.wikidata.org/entity/Q19551034
 Stieltjestraat,http://www.wikidata.org/entity/Q19551034
 Stiettjesstraat,http://www.wikidata.org/entity/Q19551034
+Stiletjesstraat,http://www.wikidata.org/entity/Q19551034
 Minnenbroedersgracht,http://www.wikidata.org/entity/Q19346825
 Miinnebroersgracht,http://www.wikidata.org/entity/Q19346825
 Minnebroedersgracht,http://www.wikidata.org/entity/Q19346825
@@ -713,6 +782,9 @@ Tieboelsiegenbeekstraat,http://www.wikidata.org/entity/Q19566475
 "Tib. Siegenbeekstraat",http://www.wikidata.org/entity/Q19566475
 "Tieboel-Siegebeekstraat ",http://www.wikidata.org/entity/Q19566475
 "Tieboel-Siegebeekstraat ",http://www.wikidata.org/entity/Q19566475
+Tiboelsigenbeekstraat,http://www.wikidata.org/entity/Q19566475
+"Tiebol Siegenbeekestraat",http://www.wikidata.org/entity/Q19566475
+Tieboel-Siegebeekstraat,http://www.wikidata.org/entity/Q19566475
 "Van Houtkade",http://www.wikidata.org/entity/Q19262618
 "J. v. Houtkade",http://www.wikidata.org/entity/Q19262618
 "Jan v. Houtkade",http://www.wikidata.org/entity/Q19262618
@@ -779,6 +851,8 @@ Nieuwe-Rijn,http://www.wikidata.org/entity/Q57945772
 Nieuwerijn,http://www.wikidata.org/entity/Q57945772
 "Jac. Catslaan",http://www.wikidata.org/entity/Q19273834
 "Ja. Catslaan",http://www.wikidata.org/entity/Q19273834
+Jabobcatslaan,http://www.wikidata.org/entity/Q19273834
+"Jacob Castlaan",http://www.wikidata.org/entity/Q19273834
 "'t kort. Rapenburg",http://www.wikidata.org/entity/Q19312123
 "Kort Rapanburg",http://www.wikidata.org/entity/Q19312123
 "Korte Rapenburg",http://www.wikidata.org/entity/Q19312123
@@ -798,6 +872,7 @@ Utrechtsveer,http://www.wikidata.org/entity/Q19575932
 Utrechtsche-Veer,http://www.wikidata.org/entity/Q19575932
 "Utrechtse-Veer ",http://www.wikidata.org/entity/Q19575932
 "Utrechtse-Veer ",http://www.wikidata.org/entity/Q19575932
+Utrechtse-Veer,http://www.wikidata.org/entity/Q19575932
 Cronesteijnkade,http://www.wikidata.org/entity/Q18985360
 Cronensteinkade,http://www.wikidata.org/entity/Q18985360
 Cronestijnkade,http://www.wikidata.org/entity/Q18985360
@@ -813,6 +888,7 @@ Witte-Singel,http://www.wikidata.org/entity/Q2354784
 W.Singel,http://www.wikidata.org/entity/Q2354784
 O.Singel,http://www.wikidata.org/entity/Q2354784
 Wittesiingel,http://www.wikidata.org/entity/Q2354784
+"de Witte Singel",http://www.wikidata.org/entity/Q2354784
 "Lagen Rijndijk",http://www.wikidata.org/entity/Q19317611
 "Lage Rijndijk @",http://www.wikidata.org/entity/Q19317611
 "Lange Rijndijk",http://www.wikidata.org/entity/Q19317611
@@ -822,6 +898,7 @@ Lage-Rijndijk,http://www.wikidata.org/entity/Q19317611
 "Lage Rijndijk t",http://www.wikidata.org/entity/Q19317611
 "L. Rijndijk",http://www.wikidata.org/entity/Q19317611
 "Laage Rijndijk",http://www.wikidata.org/entity/Q19317611
+"lage Rijndijk.",http://www.wikidata.org/entity/Q19317611
 Rijsburgerweg,http://www.wikidata.org/entity/Q19469591
 Rijjnsburgerweg,http://www.wikidata.org/entity/Q19469591
 Reinsburgerweg,http://www.wikidata.org/entity/Q19469591
@@ -850,8 +927,10 @@ Pieterskerk-koorsteeg,http://www.wikidata.org/entity/Q19420845
 Peterskerkkoorsteeg,http://www.wikidata.org/entity/Q19420845
 Piterskerkkoorsteeg,http://www.wikidata.org/entity/Q19420845
 PieterKerkoorsteeg,http://www.wikidata.org/entity/Q19420845
+"Pieters Kerk Koorsteeg",http://www.wikidata.org/entity/Q19420845
 Drifstraat,http://www.wikidata.org/entity/Q19056409
 Driftstaat,http://www.wikidata.org/entity/Q19056409
+Driftstr.,http://www.wikidata.org/entity/Q19056409
 Noordeindsplein,http://www.wikidata.org/entity/Q19372025
 Noordeinsplein,http://www.wikidata.org/entity/Q19372025
 Noordeidsplein,http://www.wikidata.org/entity/Q19372025
@@ -883,6 +962,7 @@ Da-Costastraat,http://www.wikidata.org/entity/Q18986344
 Costastraat,http://www.wikidata.org/entity/Q18986344
 "da Costrastraat",http://www.wikidata.org/entity/Q18986344
 "de Costrastraat",http://www.wikidata.org/entity/Q18986344
+"Da Coastastraar",http://www.wikidata.org/entity/Q18986344
 "O. Vest",http://www.wikidata.org/entity/Q19402699
 "Oude - Vest",http://www.wikidata.org/entity/Q19402699
 Oudevest,http://www.wikidata.org/entity/Q19402699
@@ -920,12 +1000,18 @@ Haarlemmersraat,http://www.wikidata.org/entity/Q1968539
 Haarlemmeerstraat,http://www.wikidata.org/entity/Q1968539
 Harlemmerstraat,http://www.wikidata.org/entity/Q1968539
 "Haarl str",http://www.wikidata.org/entity/Q1968539
+Haarlemmerersraat,http://www.wikidata.org/entity/Q1968539
+Haarl.str.,http://www.wikidata.org/entity/Q1968539
 Valkesteeg,http://www.wikidata.org/entity/Q19577124
 Middeweg,http://www.wikidata.org/entity/Q19345624
 Middenweg,http://www.wikidata.org/entity/Q19345624
 "de Meij van Streefkerkstraat",http://www.wikidata.org/entity/Q19010768
 "De van Streefkerkstraat",http://www.wikidata.org/entity/Q19010768
 "Meij van Streefkerkstraat",http://www.wikidata.org/entity/Q19010768
+"De Meij van Streefkerkstrata",http://www.wikidata.org/entity/Q19010768
+"M. van Streefkerkstraat",http://www.wikidata.org/entity/Q19010768
+"de Mey van Streefkerkstraat",http://www.wikidata.org/entity/Q19010768
+"de Meyvan Streefkerkstraat",http://www.wikidata.org/entity/Q19010768
 "Jan Willem Frisostraat",http://www.wikidata.org/entity/Q19265615
 "J.W. Frisostraat",http://www.wikidata.org/entity/Q19265615
 "J. W. Frisostraat",http://www.wikidata.org/entity/Q19265615
@@ -947,12 +1033,16 @@ Hoopstraat,http://www.wikidata.org/entity/Q2101046
 Bakkerkorfstraat,http://www.wikidata.org/entity/Q18941063
 Bakkerkorffstraat,http://www.wikidata.org/entity/Q18941063
 Bakkerskorfstraat,http://www.wikidata.org/entity/Q18941063
+Bakkerkorfstr,http://www.wikidata.org/entity/Q18941063
 Rembrandstraat,http://www.wikidata.org/entity/Q19464713
 Rembrandtstrat,http://www.wikidata.org/entity/Q19464713
 "Rembrandstraat o",http://www.wikidata.org/entity/Q19464713
+Rembrandtstr.,http://www.wikidata.org/entity/Q19464713
 Druckerstaat,http://www.wikidata.org/entity/Q19056711
 Drukkerstraat,http://www.wikidata.org/entity/Q19056711
 Druckersttraat,http://www.wikidata.org/entity/Q19056711
+Druckerstr,http://www.wikidata.org/entity/Q19056711
+Drukkerstr.,http://www.wikidata.org/entity/Q19056711
 Sationsplein,http://www.wikidata.org/entity/Q19546878
 Stionsplein,http://www.wikidata.org/entity/Q19546878
 Stationspleinj,http://www.wikidata.org/entity/Q19546878
@@ -965,6 +1055,7 @@ Schuttestraat,http://www.wikidata.org/entity/Q19513092
 Schuttersstraat,http://www.wikidata.org/entity/Q19513092
 Hartmannstraat,http://www.wikidata.org/entity/Q19189004
 Harmanstraat,http://www.wikidata.org/entity/Q19189004
+Hartmanstr,http://www.wikidata.org/entity/Q19189004
 "de Goejestraat",http://www.wikidata.org/entity/Q19008048
 Goejestraat,http://www.wikidata.org/entity/Q19008048
 "de Goeijestraat",http://www.wikidata.org/entity/Q19008048
@@ -972,6 +1063,7 @@ Goeijestraat,http://www.wikidata.org/entity/Q19008048
 "De Goejeestraat",http://www.wikidata.org/entity/Q19008048
 Goejestrat,http://www.wikidata.org/entity/Q19008048
 "Goejé straat ",http://www.wikidata.org/entity/Q19008048
+"Goejé straat",http://www.wikidata.org/entity/Q19008048
 Korenvaarstraat,http://www.wikidata.org/entity/Q19311397
 Koorevaarstraat,http://www.wikidata.org/entity/Q19311397
 Korenaarstraat,http://www.wikidata.org/entity/Q19311397
@@ -988,16 +1080,19 @@ Korevaarstr,http://www.wikidata.org/entity/Q19311397
 "Anna Poulownastraat",http://www.wikidata.org/entity/Q18937779
 "Anna Pawlownastraat",http://www.wikidata.org/entity/Q18937779
 "Anna Poulouwnastraat",http://www.wikidata.org/entity/Q18937779
+"Anna Pouwlownestraat",http://www.wikidata.org/entity/Q18937779
 Hanzenstraat,http://www.wikidata.org/entity/Q19185521
 Hansestraat,http://www.wikidata.org/entity/Q19185521
 Hanssenstraat,http://www.wikidata.org/entity/Q19185521
 Hansenstrat,http://www.wikidata.org/entity/Q19185521
 Hanzestraat,http://www.wikidata.org/entity/Q19185521
+Hensenstraat,http://www.wikidata.org/entity/Q19185521
 Lobsenstraat,http://www.wikidata.org/entity/Q19329915
 Lopsenstr.,http://www.wikidata.org/entity/Q19329915
 Lopsestraat,http://www.wikidata.org/entity/Q19329915
 "van der Hoevenstraat",http://www.wikidata.org/entity/Q19619703
 "V.d. Hoevenstraat",http://www.wikidata.org/entity/Q19619703
+V.d.Hoevenstraat,http://www.wikidata.org/entity/Q19619703
 Spiegelstraat,http://www.wikidata.org/entity/Q19532992
 Spiechelstraat,http://www.wikidata.org/entity/Q19532992
 Spiegelstraar,http://www.wikidata.org/entity/Q19532992
@@ -1012,6 +1107,7 @@ Levendaa,http://www.wikidata.org/entity/Q1867200
 Prins-Frederikstraat,http://www.wikidata.org/entity/Q19430242
 Prins-Fredrikstraat,http://www.wikidata.org/entity/Q19430242
 Prins-Fredderikstraat,http://www.wikidata.org/entity/Q19430242
+"Pr Fredrikstraat",http://www.wikidata.org/entity/Q19430242
 "ter Haarkade",http://www.wikidata.org/entity/Q19565202
 Terhaarkade,http://www.wikidata.org/entity/Q19565202
 Haarkade,http://www.wikidata.org/entity/Q19565202
@@ -1019,6 +1115,9 @@ Coornherstraat,http://www.wikidata.org/entity/Q18983002
 Coornherrstraat,http://www.wikidata.org/entity/Q18983002
 Coorhertstraat,http://www.wikidata.org/entity/Q18983002
 Coornhartstraat,http://www.wikidata.org/entity/Q18983002
+Coornertsraat,http://www.wikidata.org/entity/Q18983002
+Koornherthstraat,http://www.wikidata.org/entity/Q18983002
+Coornhertstr,http://www.wikidata.org/entity/Q18983002
 Klosksteeg,http://www.wikidata.org/entity/Q19304138
 Bloksteeg,http://www.wikidata.org/entity/Q19304138
 Noordrundersteeg,http://www.wikidata.org/entity/Q19371504
@@ -1033,6 +1132,7 @@ Noordrudersteeg,http://www.wikidata.org/entity/Q19371504
 "Hoga de Vriesstraat",http://www.wikidata.org/entity/Q19264933
 "H, de Vriesstraat",http://www.wikidata.org/entity/Q19264933
 "Hugo de Vriessttraat",http://www.wikidata.org/entity/Q19264933
+"H. de Vriesestraat",http://www.wikidata.org/entity/Q19264933
 Sophiatraat,http://www.wikidata.org/entity/Q19523241
 Sophistraat,http://www.wikidata.org/entity/Q19523241
 Sophiastraaat,http://www.wikidata.org/entity/Q19523241
@@ -1049,11 +1149,18 @@ Rodenburgenstraat,http://www.wikidata.org/entity/Q19479751
 Roodeburgerstraat,http://www.wikidata.org/entity/Q19479751
 Roodenburgenstraat,http://www.wikidata.org/entity/Q19479751
 "rodenburgstraat ",http://www.wikidata.org/entity/Q19479751
+rodenburgstraat,http://www.wikidata.org/entity/Q19479751
+Rodenburgertsraat,http://www.wikidata.org/entity/Q19479751
+Roodenburgstraat,http://www.wikidata.org/entity/Q19479751
 "Pieter Huibertsshof",http://www.wikidata.org/entity/Q105495786
 "Pieters Huibertshof",http://www.wikidata.org/entity/Q105495786
 "Piter Huibertshof",http://www.wikidata.org/entity/Q105495786
 "P. Huibertshof",http://www.wikidata.org/entity/Q105495786
 "P. Huijbershof",http://www.wikidata.org/entity/Q105495786
+P.Huibertshof,http://www.wikidata.org/entity/Q105495786
+Pietershuibershof,http://www.wikidata.org/entity/Q105495786
+Huibertshof,http://www.wikidata.org/entity/Q105495786
+"Pieter Huiberhof",http://www.wikidata.org/entity/Q105495786
 Kortenaarstraat,http://www.wikidata.org/entity/Q19312891
 Kortenaestraat,http://www.wikidata.org/entity/Q19312891
 Korternaerstraat,http://www.wikidata.org/entity/Q19312891
@@ -1061,6 +1168,7 @@ Kortenaerstaat,http://www.wikidata.org/entity/Q19312891
 Kotenaerstraat,http://www.wikidata.org/entity/Q19312891
 Kortenaarstrat,http://www.wikidata.org/entity/Q19312891
 Kortenearstraat,http://www.wikidata.org/entity/Q19312891
+Kortenaerstr.,http://www.wikidata.org/entity/Q19312891
 Smidsteeg,http://www.wikidata.org/entity/Q19522236
 Smitsteeg,http://www.wikidata.org/entity/Q19522236
 Smitssteeg,http://www.wikidata.org/entity/Q19522236
@@ -1071,10 +1179,13 @@ Schagenstraat,http://www.wikidata.org/entity/Q19508243
 Zonneveldsraat,http://www.wikidata.org/entity/Q18956141
 Zonneveltstraat,http://www.wikidata.org/entity/Q18956141
 Zonneveldstaat,http://www.wikidata.org/entity/Q18956141
+Zonneveldstr.,http://www.wikidata.org/entity/Q18956141
+Zonneveldstr,http://www.wikidata.org/entity/Q18956141
 Vreeswijkstraat,http://www.wikidata.org/entity/Q19642790
 Vreeuwijkstraat,http://www.wikidata.org/entity/Q19642790
 Vrieewijkstraat,http://www.wikidata.org/entity/Q19642790
 Vrreewijkstraat,http://www.wikidata.org/entity/Q19642790
+Vreewijkstr.,http://www.wikidata.org/entity/Q19642790
 Valderstraat,http://www.wikidata.org/entity/Q19576271
 Valdestraat,http://www.wikidata.org/entity/Q19576271
 Fliet,http://www.wikidata.org/entity/Q2687545
@@ -1101,18 +1212,23 @@ Leegewerfsteeg,http://www.wikidata.org/entity/Q19323904
 Legerwerfsteeg,http://www.wikidata.org/entity/Q19323904
 Lagewerfsteeg,http://www.wikidata.org/entity/Q19323904
 "Ledge Werfstraat",http://www.wikidata.org/entity/Q19323904
+"Leege Werfstaat",http://www.wikidata.org/entity/Q19323904
 Heemskerkstr.,http://www.wikidata.org/entity/Q19202591
 Heemkerkstraat,http://www.wikidata.org/entity/Q19202591
+Keemkerkstraat,http://www.wikidata.org/entity/Q19202591
 "v. Speijkstraat",http://www.wikidata.org/entity/Q19624398
 "van Speijckstraat",http://www.wikidata.org/entity/Q19624398
 "Van Speijkstraat",http://www.wikidata.org/entity/Q19624398
 "v. Speykstraat",http://www.wikidata.org/entity/Q19624398
+"van spijkstraat",http://www.wikidata.org/entity/Q19624398
+"Van Spiekstraat",http://www.wikidata.org/entity/Q19624398
 "Roemer Visscherstr",http://www.wikidata.org/entity/Q19476191
 "Roemer Visserstraat",http://www.wikidata.org/entity/Q19476191
 Roemervisserstraat,http://www.wikidata.org/entity/Q19476191
 Roemer-Visscherstraat,http://www.wikidata.org/entity/Q19476191
 Roemer-Visserstraat,http://www.wikidata.org/entity/Q19476191
 Roemervisscherstraat,http://www.wikidata.org/entity/Q19476191
+"Roemer de Visserstraat",http://www.wikidata.org/entity/Q19476191
 Lewerikstraat,http://www.wikidata.org/entity/Q19323761
 Leeuwerikstr.,http://www.wikidata.org/entity/Q19323761
 Leeuwrikstraat,http://www.wikidata.org/entity/Q19323761
@@ -1131,6 +1247,11 @@ Leeuwerikenstraat,http://www.wikidata.org/entity/Q19323761
 "Fr. van Mierisstraat",http://www.wikidata.org/entity/Q19159371
 "Fr.v.Mierisstraat ",http://www.wikidata.org/entity/Q19159371
 "Fr.v.Mierisstraat ",http://www.wikidata.org/entity/Q19159371
+"Fr. van Mierusstraat",http://www.wikidata.org/entity/Q19159371
+"Fr. van Mieristraat",http://www.wikidata.org/entity/Q19159371
+Fr.v.Mierisstraat,http://www.wikidata.org/entity/Q19159371
+"Fr van Mierusstraat",http://www.wikidata.org/entity/Q19159371
+"Fr. v. Mierisstr.",http://www.wikidata.org/entity/Q19159371
 "Van der Sande Bakhuizenlaan",http://www.wikidata.org/entity/Q19619278
 "Van der Zande Bakhuizenlaan",http://www.wikidata.org/entity/Q19619278
 "Van der Sande Bakhuijzenlaan",http://www.wikidata.org/entity/Q19619278
@@ -1145,6 +1266,9 @@ Leeuwerikenstraat,http://www.wikidata.org/entity/Q19323761
 "Van Sande Bakhuijzenlaan",http://www.wikidata.org/entity/Q19619278
 "van de Sande Bakhuizenlaan",http://www.wikidata.org/entity/Q19619278
 "Van der S.Bakhuijzenlaan",http://www.wikidata.org/entity/Q19619278
+"v/d. Sande Bakhuizenlaan",http://www.wikidata.org/entity/Q19619278
+"V.d. Zande Bakhuijzenlaan",http://www.wikidata.org/entity/Q19619278
+"van der Zande Bakhuijzenlaan",http://www.wikidata.org/entity/Q19619278
 Brandelerkade,http://www.wikidata.org/entity/Q19619410
 "v/d Brandelerkade",http://www.wikidata.org/entity/Q19619410
 "vd Brandelerkade",http://www.wikidata.org/entity/Q19619410
@@ -1158,6 +1282,7 @@ Pretoriastraat,http://www.wikidata.org/entity/Q19429617
 "De Ruiterstraat",http://www.wikidata.org/entity/Q19003279
 Ruijterstraat,http://www.wikidata.org/entity/Q19003279
 "De Ruytertraat",http://www.wikidata.org/entity/Q19003279
+Ruyterstraat,http://www.wikidata.org/entity/Q19003279
 "H. de Grootstraat",http://www.wikidata.org/entity/Q19264848
 "Hugo de Groot straat",http://www.wikidata.org/entity/Q19264848
 "Hugo de Grootstaat",http://www.wikidata.org/entity/Q19264848
@@ -1168,6 +1293,7 @@ Ruijterstraat,http://www.wikidata.org/entity/Q19003279
 "Huge de Grootstraat",http://www.wikidata.org/entity/Q19264848
 "Hugo de Grootstgraat",http://www.wikidata.org/entity/Q19264848
 "Hijgo de Grootstraat",http://www.wikidata.org/entity/Q19264848
+"Hugo de Grootstr.",http://www.wikidata.org/entity/Q19264848
 "P. de la Courtstraat",http://www.wikidata.org/entity/Q19413825
 "P. d. L. Courtstraat",http://www.wikidata.org/entity/Q19413825
 "Pieter de la Courtstrtaat",http://www.wikidata.org/entity/Q19413825
@@ -1180,6 +1306,8 @@ Ruijterstraat,http://www.wikidata.org/entity/Q19003279
 "Pieter de la Courtstaat",http://www.wikidata.org/entity/Q19413825
 "Pietr de La Courtstraat",http://www.wikidata.org/entity/Q19413825
 "de La Courtstraat",http://www.wikidata.org/entity/Q19413825
+"Pieter de Lacourtstraat",http://www.wikidata.org/entity/Q19413825
+"Pier de la Courstraat",http://www.wikidata.org/entity/Q19413825
 Joubertstr.,http://www.wikidata.org/entity/Q19281451
 Jouberstraat,http://www.wikidata.org/entity/Q19281451
 Spekhofje,http://www.wikidata.org/entity/Q19413859
@@ -1190,9 +1318,12 @@ Verversplein,http://www.wikidata.org/entity/Q19633766
 Ververplein,http://www.wikidata.org/entity/Q19633766
 Verwerstraatplein,http://www.wikidata.org/entity/Q19633766
 Verveplein,http://www.wikidata.org/entity/Q19633766
+"Ververstraat (plein)",http://www.wikidata.org/entity/Q19633766
 Herzogstraat,http://www.wikidata.org/entity/Q106395039
 Hartzogstraat,http://www.wikidata.org/entity/Q106395039
 Hetzogstraat,http://www.wikidata.org/entity/Q106395039
+Herzogstr.,http://www.wikidata.org/entity/Q106395039
+Hertzogstr.,http://www.wikidata.org/entity/Q106395039
 Touissantkade,http://www.wikidata.org/entity/Q19569937
 Toussantkade,http://www.wikidata.org/entity/Q19569937
 Tousaintkade,http://www.wikidata.org/entity/Q19569937
@@ -1204,6 +1335,8 @@ Tasselschadestraat,http://www.wikidata.org/entity/Q19565624
 "Tessels hadestraat",http://www.wikidata.org/entity/Q19565624
 Teswelschadestraat,http://www.wikidata.org/entity/Q19565624
 Tesselschadestrat,http://www.wikidata.org/entity/Q19565624
+Tesschelschadestraat,http://www.wikidata.org/entity/Q19565624
+Tessleschadestraat,http://www.wikidata.org/entity/Q19565624
 W.Rozenstraat,http://www.wikidata.org/entity/Q15884083
 "W. Rozenstraat",http://www.wikidata.org/entity/Q15884083
 Witte-Rozenstraat,http://www.wikidata.org/entity/Q15884083
@@ -1215,12 +1348,16 @@ Witte-Rozenstraat,http://www.wikidata.org/entity/Q15884083
 "Gerderd Doustraat",http://www.wikidata.org/entity/Q19140700
 "Gerard Douwstraat",http://www.wikidata.org/entity/Q19140700
 "Gerrit Doustraa",http://www.wikidata.org/entity/Q19140700
+"Gerard Douwestraat",http://www.wikidata.org/entity/Q19140700
+Gerard-Douwestraat,http://www.wikidata.org/entity/Q19140700
+"Gerard Doustraat tt",http://www.wikidata.org/entity/Q19140700
 "van Dillenburgstraat",http://www.wikidata.org/entity/Q19017901
 Dilleburgerstraat,http://www.wikidata.org/entity/Q19017901
 Dillenbutgerstraat,http://www.wikidata.org/entity/Q19017901
 Dillenburgstraat,http://www.wikidata.org/entity/Q19017901
 Ruigkade,http://www.wikidata.org/entity/Q19472966
 "Pr. Hendrikstraat",http://www.wikidata.org/entity/Q19430387
+"P. Hendrikstr.",http://www.wikidata.org/entity/Q19430387
 "O Rijn",http://www.wikidata.org/entity/Q2478570
 Ouderijn,http://www.wikidata.org/entity/Q2478570
 Oude-Rijn,http://www.wikidata.org/entity/Q2478570
@@ -1257,6 +1394,7 @@ Kolfmakerssteeg,http://www.wikidata.org/entity/Q19306154
 Koffmakersteeg,http://www.wikidata.org/entity/Q19306154
 Wolfmakersteeg,http://www.wikidata.org/entity/Q19306154
 Koefmakerssteeg,http://www.wikidata.org/entity/Q19306154
+Kolfmatensteeg,http://www.wikidata.org/entity/Q19306154
 Havenstraat,http://www.wikidata.org/entity/Q19200830
 Kraaienstraat,http://www.wikidata.org/entity/Q19313466
 Kraaiestraat,http://www.wikidata.org/entity/Q19313466
@@ -1285,17 +1423,20 @@ Francimonlaan,http://www.wikidata.org/entity/Q19158711
 Kamerling-Onneslaan,http://www.wikidata.org/entity/Q106393565
 "Kamerling- Onneslaan ",http://www.wikidata.org/entity/Q106393565
 "Kamerling- Onneslaan ",http://www.wikidata.org/entity/Q106393565
+"Kamerling- Onneslaan",http://www.wikidata.org/entity/Q106393565
 Cozijnstraat,http://www.wikidata.org/entity/Q18984463
 Casijnstraat,http://www.wikidata.org/entity/Q18984463
 Cosijstraat,http://www.wikidata.org/entity/Q18984463
 Cosijnstrat,http://www.wikidata.org/entity/Q18984463
 Dozijnstraat,http://www.wikidata.org/entity/Q18984463
 Cosijnsttraat,http://www.wikidata.org/entity/Q18984463
+Cosijnstr.,http://www.wikidata.org/entity/Q18984463
 Langediefsteeg,http://www.wikidata.org/entity/Q105491266
 "Lange Difsteeg",http://www.wikidata.org/entity/Q105491266
 "L. Diefsteeg",http://www.wikidata.org/entity/Q105491266
 Molenstaat,http://www.wikidata.org/entity/Q19348665
 Tolenstraat,http://www.wikidata.org/entity/Q19348665
+Moelnstraat,http://www.wikidata.org/entity/Q19348665
 Papegracht,http://www.wikidata.org/entity/Q19405488
 Oranjegracjt,http://www.wikidata.org/entity/Q19396832
 "Oranje gracht",http://www.wikidata.org/entity/Q19396832
@@ -1317,6 +1458,11 @@ Borgerstraar,http://www.wikidata.org/entity/Q18962611
 "1e Gortestr.",http://www.wikidata.org/entity/Q96348707
 Juianastraat,http://www.wikidata.org/entity/Q19282743
 "J.v.Stolbergstraat ",http://www.wikidata.org/entity/Q19282743
+"J. v, Stolbergstraat",http://www.wikidata.org/entity/Q19282743
+J.v.Stolbergstraat,http://www.wikidata.org/entity/Q19282743
+"J. van Stolbergstraat",http://www.wikidata.org/entity/Q19282743
+"Julia van Stolbergstraat",http://www.wikidata.org/entity/Q19282743
+"Jul. v. Stolbergstraat",http://www.wikidata.org/entity/Q19282743
 "Oost Dwarsgracht",http://www.wikidata.org/entity/Q19394943
 Oosterdwarsgracht,http://www.wikidata.org/entity/Q19394943
 Ververhof,http://www.wikidata.org/entity/Q106394778
@@ -1345,15 +1491,20 @@ Bakhuis-Rozeboomstraat,http://www.wikidata.org/entity/Q18941019
 "Bakhuijs-Rozeboomstraat ",http://www.wikidata.org/entity/Q18941019
 "Bakhuis Roozeboomstr.",http://www.wikidata.org/entity/Q18941019
 "Bakhuijs-Rozeboomstraat ",http://www.wikidata.org/entity/Q18941019
+Bakhuis-Roseboomstraat,http://www.wikidata.org/entity/Q18941019
+Bakhuijs-Rozeboomstraat,http://www.wikidata.org/entity/Q18941019
 Groenhavenstraat,http://www.wikidata.org/entity/Q19207227
 Groenhovestraat,http://www.wikidata.org/entity/Q19207227
 Groenhoevenstraat,http://www.wikidata.org/entity/Q19207227
+Groenhofstraat,http://www.wikidata.org/entity/Q19207227
 "2e Looiersstraat",http://www.wikidata.org/entity/Q98521235
 "2e Looerstraat",http://www.wikidata.org/entity/Q98521235
 "2 Looierstraat",http://www.wikidata.org/entity/Q98521235
 "2e Looijerstraat",http://www.wikidata.org/entity/Q98521235
 Ambachtsttraat,http://www.wikidata.org/entity/Q105495814
 Ambachtsstraat,http://www.wikidata.org/entity/Q105495814
+AMbachtstaat,http://www.wikidata.org/entity/Q105495814
+Ambachstr,http://www.wikidata.org/entity/Q105495814
 "Van Limburg Stierumstraat",http://www.wikidata.org/entity/Q19622538
 "Van Limburgstirumstraat",http://www.wikidata.org/entity/Q19622538
 "Van Limburg Strirumstraat",http://www.wikidata.org/entity/Q19622538
@@ -1363,10 +1514,16 @@ Ambachtsstraat,http://www.wikidata.org/entity/Q105495814
 "Van Limburg Stirumstr.",http://www.wikidata.org/entity/Q19622538
 "Limburg Stirumstr",http://www.wikidata.org/entity/Q19622538
 "Limburg Stirumstaat",http://www.wikidata.org/entity/Q19622538
+"Limburg Stierumstraat",http://www.wikidata.org/entity/Q19622538
+"Limburg Stijrumstraat",http://www.wikidata.org/entity/Q19622538
+"van Limburg Stijrumstraat",http://www.wikidata.org/entity/Q19622538
+"v. Limburg Stierumstraat",http://www.wikidata.org/entity/Q19622538
+"v. Limburg Stirumstraat",http://www.wikidata.org/entity/Q19622538
 Kooiparik,http://www.wikidata.org/entity/Q19307718
 Rusthoflaan,http://www.wikidata.org/entity/Q19332263
 Lusthoslaan,http://www.wikidata.org/entity/Q19332263
 Lushoflaan,http://www.wikidata.org/entity/Q19332263
+Lusterhoflaan,http://www.wikidata.org/entity/Q19332263
 Florisstraat,http://www.wikidata.org/entity/Q19152520
 Nippomstraat,http://www.wikidata.org/entity/Q19152520
 Niponstraat,http://www.wikidata.org/entity/Q19152520
@@ -1389,6 +1546,8 @@ Brreestraat,http://www.wikidata.org/entity/Q2946957
 Breestrsat,http://www.wikidata.org/entity/Q2946957
 Brestraat,http://www.wikidata.org/entity/Q2946957
 Brrestraat,http://www.wikidata.org/entity/Q2946957
+Bresstraat,http://www.wikidata.org/entity/Q2946957
+Breestr.,http://www.wikidata.org/entity/Q2946957
 Celebusstraat,http://www.wikidata.org/entity/Q18985020
 Celebestraat,http://www.wikidata.org/entity/Q18985020
 Selebesstraat,http://www.wikidata.org/entity/Q18985020
@@ -1398,14 +1557,18 @@ Celebesstr,http://www.wikidata.org/entity/Q18985020
 "5e Binnevestgracht",http://www.wikidata.org/entity/Q18926428
 "5e Binnenvestrgracht",http://www.wikidata.org/entity/Q18926428
 "5de Binnevestgracht",http://www.wikidata.org/entity/Q18926428
+"5e Binnenvetsgracht",http://www.wikidata.org/entity/Q18926428
 Evertsestraat,http://www.wikidata.org/entity/Q19123818
 Eversenstraat,http://www.wikidata.org/entity/Q19123818
+Evertsenstr.,http://www.wikidata.org/entity/Q19123818
 Kastankekade,http://www.wikidata.org/entity/Q19292082
 "Van Hoogendorpstraat",http://www.wikidata.org/entity/Q19621091
 "Van Hogedorpstraat",http://www.wikidata.org/entity/Q19621091
 Hoogendorpstraat,http://www.wikidata.org/entity/Q19621091
 Hogendorpstraat,http://www.wikidata.org/entity/Q19621091
 "v. Hogendorpstraat",http://www.wikidata.org/entity/Q19621091
+Hoogendropstraat,http://www.wikidata.org/entity/Q19621091
+"v. Hoogendorpstr.",http://www.wikidata.org/entity/Q19621091
 "Melchior Freublaan",http://www.wikidata.org/entity/Q19342811
 "Mechior Treublaan",http://www.wikidata.org/entity/Q19342811
 Melchior-Treublaan,http://www.wikidata.org/entity/Q19342811
@@ -1425,6 +1588,7 @@ Lamgegracht,http://www.wikidata.org/entity/Q1853174
 "Lange gracht",http://www.wikidata.org/entity/Q1853174
 Langebracht,http://www.wikidata.org/entity/Q1853174
 Langenstraat,http://www.wikidata.org/entity/Q19320692
+Langestr,http://www.wikidata.org/entity/Q19320692
 Voorstrat,http://www.wikidata.org/entity/Q19639786
 Houtstraat,http://www.wikidata.org/entity/Q19263709
 "3e Binnevestgracht",http://www.wikidata.org/entity/Q18926307
@@ -1436,6 +1600,7 @@ Nieuwe-Beestenmarkt,http://www.wikidata.org/entity/Q19354589
 "Nwe Beestenmarkt",http://www.wikidata.org/entity/Q19354589
 "?Nieuwe Beestenmarkt ",http://www.wikidata.org/entity/Q19354589
 "?Nieuwe Beestenmarkt ",http://www.wikidata.org/entity/Q19354589
+"?Nieuwe Beestenmarkt",http://www.wikidata.org/entity/Q19354589
 "4de Binnenvestgracht",http://www.wikidata.org/entity/Q2349715
 "4e Binnevestgracht",http://www.wikidata.org/entity/Q2349715
 "4e Binnenvastgracht",http://www.wikidata.org/entity/Q2349715
@@ -1460,6 +1625,7 @@ Wolmaranstraat,http://www.wikidata.org/entity/Q18948653
 Wolmeranstraat,http://www.wikidata.org/entity/Q18948653
 Wolmaransteeg,http://www.wikidata.org/entity/Q18948653
 "1e Binnevestgracht",http://www.wikidata.org/entity/Q18925160
+"1e Binnenvestrgraht",http://www.wikidata.org/entity/Q18925160
 Meezenstraat,http://www.wikidata.org/entity/Q19344896
 Westhavenstraat,http://www.wikidata.org/entity/Q19649519
 West-Havenstraat,http://www.wikidata.org/entity/Q19649519
@@ -1485,11 +1651,13 @@ Oudesingel,http://www.wikidata.org/entity/Q2591845
 "Oude Sengel",http://www.wikidata.org/entity/Q2591845
 Oudensingel,http://www.wikidata.org/entity/Q2591845
 Cudesingel,http://www.wikidata.org/entity/Q2591845
+"oude Singe",http://www.wikidata.org/entity/Q2591845
 Ceciliastraat,http://www.wikidata.org/entity/Q18981905
 Caiciliastraat,http://www.wikidata.org/entity/Q18981905
 Ceaciliastraat,http://www.wikidata.org/entity/Q18981905
 Caciliastraat,http://www.wikidata.org/entity/Q18981905
 Caecilliastraat,http://www.wikidata.org/entity/Q18981905
+Caceiliastraat,http://www.wikidata.org/entity/Q18981905
 "Van Ledenberghstraat",http://www.wikidata.org/entity/Q19621894
 "Van Ledenbergstraat",http://www.wikidata.org/entity/Q19621894
 "V. Ledenbergstraat",http://www.wikidata.org/entity/Q19621894
@@ -1500,16 +1668,20 @@ Catharijnestraat,http://www.wikidata.org/entity/Q18984462
 Catrijnestraat,http://www.wikidata.org/entity/Q18984462
 Cathrijnenstraat,http://www.wikidata.org/entity/Q18984462
 Catharijnenstraat,http://www.wikidata.org/entity/Q18984462
+Cathijnstraat,http://www.wikidata.org/entity/Q18984462
 Oltmanstraat,http://www.wikidata.org/entity/Q19393223
 Plesmanslaan,http://www.wikidata.org/entity/Q19426673
 Plesmanlaa,http://www.wikidata.org/entity/Q19426673
 Plesmanstraat,http://www.wikidata.org/entity/Q19426673
 Garemarkt,http://www.wikidata.org/entity/Q2639322
+garnmarkt,http://www.wikidata.org/entity/Q2639322
 "Lage Mare",http://www.wikidata.org/entity/Q2197649
 "Lange Marez",http://www.wikidata.org/entity/Q2197649
 "Lnge Mare",http://www.wikidata.org/entity/Q2197649
 "L. Mare",http://www.wikidata.org/entity/Q2197649
 "Lange Mars",http://www.wikidata.org/entity/Q2197649
+"L. Mate",http://www.wikidata.org/entity/Q2197649
+L.Mare,http://www.wikidata.org/entity/Q2197649
 Mauritstraat,http://www.wikidata.org/entity/Q19340323
 Mauritzstraat,http://www.wikidata.org/entity/Q19340323
 Maurisstraat,http://www.wikidata.org/entity/Q19340323
@@ -1518,6 +1690,7 @@ Stillerijn,http://www.wikidata.org/entity/Q19551137
 Groenoordstraast,http://www.wikidata.org/entity/Q19207320
 Groenoorfstraat,http://www.wikidata.org/entity/Q19207320
 Groenoorstraat,http://www.wikidata.org/entity/Q19207320
+Groenoordstr.,http://www.wikidata.org/entity/Q19207320
 Grevestraat,http://www.wikidata.org/entity/Q19205774
 Gravenstraat,http://www.wikidata.org/entity/Q19205774
 Grevemstraat,http://www.wikidata.org/entity/Q19205774
@@ -1525,21 +1698,25 @@ Thorbeckstraat,http://www.wikidata.org/entity/Q19566336
 Thorbekestraat,http://www.wikidata.org/entity/Q19566336
 Thorneckestraat,http://www.wikidata.org/entity/Q19566336
 Torbeckestraat,http://www.wikidata.org/entity/Q19566336
+Thorbeckestr.,http://www.wikidata.org/entity/Q19566336
 "P. J. Blokstraat",http://www.wikidata.org/entity/Q19404084
 P.J.Blokstraat,http://www.wikidata.org/entity/Q19404084
 "PJ. Blokstraat",http://www.wikidata.org/entity/Q19404084
 "J.P. Blokstraat",http://www.wikidata.org/entity/Q19404084
+"P.J. Blokstr.",http://www.wikidata.org/entity/Q19404084
 Knippelhoutstraat,http://www.wikidata.org/entity/Q19304888
 Fokkerstraat,http://www.wikidata.org/entity/Q19153197
 Formozastraat,http://www.wikidata.org/entity/Q19157619
 Formosestraat,http://www.wikidata.org/entity/Q19157619
 Formasastraat,http://www.wikidata.org/entity/Q19157619
+Fermossastraat,http://www.wikidata.org/entity/Q19157619
 Alexandersstraat,http://www.wikidata.org/entity/Q18936302
 Alexanderstrat,http://www.wikidata.org/entity/Q18936302
 Alezanderstraat,http://www.wikidata.org/entity/Q18936302
 Aexanderstraat,http://www.wikidata.org/entity/Q18936302
 Allexanderstraat,http://www.wikidata.org/entity/Q18936302
 Alaxandersstraat,http://www.wikidata.org/entity/Q18936302
+Alexanderstr.,http://www.wikidata.org/entity/Q18936302
 Havezaklaan,http://www.wikidata.org/entity/Q98605841
 Haerzaklaan,http://www.wikidata.org/entity/Q98605841
 Zeegersteeg,http://www.wikidata.org/entity/Q18952718
@@ -1554,6 +1731,7 @@ Vaarstraat,http://www.wikidata.org/entity/Q19576125
 Beestemarkt,http://www.wikidata.org/entity/Q2274574
 Begijnehof,http://www.wikidata.org/entity/Q18944645
 Begijnenhof,http://www.wikidata.org/entity/Q18944645
+Baggijnhof,http://www.wikidata.org/entity/Q18944645
 "Mare Singel",http://www.wikidata.org/entity/Q2013743
 Tesmanstraat,http://www.wikidata.org/entity/Q19564185
 Apothkersdijk,http://www.wikidata.org/entity/Q18939707
@@ -1583,6 +1761,7 @@ Vestentraat,http://www.wikidata.org/entity/Q19633928
 Vesterstraat,http://www.wikidata.org/entity/Q19633928
 Verstestraat,http://www.wikidata.org/entity/Q19633928
 Vestenstraat,http://www.wikidata.org/entity/Q19633928
+"Veste straat",http://www.wikidata.org/entity/Q19633928
 Vondellan,http://www.wikidata.org/entity/Q19638266
 Pieterskergracht,http://www.wikidata.org/entity/Q19420847
 Pietrskerkgracht,http://www.wikidata.org/entity/Q19420847
@@ -1594,6 +1773,7 @@ Doelgracht,http://www.wikidata.org/entity/Q19018878
 De-Wetstraat,http://www.wikidata.org/entity/Q19012128
 "de Wettstraat",http://www.wikidata.org/entity/Q19012128
 Wetstraat,http://www.wikidata.org/entity/Q19012128
+"de Wethstraat",http://www.wikidata.org/entity/Q19012128
 Leuvenstaat,http://www.wikidata.org/entity/Q19326186
 Leivenstraat,http://www.wikidata.org/entity/Q19326186
 Burggravelaan,http://www.wikidata.org/entity/Q2976475
@@ -1603,12 +1783,16 @@ Reitstraat,http://www.wikidata.org/entity/Q19464478
 Binnelaan,http://www.wikidata.org/entity/Q96353786
 Baartstraat,http://www.wikidata.org/entity/Q18941292
 Baatdtraat,http://www.wikidata.org/entity/Q18941292
+Baatsstraat,http://www.wikidata.org/entity/Q18941292
 Korte-Langestraat,http://www.wikidata.org/entity/Q19312541
 "K. Langestraat",http://www.wikidata.org/entity/Q19312541
+"K Langestaat",http://www.wikidata.org/entity/Q19312541
+Koret-Langestraat,http://www.wikidata.org/entity/Q19312541
 "Oranje Boomstraat",http://www.wikidata.org/entity/Q19396813
 Leeuwekenstraat,http://www.wikidata.org/entity/Q19323839
 Leeuwkensstraat,http://www.wikidata.org/entity/Q19323839
 Leeuwkenstraat,http://www.wikidata.org/entity/Q19323839
+Leeuwkusstraat,http://www.wikidata.org/entity/Q19323839
 Dondersteeg,http://www.wikidata.org/entity/Q19013215
 Pioenstraaat,http://www.wikidata.org/entity/Q19421752
 Athjehstraat,http://www.wikidata.org/entity/Q18938088
@@ -1618,17 +1802,22 @@ Athehstraat,http://www.wikidata.org/entity/Q18938088
 Athjestraat,http://www.wikidata.org/entity/Q18938088
 Athestraat,http://www.wikidata.org/entity/Q18938088
 Atjhestraat,http://www.wikidata.org/entity/Q18938088
+Atjehstr.,http://www.wikidata.org/entity/Q18938088
 Doelesteeg,http://www.wikidata.org/entity/Q19018887
 "3 Haverstraat",http://www.wikidata.org/entity/Q106394078
 Oomstraat,http://www.wikidata.org/entity/Q19388038
+Ohmstr.,http://www.wikidata.org/entity/Q19388038
 Tulpenstrat,http://www.wikidata.org/entity/Q19574196
 Kanaakstraat,http://www.wikidata.org/entity/Q19288323
 Kanaalsraat,http://www.wikidata.org/entity/Q19288323
+Kanaalstr.,http://www.wikidata.org/entity/Q19288323
 Meisjepoort,http://www.wikidata.org/entity/Q19342723
 Vredeshof,http://www.wikidata.org/entity/Q105501343
 Tranvaalkade,http://www.wikidata.org/entity/Q19570439
 Meermanhof,http://www.wikidata.org/entity/Q19341273
 Vondelstraat,http://www.wikidata.org/entity/Q19632494
+Warmondstraat,http://www.wikidata.org/entity/Q19632494
+Warmonderstr.,http://www.wikidata.org/entity/Q19632494
 "Mare Dijk",http://www.wikidata.org/entity/Q19334910
 Marsdijk,http://www.wikidata.org/entity/Q19334910
 Mredijk,http://www.wikidata.org/entity/Q19334910
@@ -1641,9 +1830,11 @@ Transvaahof,http://www.wikidata.org/entity/Q19570430
 Vaaetkade,http://www.wikidata.org/entity/Q19576101
 Vaarkade,http://www.wikidata.org/entity/Q19576101
 Lomboksstraat,http://www.wikidata.org/entity/Q19329383
+Lombokstr.,http://www.wikidata.org/entity/Q19329383
 Madusastraat,http://www.wikidata.org/entity/Q19340844
 Medusastraar,http://www.wikidata.org/entity/Q19340844
 "Medussastraat A",http://www.wikidata.org/entity/Q19340844
+Medustraat,http://www.wikidata.org/entity/Q19340844
 "Nieuwe Waarstraat",http://www.wikidata.org/entity/Q19355123
 "N. Waardstraat",http://www.wikidata.org/entity/Q19355123
 Markststeeg,http://www.wikidata.org/entity/Q15730612
@@ -1652,15 +1843,15 @@ Noordeine,http://www.wikidata.org/entity/Q2325530
 Noodeinde,http://www.wikidata.org/entity/Q2325530
 Noordeidne,http://www.wikidata.org/entity/Q2325530
 Noordeind,http://www.wikidata.org/entity/Q2325530
-Hofstraat,http://www.wikidata.org/entity/Q19253900
-Hoffstraat,http://www.wikidata.org/entity/Q19253900
 "Korte Hanssenstraat",http://www.wikidata.org/entity/Q19312421
 Korte-Hansenstraat,http://www.wikidata.org/entity/Q19312421
 "K. Hansenstraat",http://www.wikidata.org/entity/Q19312421
+"Korte Hanzestraat",http://www.wikidata.org/entity/Q19312421
 Oranjestaat,http://www.wikidata.org/entity/Q19397165
 "Oranjestraat #",http://www.wikidata.org/entity/Q19397165
 Oranjestrat,http://www.wikidata.org/entity/Q19397165
 Eranjestraat,http://www.wikidata.org/entity/Q19397165
+Oranjestr,http://www.wikidata.org/entity/Q19397165
 Bischuitsteeg,http://www.wikidata.org/entity/Q18950376
 Biscuitsteeg,http://www.wikidata.org/entity/Q18950376
 Koddensteeg,http://www.wikidata.org/entity/Q19305141
@@ -1673,16 +1864,23 @@ Rijtstraat,http://www.wikidata.org/entity/Q19470868
 Overijn,http://www.wikidata.org/entity/Q19403605
 Andriesschotkade,http://www.wikidata.org/entity/Q18935666
 Nassoustraat,http://www.wikidata.org/entity/Q19353056
+Nassuastraat,http://www.wikidata.org/entity/Q19353056
 "Van Lenepstraat",http://www.wikidata.org/entity/Q19622221
 "van Lennipstraat",http://www.wikidata.org/entity/Q19622221
+"Van Lennepstr",http://www.wikidata.org/entity/Q19622221
 Duuizenddraadsteeg,http://www.wikidata.org/entity/Q19057882
 Passteurstraat,http://www.wikidata.org/entity/Q19407167
+Patseurstraat,http://www.wikidata.org/entity/Q19407167
 "2de Haverstraat",http://www.wikidata.org/entity/Q106394029
 "Tweede Havenstraat",http://www.wikidata.org/entity/Q106394029
+"Twee Havenstraat",http://www.wikidata.org/entity/Q106394029
 Bloemmistenlaan,http://www.wikidata.org/entity/Q18958101
 Bloemistenlan,http://www.wikidata.org/entity/Q18958101
 "Verl. Bloemistenlaan",http://www.wikidata.org/entity/Q18958101
 Bloemsitenlaan,http://www.wikidata.org/entity/Q18958101
+"Vergengde Bloemistenlaan",http://www.wikidata.org/entity/Q18958101
+"Verl Bloemistenlaan",http://www.wikidata.org/entity/Q18958101
+"verlengde Bloemmistenlaan",http://www.wikidata.org/entity/Q18958101
 Wastraat,http://www.wikidata.org/entity/Q19645611
 Trompstrat,http://www.wikidata.org/entity/Q19572660
 Kininginnelaan,http://www.wikidata.org/entity/Q19307146
@@ -1691,21 +1889,29 @@ Sinonsteeg,http://www.wikidata.org/entity/Q19516551
 Psthuislaan,http://www.wikidata.org/entity/Q19411556
 Gevangenlaan,http://www.wikidata.org/entity/Q19411556
 Gevangenenlaan,http://www.wikidata.org/entity/Q19411556
+Gevangelaan,http://www.wikidata.org/entity/Q19411556
 Heinsiustraat,http://www.wikidata.org/entity/Q98505580
 Reinsiustraat,http://www.wikidata.org/entity/Q98505580
+Heinsiuistr,http://www.wikidata.org/entity/Q98505580
 Mooriaansteeg,http://www.wikidata.org/entity/Q19350581
 `Lammermarkt,http://www.wikidata.org/entity/Q4315899
 Lammerenmarkt,http://www.wikidata.org/entity/Q4315899
 Lammermakrt,http://www.wikidata.org/entity/Q4315899
 Pieterkerkstraat,http://www.wikidata.org/entity/Q19420849
 Staalwijksraat,http://www.wikidata.org/entity/Q19545924
+Staalwijkerstraat,http://www.wikidata.org/entity/Q19545924
+Staalwijkstr.,http://www.wikidata.org/entity/Q19545924
 Prins-Hendrikplein,http://www.wikidata.org/entity/Q19430316
 "Prins Hemdrikplein",http://www.wikidata.org/entity/Q19430316
 "P. Hendrikplein",http://www.wikidata.org/entity/Q19430316
 "Pr. Hendrikplein",http://www.wikidata.org/entity/Q19430316
 Lange-Scheistraat,http://www.wikidata.org/entity/Q19319904
 "L. Scheistraat",http://www.wikidata.org/entity/Q19319904
+L.Scheistraat,http://www.wikidata.org/entity/Q19319904
+"Lange Schiestraat",http://www.wikidata.org/entity/Q19319904
+Langescheistr,http://www.wikidata.org/entity/Q19319904
 Willemsstraat,http://www.wikidata.org/entity/Q19658253
+Willemstr,http://www.wikidata.org/entity/Q19658253
 Raven,http://www.wikidata.org/entity/Q2026116
 "de Haven",http://www.wikidata.org/entity/Q2026116
 Sionhof,http://www.wikidata.org/entity/Q19516547
@@ -1717,16 +1923,23 @@ Nieuwe-Mare,http://www.wikidata.org/entity/Q19354907
 Lelistraat,http://www.wikidata.org/entity/Q19324383
 Waarkerkplein,http://www.wikidata.org/entity/Q96000956
 Rijnzichstraat,http://www.wikidata.org/entity/Q19471737
+Rijnstr.,http://www.wikidata.org/entity/Q19471737
+Rijnstr,http://www.wikidata.org/entity/Q19471737
 Weddensteeg,http://www.wikidata.org/entity/Q19647194
 Hermanstaat,http://www.wikidata.org/entity/Q19250236
 "Berk en Daalstraatje",http://www.wikidata.org/entity/Q18948444
 "P.C. Hoofdlaan",http://www.wikidata.org/entity/Q19403991
 Boisokade,http://www.wikidata.org/entity/Q18961070
 Bisiotkade,http://www.wikidata.org/entity/Q18961070
+Bosoitkade,http://www.wikidata.org/entity/Q18961070
 Warmonderwef,http://www.wikidata.org/entity/Q19645496
 Cronjestraat,http://www.wikidata.org/entity/Q18985402
 Conjéstraat,http://www.wikidata.org/entity/Q18985402
+Crojestraat,http://www.wikidata.org/entity/Q18985402
+Cromjestraat,http://www.wikidata.org/entity/Q18985402
 "Pr. Wilhelminastraat",http://www.wikidata.org/entity/Q19434687
+Zuideruchtstraat,http://www.wikidata.org/entity/Q19434687
+Zuidzichtstraat,http://www.wikidata.org/entity/Q19434687
 "L. de Colignystraat",http://www.wikidata.org/entity/Q19330555
 Mooijapiksteeg,http://www.wikidata.org/entity/Q19350363
 Mooi-Jaapiksteeg,http://www.wikidata.org/entity/Q19350363
@@ -1738,10 +1951,14 @@ Hooglandsekerksteeg,http://www.wikidata.org/entity/Q19257328
 "Hooglandsche Kerksteeg",http://www.wikidata.org/entity/Q19257328
 Hooglandschekerksteeg,http://www.wikidata.org/entity/Q19257328
 "Hoogelandsche Kerksteeg",http://www.wikidata.org/entity/Q19257328
+"Hooglansche Kerksteeg",http://www.wikidata.org/entity/Q19257328
 Verdamstraam,http://www.wikidata.org/entity/Q19632960
 "Verdamstraat; ",http://www.wikidata.org/entity/Q19632960
 "Verdamstraat; ",http://www.wikidata.org/entity/Q19632960
 "Verdamstraat; ",http://www.wikidata.org/entity/Q19632960
+Verdamstraat;,http://www.wikidata.org/entity/Q19632960
+Verdamstr,http://www.wikidata.org/entity/Q19632960
+Verdamstr.,http://www.wikidata.org/entity/Q19632960
 Maarsmanssteeg,http://www.wikidata.org/entity/Q19332910
 Roombergerweg,http://www.wikidata.org/entity/Q19480038
 Furfmarkt,http://www.wikidata.org/entity/Q19574598
@@ -1764,6 +1981,10 @@ Maredijkhof,http://www.wikidata.org/entity/Q19334911
 Concientiestraat,http://www.wikidata.org/entity/Q19483427
 "Ruime Concentiusstraat",http://www.wikidata.org/entity/Q19483427
 "Ruime Concentiestraat",http://www.wikidata.org/entity/Q19483427
+Conscientiestraat,http://www.wikidata.org/entity/Q19483427
+Ruimeconcentiusstraat,http://www.wikidata.org/entity/Q19483427
+Concientiusstraat,http://www.wikidata.org/entity/Q19483427
+Consientiusstraat,http://www.wikidata.org/entity/Q19483427
 "Lucas van Leijdenstraat.",http://www.wikidata.org/entity/Q19331301
 "Marendorp-Dwarsstraat ",http://www.wikidata.org/entity/Q19334926
 "Marendorp-Dwarsstraat ",http://www.wikidata.org/entity/Q19334926
@@ -1772,209 +1993,70 @@ Maredorperdwarsstraat,http://www.wikidata.org/entity/Q19334926
 Maredorpschedwarsstraat,http://www.wikidata.org/entity/Q19334926
 Marendorp-Dwarsstraat,http://www.wikidata.org/entity/Q19334926
 "Marendorper Dwarsstraat",http://www.wikidata.org/entity/Q19334926
+Maredorpschedwarstraat,http://www.wikidata.org/entity/Q19334926
+Marendorpschedwarsstr.,http://www.wikidata.org/entity/Q19334926
+Maredorpschedwarsstr,http://www.wikidata.org/entity/Q19334926
 "Ende Geesterwetering",http://www.wikidata.org/entity/Q96000816
 "De Kaasmarkt",http://www.wikidata.org/entity/Q19283913
 Marinxstraat,http://www.wikidata.org/entity/Q19337178
 "Dwars Korenbrugsteeg",http://www.wikidata.org/entity/Q19058203
+"Dwars Koornburgsteeg",http://www.wikidata.org/entity/Q19058203
+"Dwars Korenburgsteeg",http://www.wikidata.org/entity/Q19058203
+Dwarskorenburgsteeg,http://www.wikidata.org/entity/Q19058203
 "Paulus Buijsstraat",http://www.wikidata.org/entity/Q19409097
 "De Plantage",http://www.wikidata.org/entity/Q19422076
 Poelgeesttsraat,http://www.wikidata.org/entity/Q19427215
+Poelgeestraat,http://www.wikidata.org/entity/Q19427215
+Poelgeesterstraat,http://www.wikidata.org/entity/Q19427215
 Krouwelsteeg,http://www.wikidata.org/entity/Q110977287
 Krauweelsteeg,http://www.wikidata.org/entity/Q110977287
 "v.d. Helmkade",http://www.wikidata.org/entity/Q105495841
+"vd. Helmkade",http://www.wikidata.org/entity/Q105495841
+"van de Helmkade",http://www.wikidata.org/entity/Q105495841
 Blansjaarspoort,http://www.wikidata.org/entity/Q110979574
+Blansjaapoort,http://www.wikidata.org/entity/Q110979574
 Mecklenburgstraat,http://www.wikidata.org/entity/Q19340623
 Lijsterbesstraat,http://www.wikidata.org/entity/Q19327368
 Sophiapoort,http://www.wikidata.org/entity/Q19523203
+Sophiaporrt,http://www.wikidata.org/entity/Q19523203
 Meerburgstraat,http://www.wikidata.org/entity/Q19341033
 Koornburgsteeg,http://www.wikidata.org/entity/Q19308096
 Haringkade,http://www.wikidata.org/entity/Q19546531
 Magdabenaarmoonstraat,http://www.wikidata.org/entity/Q19333776Lijstweg
 Ruimeconsientieplein,http://www.wikidata.org/entity/Q18982552
-Lange Pieterkerkkoorsteeg,http://www.wikidata.org/entity/Q110983716
-rodenburgstraat,http://www.wikidata.org/entity/Q19479751
-Conscientiestraat,http://www.wikidata.org/entity/Q19483427
-Bakhuis-Roseboomstraat,http://www.wikidata.org/entity/Q18941019
-Fr. van Mierusstraat,http://www.wikidata.org/entity/Q19159371
-van ‘t Hofstraat,http://www.wikidata.org/entity/Q19626046
-Van Hofstraat,http://www.wikidata.org/entity/Q19626046
-de Wethstraat,http://www.wikidata.org/entity/Q19012128
-Fr. van Mieristraat,http://www.wikidata.org/entity/Q19159371
-Van 't Hoofstraat,http://www.wikidata.org/entity/Q19626046
-garnmarkt,http://www.wikidata.org/entity/Q2639322
+"Lange Pieterkerkkoorsteeg",http://www.wikidata.org/entity/Q110983716
+"Lange Pieter Kerkkoorsteeg",http://www.wikidata.org/entity/Q110983716
 Vliertboompoort,http://www.wikidata.org/entity/Q111008223
-vd. Helmkade,http://www.wikidata.org/entity/Q105495841
-Keemkerkstraat,http://www.wikidata.org/entity/Q19202591
-"J. v, Stolbergstraat",http://www.wikidata.org/entity/Q19282743
-van t Hoffstraat,http://www.wikidata.org/entity/Q19626046
-Limburg Stierumstraat,http://www.wikidata.org/entity/Q19622538
-Sophiaporrt,http://www.wikidata.org/entity/Q19523203
-Caceiliastraat,http://www.wikidata.org/entity/Q18981905
-Z..W. singel,http://www.wikidata.org/entity/Q2631099
-Fr.v.Mierisstraat,http://www.wikidata.org/entity/Q19159371
-P.Huibertshof,http://www.wikidata.org/entity/Q105495786
 Vierboompoort,http://www.wikidata.org/entity/Q111008223
-Ruimeconcentiusstraat,http://www.wikidata.org/entity/Q19483427
-Blansjaapoort,http://www.wikidata.org/entity/Q110979574
-V.d.Hoevenstraat,http://www.wikidata.org/entity/Q19619703
 Vlierboomport,http://www.wikidata.org/entity/Q111008223
-Korte Lijsbetsteeg,http://www.wikidata.org/entity/Q110993675
-uiterstegrcht,http://www.wikidata.org/entity/Q19575486
+"Korte Lijsbetsteeg",http://www.wikidata.org/entity/Q110993675
 Halvemaanpoort,http://www.wikidata.org/entity/Q111008995
-Gerard Douwestraat,http://www.wikidata.org/entity/Q19140700
-Heernesteeg,http://www.wikidata.org/entity/Q19249728
-Goejé straat,http://www.wikidata.org/entity/Q19008048
-Vergengde Bloemistenlaan,http://www.wikidata.org/entity/Q18958101
 Floralan,http://www.wikidata.org/entity/Q110983640
-v d Duijnstraat,http://www.wikidata.org/entity/Q19619594
-H. Rijndjk,http://www.wikidata.org/entity/Q13727330
-Limburg Stijrumstraat,http://www.wikidata.org/entity/Q19622538
-H. de Vriesestraat,http://www.wikidata.org/entity/Q19264933
-Crojestraat,http://www.wikidata.org/entity/Q18985402
-v/d. Sande Bakhuizenlaan,http://www.wikidata.org/entity/Q19619278
-van spijkstraat,http://www.wikidata.org/entity/Q19624398
-Verl Bloemistenlaan,http://www.wikidata.org/entity/Q18958101
-Lange Haamsteeg,http://www.wikidata.org/entity/Q19460233
-L. Mate,http://www.wikidata.org/entity/Q2197649
-Hooglansche Kerksteeg,http://www.wikidata.org/entity/Q19257328
-Z.W Singel,http://www.wikidata.org/entity/Q2631099
-Korte Pieterkerkkoorsteeg,http://www.wikidata.org/entity/Q110983728
-L.Mare,http://www.wikidata.org/entity/Q2197649
-L.Scheistraat,http://www.wikidata.org/entity/Q19319904
-B. Balotstraat,http://www.wikidata.org/entity/Q18981451
-J.v.Stolbergstraat,http://www.wikidata.org/entity/Q19282743
-Bakhuijs-Rozeboomstraat,http://www.wikidata.org/entity/Q18941019
+"Lange Haamsteeg",http://www.wikidata.org/entity/Q19460233
+"Korte Pieterkerkkoorsteeg",http://www.wikidata.org/entity/Q110983728
 Terwepark,http://www.wikidata.org/entity/Q110977040
-Maredorpschedwarstraat,http://www.wikidata.org/entity/Q19334926
+Terweepakr,http://www.wikidata.org/entity/Q110977040
 kampersteef,http://www.wikidata.org/entity/Q19287054
-Cromjestraat,http://www.wikidata.org/entity/Q18985402
-T Hoffstraat,http://www.wikidata.org/entity/Q19253900
-H. Rijnsdijk,http://www.wikidata.org/entity/Q13727330
-Warmondstraat,http://www.wikidata.org/entity/Q19632494
-Samuel de Zeehof,http://www.wikidata.org/entity/Q19507217
+"Samuel de Zeehof",http://www.wikidata.org/entity/Q19507217
 Boommakrt,http://www.wikidata.org/entity/Q18962343
 Leidscheweg,http://www.wikidata.org/entity/Q19324046
-Alexanderstr.,http://www.wikidata.org/entity/Q18936302
-Marieën Poelstraat,http://www.wikidata.org/entity/Q19335978
-J. van Stolbergstraat,http://www.wikidata.org/entity/Q19282743
 Zuid-Singel,http://www.wikidata.org/entity/Q18958278
-Lange Pieter Kerkkoorsteeg,http://www.wikidata.org/entity/Q110983716
-Miraleksteeg,http://www.wikidata.org/entity/Q19346889
-Jabobcatslaan,http://www.wikidata.org/entity/Q19273834
-Jacobsgracht,http://www.wikidata.org/entity/Q19515754
-Tesschelschadestraat,http://www.wikidata.org/entity/Q19565624
-Lusterhoflaan,http://www.wikidata.org/entity/Q19332263
 Mierennesthof,http://www.wikidata.org/entity/Q2191299
 Koninckhof,http://www.wikidata.org/entity/Q17338997
-Staalwijkerstraat,http://www.wikidata.org/entity/Q19545924
-Patseurstraat,http://www.wikidata.org/entity/Q19407167
-Gerard-Douwestraat,http://www.wikidata.org/entity/Q19140700
-Heernesingel,http://www.wikidata.org/entity/Q2416400
-3 Goertestraat,http://www.wikidata.org/entity/Q96349030
-Poelgeestraat,http://www.wikidata.org/entity/Q19427215
-oude Singe,http://www.wikidata.org/entity/Q2591845
-van 't Hoofstrat,http://www.wikidata.org/entity/Q19626046
-K Langestaat,http://www.wikidata.org/entity/Q19312541
-Haarlemmerersraat,http://www.wikidata.org/entity/Q1968539
-Utersegracht,http://www.wikidata.org/entity/Q19575486
-5e Binnenvetsgracht,http://www.wikidata.org/entity/Q18926428
+"3 Goertestraat",http://www.wikidata.org/entity/Q96349030
 Durieuxstraat,http://www.wikidata.org/entity/Q19057059
-Twee Havenstraat,http://www.wikidata.org/entity/Q106394029
-Stiletjesstraat,http://www.wikidata.org/entity/Q19551034
-Van ‘t Hoffstraat,http://www.wikidata.org/entity/Q19626046
-Zoetwoudescheweg,http://www.wikidata.org/entity/Q18955373
-Poelgeesterstraat,http://www.wikidata.org/entity/Q19427215
 Morschlaan,http://www.wikidata.org/entity/Q19350667
-Van Spiekstraat,http://www.wikidata.org/entity/Q19624398
-Koret-Langestraat,http://www.wikidata.org/entity/Q19312541
-De Meij van Streefkerkstrata,http://www.wikidata.org/entity/Q19010768
-Zuideruchtstraat,http://www.wikidata.org/entity/Q19434687
-Da Coastastraar,http://www.wikidata.org/entity/Q18986344
-Dwars Koornburgsteeg,http://www.wikidata.org/entity/Q19058203
-Pieter de Lacourtstraat,http://www.wikidata.org/entity/Q19413825
-Tiboelsigenbeekstraat,http://www.wikidata.org/entity/Q19566475
-Pres. Strijnstr,http://www.wikidata.org/entity/Q19429582
-Ruyterstraat,http://www.wikidata.org/entity/Q19003279
-Gerad randstraat,http://www.wikidata.org/entity/Q19127853
-Marienpoelstra,http://www.wikidata.org/entity/Q19335978
-M. van Streefkerkstraat,http://www.wikidata.org/entity/Q19010768
-Oranjestr,http://www.wikidata.org/entity/Q19397165
-Cathijnstraat,http://www.wikidata.org/entity/Q18984462
-Hoogendropstraat,http://www.wikidata.org/entity/Q19621091
-Hoogewerod,http://www.wikidata.org/entity/Q2579209
-Mairenpoelstraat,http://www.wikidata.org/entity/Q19335978
-de Mey van Streefkerkstraat,http://www.wikidata.org/entity/Q19010768
-Heiligen Geesthof,http://www.wikidata.org/entity/Q17339595
-Pier de la Courstraat,http://www.wikidata.org/entity/Q19413825
+"Heiligen Geesthof",http://www.wikidata.org/entity/Q17339595
 Serinegnstraat,http://www.wikidata.org/entity/Q19514259
-Zuidzichtstraat,http://www.wikidata.org/entity/Q19434687
-Leeuwkusstraat,http://www.wikidata.org/entity/Q19323839
-Rodenburgertsraat,http://www.wikidata.org/entity/Q19479751
-AMbachtstaat,http://www.wikidata.org/entity/Q105495814
-Musschenborekstraat,http://www.wikidata.org/entity/Q19352062
-Cosijnstr.,http://www.wikidata.org/entity/Q18984463
-Mirakelstaag,http://www.wikidata.org/entity/Q19346889
-Pietershuibershof,http://www.wikidata.org/entity/Q105495786
-Broeckhovenhof,http://www.wikidata.org/entity/Q18974779
-Moelnstraat,http://www.wikidata.org/entity/Q19348665
-St-Joritssteeg,http://www.wikidata.org/entity/Q19515889
-Coornertsraat,http://www.wikidata.org/entity/Q18983002
-Fermossastraat,http://www.wikidata.org/entity/Q19157619
-Pieters Kerk Koorsteeg,http://www.wikidata.org/entity/Q19420845
-Anna Pouwlownestraat,http://www.wikidata.org/entity/Q18937779
-Klavermarkt,http://www.wikidata.org/entity/Q19285447
-Rembrandtstr.,http://www.wikidata.org/entity/Q19464713
-J. v. Lievenstraat,http://www.wikidata.org/entity/Q19277377
-Koornherthstraat,http://www.wikidata.org/entity/Q18983002
-Julia van Stolbergstraat,http://www.wikidata.org/entity/Q19282743
-de Meyvan Streefkerkstraat,http://www.wikidata.org/entity/Q19010768
-de Witte Singel,http://www.wikidata.org/entity/Q2354784
-P. Krügestaat,http://www.wikidata.org/entity/Q19408992
-Gerard Doustraat tt,http://www.wikidata.org/entity/Q19140700
-Medustraat,http://www.wikidata.org/entity/Q19340844
-5e Gorenesteeg,http://www.wikidata.org/entity/Q96142639
-Jacob Dochtershof,http://www.wikidata.org/entity/Q19274800
-Jacob Castlaan,http://www.wikidata.org/entity/Q19273834
-V't Hofstraat,http://www.wikidata.org/entity/Q19626046
-Fr van Mierusstraat,http://www.wikidata.org/entity/Q19159371
-Leege Werfstaat,http://www.wikidata.org/entity/Q19323904
-van de Duijnstraat,http://www.wikidata.org/entity/Q19619594
-V.d. Zande Bakhuijzenlaan,http://www.wikidata.org/entity/Q19619278
-Dwars Korenburgsteeg,http://www.wikidata.org/entity/Q19058203
-verlengde Bloemmistenlaan,http://www.wikidata.org/entity/Q18958101
-Roodenburgstraat,http://www.wikidata.org/entity/Q19479751
-Outerstegracht,http://www.wikidata.org/entity/Q19575486
-Tiebol Siegenbeekestraat,http://www.wikidata.org/entity/Q19566475
-Roemer de Visserstraat,http://www.wikidata.org/entity/Q19476191
-Middelstragracht,http://www.wikidata.org/entity/Q19345561
-van Limburg Stijrumstraat,http://www.wikidata.org/entity/Q19622538
-Ververstraat (plein),http://www.wikidata.org/entity/Q19633766
-Hooge Moswchweg,http://www.wikidata.org/entity/Q19257841
-ten Katenstraat,http://www.wikidata.org/entity/Q19565081
-Jul. v. Stolbergstraat,http://www.wikidata.org/entity/Q19282743
-Huibertshof,http://www.wikidata.org/entity/Q105495786
-'s Heerensteeg,http://www.wikidata.org/entity/Q19249728
-v. Limburg Stierumstraat,http://www.wikidata.org/entity/Q19622538
-Korte Hanzestraat,http://www.wikidata.org/entity/Q19312421
-Baggijnhof,http://www.wikidata.org/entity/Q18944645
-Kolfmatensteeg,http://www.wikidata.org/entity/Q19306154
-Nassuastraat,http://www.wikidata.org/entity/Q19353056
-van Galenstrraat,http://www.wikidata.org/entity/Q19620451
-Ger. Brandstraat,http://www.wikidata.org/entity/Q19127853
-Van de WEfstraat,http://www.wikidata.org/entity/Q19620000
-Lange Schiestraat,http://www.wikidata.org/entity/Q19319904
-Tessleschadestraat,http://www.wikidata.org/entity/Q19565624
 Seringstraat,http://www.wikidata.org/entity/Q19514259
-Pieter Huiberhof,http://www.wikidata.org/entity/Q105495786
-van der Zande Bakhuijzenlaan,http://www.wikidata.org/entity/Q19619278
-jan Vossenstee,http://www.wikidata.org/entity/Q19264185
-1e Binnenvestrgraht,http://www.wikidata.org/entity/Q18925160
-lage Rijndijk.,http://www.wikidata.org/entity/Q19317611
-Concientiusstraat,http://www.wikidata.org/entity/Q19483427
-Terweepakr,http://www.wikidata.org/entity/Q110977040
-Hooglandse Kerkkoorsteeg,http://www.wikidata.org/entity/Q19257350
-van Bankemstraat,http://www.wikidata.org/entity/Q96349478
-Pr Fredrikstraat,http://www.wikidata.org/entity/Q19430242
-Bosoitkade,http://www.wikidata.org/entity/Q18961070
-van de Helmkade,http://www.wikidata.org/entity/Q105495841
-Groenhofstraat,http://www.wikidata.org/entity/Q19207227
+Seringenstr,http://www.wikidata.org/entity/Q19514259
+Seringenstr.,http://www.wikidata.org/entity/Q19514259
+Broeckhovenhof,http://www.wikidata.org/entity/Q18974779
+Broekhovenhof,http://www.wikidata.org/entity/Q18974779
+Klavermarkt,http://www.wikidata.org/entity/Q19285447
+"Jacob Dochtershof",http://www.wikidata.org/entity/Q19274800
+"Jacob Dochteshof",http://www.wikidata.org/entity/Q19274800
+Huigstr.,http://www.wikidata.org/entity/Q96000843
+Hoefstr.,http://www.wikidata.org/entity/Q19253900
+Lokhorststr.,http://www.wikidata.org/entity/Q19329281
+Papestraat,http://www.wikidata.org/entity/Q110983735
