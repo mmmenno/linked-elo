@@ -12,6 +12,7 @@ Deze repository bevat referentiedata waarmee de collecties van Erfgoed Leiden be
 ## Locaties
 
 - [Straten](straten) - dateringen, vernoemingen en koppelingen met de BAG
+- [Straten Katwijk](straten-katwijk) - straatnaamvarianten en een overzicht van in WO2 verdwenen straten
 - [Gebouwen](gebouwen) - rijksmonumenten, BAG en verdwenen gebouwen
 
 ## Gebeurtenissen
