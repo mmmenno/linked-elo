@@ -4,7 +4,7 @@ Hier vind je (binnenkort) naamvarianten en schrijfwijzes van Katwijkse straatnam
 
 ## Atlantikwall
 
-In de oorlogsjaren is de hele Katwijkse kuststrook [gesloopt](https://katwijkinoorlog.nl/de-huizensloop-in-het-kustgebied/) om de Atlantikwall aan te leggen. Na de oorlog is het oorspronkelijke stratenplan deels teruggekomen, maar er zijn ook een aantal straten verdwenen. Het stratenplan van voor de sloop is [hier als geojson](atlantikwall-stratenplan.geosjon) te vinden.
+In de oorlogsjaren is de hele Katwijkse kuststrook [gesloopt](https://katwijkinoorlog.nl/de-huizensloop-in-het-kustgebied/) om de Atlantikwall aan te leggen. Na de oorlog is het oorspronkelijke stratenplan deels teruggekomen, maar er zijn ook een aantal straten verdwenen. Het stratenplan van voor de sloop is [hier als geojson](atlantikwall-stratenplan.geojson) te vinden.
 
 ![Topotijdreis kaart](topotijdreis.jpg)
 
