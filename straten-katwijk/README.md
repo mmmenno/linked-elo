@@ -1,6 +1,6 @@
 # Straten in Katwijk
 
-Hier vind je (binnenkort) naamvarianten en schrijfwijzes van Katwijkse straatnamen, zoals die zijn aangetroffen in Katwijkse politierapporten uit de oorlogsjaren.
+Hier vind je [naamvarianten en schrijfwijzes van Katwijkse straatnamen](straatnaamvarianten-katwijk.csv), zoals die zijn aangetroffen in Katwijkse politierapporten uit de oorlogsjaren.
 
 ## Atlantikwall
 
@@ -14,7 +14,7 @@ Dankzij een aantal kaarten, zoals die hieronder, die ik van het Katwijks Museum 
 
 ![Kaart met percelen](kaart2.jpg)
 
-Deel van het gesloopte stuk van Katwijk. Bekijk voor de alle delen de kaarten [kaart 1](kaart1.jpg), [kaart 2](kaart2.jpg), [kaart 3](kaart3.jpg), [kaart 4](kaart4.jpg), [kaart 5](kaart5.jpg) in deze map.
+Deel van het gesloopte stuk van Katwijk. Bekijk voor alle delen de kaarten [kaart 1](kaart1.jpg), [kaart 2](kaart2.jpg), [kaart 3](kaart3.jpg), [kaart 4](kaart4.jpg), [kaart 5](kaart5.jpg) in deze map.
 
 ## Verdwenen straten Katwijk
 
